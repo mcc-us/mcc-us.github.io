@@ -1,8 +1,7 @@
 ---
-title: Design Draft
-author: Tao He
-date: 2022-02-06
-category: Jekyll
+title: Title
+author: MCC
+date: 2024-06-22
 layout: post
 ---
 
