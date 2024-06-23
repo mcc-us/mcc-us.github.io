@@ -1,6 +1,11 @@
 ---
 layout: home
-title: Matt's QBO Learning
+title: QuickBooks Online Learning
 permalink: /
 ---
 
+This site is my notes for learning QuickBooks Online.
+
+|Internal Links|
+|:-|
+||
