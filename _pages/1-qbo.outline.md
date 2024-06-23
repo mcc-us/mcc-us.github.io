@@ -10,7 +10,7 @@ This outline was produced with the help of Gemini AI.
 
 This outline is designed to help you learn QuickBooks Online (QBO) in a way that aligns with a college-level Fundamentals of Accounting course. It follows a step-by-step approach, similar to the accounting cycle:
 
-## 1. Setting Up Your Company:
+## 1. Setting Up Your Company
 
 - Company Information: Enter basic company details like name, address, and contact information.
 
@@ -20,7 +20,7 @@ This outline is designed to help you learn QuickBooks Online (QBO) in a way that
 
 - Banking: Connect your bank accounts to QBO for easy transaction recording and reconciliation.
 
-## 2. Recording Transactions:
+## 2. Recording Transactions
 
 - Sales: Create invoices for customers, recording sales of goods or services.
         Understand how to handle sales taxes (if applicable).
@@ -32,14 +32,14 @@ This outline is designed to help you learn QuickBooks Online (QBO) in a way that
 
 - Deposits: Record deposits received from customers for invoices or other income sources.
 
-## 3. Reconciling Bank Statements:
+## 3. Reconciling Bank Statements
 
 - Match Transactions: Compare QBO transactions with your bank statement to ensure accuracy.
         Understand outstanding checks, deposits in transit, and bank fees.
 
 - Reconcile Accounts: Mark transactions as cleared and reconcile your bank accounts in QBO.
 
-## 4. Reports and Analysis:
+## 4. Reports and Analysis
 
 - Profit & Loss (P&L) Report: Analyze your business profitability by reviewing the P&L report.
         Understand the components of revenue, cost of goods sold, expenses, and net income.
@@ -49,7 +49,7 @@ This outline is designed to help you learn QuickBooks Online (QBO) in a way that
 
 - General Ledger: View a detailed record of all your transactions categorized by account.
 
-## 5. Additional Features (Optional):
+## 5. Additional Features (Optional)
 
 - Inventory Management: Track inventory levels and manage stock if your business requires it.
 
@@ -59,7 +59,7 @@ This outline is designed to help you learn QuickBooks Online (QBO) in a way that
 
 - Bill Pay: Pay vendors directly through QBO with connected bank accounts (if applicable).
 
-## Learning Resources:
+## Learning Resources
 
 - QuickBooks Online Help Center: Extensive resources, tutorials, and guides provided by Intuit.
 
@@ -84,5 +84,3 @@ Benefits of this Approach:
 - Enhanced Skills: Equips you to confidently use QBO for accurate financial management.
 
 By following this outline and utilizing the provided resources, you can effectively learn QuickBooks Online while solidifying your accounting fundamentals.
-
-
