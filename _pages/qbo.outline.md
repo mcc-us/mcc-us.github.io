@@ -1,6 +1,6 @@
 ---
 title: Learning Outline
-date: 2022-02-04
+date: 2024-06-22
 category: qbo
 layout: post
 ---
