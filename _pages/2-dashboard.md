@@ -1,7 +1,6 @@
 ﻿---
 title: Dashboard Guide
 date: 2024-06-22
-category: qbo
 layout: post
 ---
 
