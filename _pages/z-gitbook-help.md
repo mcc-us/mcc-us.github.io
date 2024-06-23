@@ -13,7 +13,9 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 ### Add non-breaking space: 
 
-`&nbsp;`
+```
+&nbsp;
+```
 
 
 ### PDF Containers
@@ -27,44 +29,27 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 ### 3 Blocks
 
->#### green tip
->
-> green tip
-{: .block-tip }
 
 ```
 > #### green tip
->
-> green tip
 {: .block-tip }
 ```
 
-
 ```
 > #### yellow warning
->
-> yellow warning
 {: .block-warning }
 ```
 
-
 ```
 > #### red danger
->
-> red danger
 {: .block-danger }
 ```
 
-| :warning: White box :warning: |
-|:---------:|
-| White box |
-
 ```
 | :warning: White box :warning: |
 |:---------:|
 | White box |
 ```
-
 
 
 ### Emojis
@@ -129,6 +114,9 @@ foo(3)
 </div>
 ```
 
+### Dictionary  
+
+```
 <dl>
   <dt>QBO</dt>
   <dd>This is the definition of the first term.</dd>
@@ -136,4 +124,4 @@ foo(3)
   <dd>This is one definition of the second term.</dd>
   <dd>This is another definition of the second term.</dd>
 </dl>
-
+```
