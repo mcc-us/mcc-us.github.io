@@ -5,7 +5,7 @@ tags: qbo
 --- 
 
 
-## Quickbooks-Online Dashboard Reference Guide
+## Dashboard Guide
 
 See Udemy course
 
@@ -15,8 +15,7 @@ QBO Test drive - [https://qbo-intuit.com/redir/testdrive](https://qbo.intuit.com
 
 ![List of Actions](/assets/calvin.lee.udemy/QBO-adding-new.png)
 
-
-## Section 2: Using QBO 
+## Section 2: Using QBO
 
 The Chart of Accounts: adding accounts in QBO
 
@@ -28,7 +27,7 @@ The Chart of Accounts: adding accounts in QBO
 1. Access reports such as the Profit & Loss Statement:
    - On the left panel, select Reports>Reports
 
-## Section 3: Customers: 
+## Section 3: Customers
 
 > Set up Invoices, Estimates, Get Paid, Adjustments to invoices, Receipt of payments, Sales receipts
 {: .block-tip }
@@ -98,11 +97,10 @@ The Chart of Accounts: adding accounts in QBO
 
 4. Bank Feed - Matching Bank Transactions:
    - Bank Transactions>Goto Category or Match>Choose transaction>Match
-   
+  
 5. receipt.forwarding.ex
 
 ![receipt.forwarding.ex](/assets/calvin.lee.udemy/receipt.forwarding.ex.png)
-
 
 ## Section 6: Payroll Overview: Using Payroll to pay employees
 
@@ -110,10 +108,9 @@ The Chart of Accounts: adding accounts in QBO
 
 1. Adding an employee
    - On the left panel, select Payroll/Employee/Add an Employee/Pay or Profile or Employment / Add info /Save
-   
+
 1. Running Payroll in QBO
    - On the left panel, select Payroll/Employees/Run Payroll (On Right), and pay by paper check or direct deposit.
-
 
 ## Section 7 TAXES
 
@@ -130,33 +127,36 @@ The Chart of Accounts: adding accounts in QBO
 1. Recording sales tax in a sales transaction
    - On top right <+New>/Customer/Invoice/add info/
 
-32. Recording sales tax in an expense transaction
-   -  On the left panel, select <New>/Vendors/Expense/{New window}/Select Payee/Payment act./Select Act. category/from Cat. details/amount/Is tax applicable?/Select Product service or item/Add notes/Attach contract or quote, etc./Save 
-   
-33. Sales Tax Summary report, how to find taxable sales
+1. Recording sales tax in an expense transaction
+
+- On the left panel, select <New>/Vendors/Expense/{New window}/Select Payee/Payment act./Select Act. category/from Cat. details/amount/Is tax applicable?/Select Product service or item/Add notes/Attach contract or quote, etc./Save 
+
+1. Sales Tax Summary report, how to find taxable sales
+
    - On left side click Reports/{you can use search box, example taxable}/Choose taxable sales summary or detail/
    - It is possible to drill down into details by clicking any sales item.
    - It is possible to choose different periods...
    - Reports can be saved!
    - Groupby...
-   
-34. Sales Tax Liability report, to help file taxes
-   - On left side click Reports/Search <Sales Tax Liability Report>/...
-   
-35. Recording sales tax payment, how to file taxes!
-   - On left side click Taxes module/Goes to Sales Tax Center/Sales Tax Owed/Choose Accounting Basis: Accrual or Cash/choose period/
+
+1. Sales Tax Liability report, to help file taxes
+
+- On left side click Reports/Search <Sales Tax Liability Report>/...
+
+1. Recording sales tax payment, how to file taxes!
+
+- On left side click Taxes module/Goes to Sales Tax Center/Sales Tax Owed/Choose Accounting Basis: Accrual or Cash/choose period/
    - Good for quarterly tax payments
-   
-### Section 8: Examples & Practice: Sales & Customers
 
+## Section 8: Examples & Practice: Sales & Customers
 
-36. Injecting capital (money) to start a company:
+1. Injecting capital (money) to start a company:
    - DR Asset/bank account and then CR to Equity act
    - On top right <+New>/Journal entry/Choose line #1/Bank act checking or savings/Add description/Save & close.
    - To follow up goto Chart of Acts & check for DR. as well as a CR for 'Share Capital'
 
+1.  Purchasing Inventory on account
 
-37. Purchasing Inventory on account
    - On top right <+New>/Journal entry (screen)/ Enter into acct./Add: Inventory asset 
    - Ex. DR Inventory $1k
    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CR A/P $1k
@@ -164,8 +164,8 @@ The Chart of Accounts: adding accounts in QBO
 
 To Double check: Goto Chart of Accts by using Accounting on bottom left. 
 
+1. Making sales to customers:
 
-38. Making sales to customers:
    - Ex. you sell $100 receiving cash
    - DR Asset/cash 
    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CR sales/revenue $100
@@ -173,26 +173,5 @@ To Double check: Goto Chart of Accts by using Accounting on bottom left.
    - There are several ways to enter sales, Invoice + receive payment OR 'Sales receipt' 
    - QBO sets up Invoice like register.
    - Companies can sell 1. Non-inventory 2. Service 3. Bundle both parts and service
-   - 
 
-
-39. Promoting your business Via Advertising Exp.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. Promoting your business Via Advertising Exp.
