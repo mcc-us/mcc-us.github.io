@@ -4,7 +4,9 @@ title: QuickBooks Online Learning
 permalink: /
 ---
 
-This site is my notes for learning QuickBooks Online.
+[mcc-us.github.io/mc.qbo](https://mcc-us.github.io/mc.qbo/) has my notes for QuickBooks Online
+
+
 
 |Internal Links|
 |:-|

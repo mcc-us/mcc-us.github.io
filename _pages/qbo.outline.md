@@ -7,7 +7,6 @@ layout: post
 
 This outline was produced with the help of Gemini AI.
 
----
 
 This outline is designed to help you learn QuickBooks Online (QBO) in a way that aligns with a college-level Fundamentals of Accounting course. It follows a step-by-step approach, similar to the accounting cycle:
 
