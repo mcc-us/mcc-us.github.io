@@ -1,19 +1,10 @@
 # Configurations
-<<<<<<< HEAD
 title:            QuickBooks Online Info
 longtitle:        
 author:           Matt CC
 email:            mcurcio@duck.com
 # description: >
   
-=======
-title:            MCCs QBO Notes
-longtitle:
-author:           MCC
-email:            MCURCIO@DUCK.COM
-description: >
-  Matt Learns QBO
->>>>>>> d64e0ea (major folder changes)
 
 version:          1.0
 gitbook_version:  3.2.3
