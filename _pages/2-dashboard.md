@@ -6,7 +6,7 @@ layout: post
 ---
 
 
-https://qbo-intuit.com/redir/testdrive 
+[testdrive](https://qbo-intuit.com/redir/testdrive)
 
 1. Creating Customers And Maintaining Customer Information:
 
@@ -42,7 +42,7 @@ https://qbo-intuit.com/redir/testdrive 
 
 1. Gear Icon on top-right give additional settings
 
-#### Customers: How to Set Up Customers, Send Invoices, …
+## Customers: How to Set Up Customers, Send Invoices, …
 
 1. Create Product Lines & Services Lines to sell:
 
@@ -64,7 +64,7 @@ https://qbo-intuit.com/redir/testdrive 
 
 - On the left panel, select “+ New”>Customers>Sales receipt
 
-#### Section: Supplies/Vendors Setup, etc
+## Section: Supplies/Vendors Setup, etc
 
 Up Customers, Send Invoices, and...
 1. How to Input A Bill From A Supplier:
@@ -79,7 +79,7 @@ Up Customers, Send Invoices, and...
 
 - On the left panel, select “+ New”>Vendors>Expense, 
 
-### Reconciling Bank accounts
+## Reconciling Bank accounts
 
 1. Recording an  Bank Feed - Linking Your Bank Account To QBO:
 
