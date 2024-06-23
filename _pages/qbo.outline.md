@@ -1,4 +1,11 @@
-I have taken a college course on the Fundamentals of Accounting. I am now a bookkeeper. I am knowledgeable in the basic of bookkeeping. I would like to find a learn flow chart that would teach me how to use Quick-books Online in a manner that is congruent to a Fundamentals of Accounting college level course. I would like this flow chart or outline to closely follow the steps in a normal college level course. Could you help me prepare an outline?
+---
+title: Outline
+date: 2022-02-04
+category: qbo
+layout: post
+---
+
+This outline was produced with the help of Gemini AI.
 
 ---
 
