@@ -1,6 +1,6 @@
 ﻿---
-title: Dashboard Guide
-date: 2024-06-22
+title: Dashboard
+date: 2024-06-23
 layout: post
 ---
 
