@@ -1,5 +1,5 @@
 ---
-title: Outline
+title: Learning Outline
 date: 2022-02-04
 category: qbo
 layout: post
@@ -8,8 +8,6 @@ layout: post
 This outline was produced with the help of Gemini AI.
 
 ---
-
-# QuickBooks Online Learning Outline (Fundamentals of Accounting Approach)
 
 This outline is designed to help you learn QuickBooks Online (QBO) in a way that aligns with a college-level Fundamentals of Accounting course. It follows a step-by-step approach, similar to the accounting cycle:
 
