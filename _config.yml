@@ -3,8 +3,8 @@ title:            QuickBooks Online Info
 longtitle:        
 author:           Matt CC
 email:            mcurcio@duck.com
-description: >
-  QuickBooks Learning Info
+# description: >
+  
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -54,7 +54,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-page_width: 800px
+page_width: 1000px
 
 destination:      ./_site
 incremental:      false
