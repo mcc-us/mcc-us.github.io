@@ -61,30 +61,42 @@ https://github-emoji-picker.rickstaa.dev/
 
 ### Links
 
-`[Absolute link to a page](https://mcc-us.github.io/2020-02-28-sample-markdown/)`
+```
+[Absolute link to a page](https://mcc-us.github.io/2020-02-28-sample-markdown/)
+```
 
-`[Relative link to a section inside a page](#local-urls)`
+```
+[Relative link to a section inside a page](#local-urls)
+```
 
 
 ### Bookmark Links on the Same Page
 
 If you want to link to a heading on the same page, first add an ID tag to the header like this:
 
-```## Headings with ID Tags {#someIdTag}```
+```
+## Headings with ID Tags {#someIdTag}
+```
 
 Then reference it with a normal Markdown link:
 
-```[Some link](#someIdTag)```
+```
+[Some link](#someIdTag)
+```
 
 
 
 ### Pictures
 
-`![lion](/assets/img/lion_head-144x144.png)`
+```
+![lion](/assets/img/lion_head-144x144.png)
+```
 
 Images can also be centered!
 
-`![lion](/assets/img/lion_head-144x144.png){: .mx-auto.d-block :}`
+```
+![lion](/assets/img/lion_head-144x144.png){: .mx-auto.d-block :}
+```
 
 |ImageTitle|
 |:-:|
