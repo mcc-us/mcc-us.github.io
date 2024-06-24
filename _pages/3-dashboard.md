@@ -1,13 +1,12 @@
 ---
-title: Dashboard
+title: Dashboard Notes
 date: 2024-06-22
 category: qbo
 layout: post
 ---
 
-This outline was produced with the help of Gemini AI.
 
-https://qbo-intuit.com/redir/testdrive
+
 
 1. Creating Customers And Maintaining Customer Information:
 

@@ -4,10 +4,14 @@ title: QuickBooks Online Learning
 permalink: /
 ---
 
-[mcc-us.github.io/mc.qbo](https://mcc-us.github.io/mc.qbo/) has my notes for QuickBooks Online
-
+**Notes for QuickBooks Online**: [mcc-us.github.io/mc.qbo](https://mcc-us.github.io/mc.qbo/)
 
 
 |Internal Links|
 |:-|
-||
+|Setting Up Your Company|
+|Recording Transactions|
+|Reconciling Bank Statements|
+|Reports and Analysis|
+|Additional Features|
+|Learning Resources|
