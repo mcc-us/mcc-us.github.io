@@ -6,7 +6,8 @@ layout: post
 ---
 
 
-
+1. Creating Chart of Acts:
+   - left panel, Accounting>Chart of Acts
 
 1. Creating Customers And Maintaining Customer Information:
    - On the left panel, select Sales>Customers
@@ -59,10 +60,10 @@ Up Customers, Send Invoices, and...
    - On the left panel, select “+ New”>Vendors>Bill, set bill number from invoice, choose the category of the expense,
 
 1. Recording Payment To A Supplier:
-   - On the left panel, select “+ New”>>Vendors>Pay Bills, 
+   - On the left panel, select “+ New”>>Vendors>Pay Bills,
 
 1. Recording an Expense in QuickBooks;
-   - On the left panel, select “+ New”>Vendors>Expense, 
+   - On the left panel, select “+ New”>Vendors>Expense,
 
 ## Reconciling Bank accounts
 
@@ -70,7 +71,7 @@ Up Customers, Send Invoices, and...
    - On the left panel, select “+ New”>Bank Transactions>Link Account>Choose Bank>...
 
 1. Recording an Bank Feed - Adding Bank Transactions To QBO:
-   - On the left panel, select “+ New”>Vendors>Expense, 
+   - On the left panel, select “+ New”>Vendors>Expense,
 
 1. How to Reconcile Bank Acts:
    - First obtain bank statement, On the top-right gear, Tools>Reconcile>Enter $ and dates
