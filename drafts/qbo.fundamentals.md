@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=fO9oL_9duU4
 
 ---
 
-files to use are Craig's Landscaping co. 
+files to use are Craig's Landscaping co.
 qbo.intuit.com/redit/testdrive
 
 or
@@ -63,7 +63,7 @@ Is it for the taxes or do you want to understand your business?
 The more time you spend daily the less the chances are is that you will need to spend a whole day or two at the end of the month.
 
 
-At the End of DAY Always: 
+At the End of DAY Always:
 1. Sales receipts
 2. invoivces
 3. payments
@@ -83,42 +83,10 @@ At the End of DAY Always:
 Warning: Do not guess if you have problems with the books. Call the Account, etc for clarification
 
 
+---
 
+How To Use Quickbooks Online (2024): Easy Beginner's Guide To Mastering Quickbooks | learnwithpre
 
+https://www.youtube.com/watch?v=dZ_Q6lmAZw4
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
