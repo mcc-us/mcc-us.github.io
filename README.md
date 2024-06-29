@@ -1,9 +1,17 @@
 ---
 layout: home
-title: QuickBooks Online Learning
+title: QuickBooks Learning
 permalink: /
 ---
 
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  window.open("https://www.w3schools.com");
+}
+</script>
 
 |Internal Links|
 |:-|
