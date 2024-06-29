@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-<button onclick="myFunction()">Try it</button>
+<button onclick="myFunction()">w3schools.com</button>
 
 <script>
 function myFunction() {
