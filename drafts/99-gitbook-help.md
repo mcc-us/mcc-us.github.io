@@ -18,6 +18,16 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 &nbsp;
 ```
 
+### Buttons Open New Tab
+
+<button onclick="myFunction()">w3schools.com</button>
+
+<script>
+function myFunction() {
+  window.open("https://www.w3schools.com");
+}
+</script>
+
 
 ### PDF Containers
 
