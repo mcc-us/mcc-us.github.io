@@ -20,11 +20,10 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 ### Buttons Open New Tab
 
-<button onclick="myFunction()">w3schools.com</button>
-
+<button onclick="buttonFunc()">w3schools.com</button>
 <script>
-function myFunction() {
-  window.open("https://www.w3schools.com");
+function buttonFunc() {
+  window.open("link");
 }
 </script>
 
