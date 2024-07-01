@@ -5,4 +5,6 @@ category: qbo
 layout: post
 ---
 
-![](2-dashbord.pix.md)
+![](/assets/images/)
+    
+    2-dashbord.pix.md)
