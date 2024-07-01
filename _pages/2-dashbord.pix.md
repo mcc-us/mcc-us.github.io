@@ -7,4 +7,4 @@ layout: post
 
 ![](/assets/images/)
     
-    2-dashbord.pix.md)
+2-dashbord.pix.md
