@@ -167,12 +167,12 @@ To Double check: Goto Chart of Acts by using Accounting on bottom left.
 
 1. Making sales to customers:
 
-- Ex. you sell $100 receiving cash
-- DR Asset/cash 
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CR sales/revenue $100
-- On top right <+New>/
-- There are several ways to enter sales, Invoice + receive payment OR 'Sales receipt'
-- QBO sets up Invoice like register.
-- Companies can sell 1. Non-inventory 2. Service 3. Bundle both parts and service
+- Ex. you sell $100 receiving cash  
+- DR Asset/cash  
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CR sales/revenue $100  
+- On top right <+New>/  
+- There are several ways to enter sales, Invoice + receive payment OR 'Sales receipt'  
+- QBO sets up Invoice like register.  
+- Companies can sell 1. Non-inventory 2. Service 3. Bundle both parts and service  
 
-1. Promoting your business Via Advertising Exp.
+1. Promoting your business Via Advertising Exp.  

@@ -1,12 +1,12 @@
 # QBO Bootcamp 2022 - How to master QuickBooks Online in a flash | Course Preview
 
-https://www.youtube.com/watch?v=fO9oL_9duU4
-
+[](https://www.youtube.com/watch?v=fO9oL_9duU4)
 
 ## Fundamentals of using QBO
-   - How to use it?
 
-#### Core Modules
+    - How to use it?
+
+## Core Modules
 
 - Getting Started: I'll highlight the significance of proper bookkeeping, guide you in selecting the best QBO version, and walk you through the initial setup.
 
@@ -23,13 +23,11 @@ https://www.youtube.com/watch?v=fO9oL_9duU4
 ---
 
 files to use are Craig's Landscaping co.
-qbo.intuit.com/redit/testdrive
+[](qbo.intuit.com/redit/testdrive)
 
 or
 
-https://quickbooks.intuit.com/learn-support/en-us/help-article/small-business-processes/test-drive-quickbooks-online/L9C12ODlA_US_en_US
-
-
+[test-drive](https://quickbooks.intuit.com/learn-support/en-us/help-article/small-business-processes/test-drive-quickbooks-online/L9C12ODlA_US_en_US)
 
 
 BK allows you to do the job of selling and allows you to be passionate about your goal.
@@ -47,14 +45,11 @@ Q. Do you know what to do in the Unusual circumstances?
 Q. Do you have the time? Is it better spent on ...?
 Many times all you need is once a month.
 
-
 If you answered NO then hire a BK!
-
 
 ### Pareto Principle 80/20
 
 20% of customers give you 80% business.
-
 
 ### What should QB do for you or what should it tell you?
 
@@ -62,31 +57,28 @@ Is it for the taxes or do you want to understand your business?
 
 The more time you spend daily the less the chances are is that you will need to spend a whole day or two at the end of the month.
 
-
 At the End of DAY Always:
-1. Sales receipts
-2. invoivces
-3. payments
-4. Make Deposits
-5. Accept you banking transactions
 
+1. Sales receipts  
+2. Invoivces  
+3. Payments  
+4. Make Deposits  
+5. Accept you banking transactions  
 
 #### 5 essential reports
 
 1. Daily/monthly/YTD profit and loss (income statement)
-2. Sales reports by prodcut or by customer
+2. Sales reports by product or by customer
 3. Acts receivable
 4. Acts payable
 5. Balance Sheet & Cash on Hand
 
-
 Warning: Do not guess if you have problems with the books. Call the Account, etc for clarification
-
 
 ---
 
 How To Use Quickbooks Online (2024): Easy Beginner's Guide To Mastering Quickbooks | learnwithpre
 
-https://www.youtube.com/watch?v=dZ_Q6lmAZw4
+[](https://www.youtube.com/watch?v=dZ_Q6lmAZw4)
 
 ---
