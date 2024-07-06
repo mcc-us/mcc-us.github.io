@@ -1,12 +1,12 @@
 ---
-title: Setting Up Your Company
+title: Setting Up A Company
 author: MCC
 date: 2024-06-23
 layout: post
 ---
 
 
-## 1. Setting Up Your Company
+## 1. Setting Up A Company
 
 - Company Information: Enter company details: name, address, contact information, etc.
 
