@@ -82,3 +82,12 @@ Benefits of this Approach:
 - Practical Application: Links theoretical knowledge to real-world bookkeeping tasks.
 
 - Enhanced Skills: Equips you to confidently use QBO for accurate financial management.
+
+
+---
+
+
+## Workflows for onboarding clients to QuickBooks Online
+
+
+
