@@ -19,7 +19,7 @@ layout: post
   2. `+New` on the top-left: opens menu for day-to-day tasks
   3. `Left panel menu`: Accountant view or Business view
 
-![getting-things-done](/assets/images/getting-things-done.BIG.png)
+![getting things done](/assets/images/getting-things-done.BIG.png)
 
 
 ### 1. Settings
