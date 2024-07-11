@@ -63,6 +63,9 @@ layout: post
 |:--:|
 |![](/assets/images/3.new.chart.of.accounts.button.png)|
 
+[](/assets/images/3.new.chart.of.accounts.button.png)
+
+[](https://github.com/mcc-us/qbo/blob/main/assets/images/3.new.chart.of.accounts.button.png)
 
 ## 26:10  Chapter 4: Input & Managing Customer Data 
 
