@@ -61,7 +61,7 @@ layout: post
 
 |COA Options|
 |:--:|
-|![new.chart.of.accounts.button](/assets/images/3.new.chart.of.accounts.button.png)|
+|![](/assets/images/3.new.chart.of.accounts.button.png)|
 
 
 ## 26:10  Chapter 4: Input & Managing Customer Data 
