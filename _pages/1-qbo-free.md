@@ -61,21 +61,18 @@ layout: post
 
 |COA Options|
 |:--:|
-|![](/assets/images/3.new.chart.of.accounts.button.png)|
+|![3.new.coa](/assets/images/3.new.chart.of.accounts.button.png)|
 
-[](/assets/images/3.new.chart.of.accounts.button.png)
-
-[](https://github.com/mcc-us/qbo/blob/main/assets/images/3.new.chart.of.accounts.button.png)
 
 ## 26:10  Chapter 4: Input & Managing Customer Data 
 
 
 |Input & Managing Customer Data|
 |:--:|
-|![input.cust.data](/assets/images/4.1.input.cust.vendor.data.png)|
-|![input.cust.data](/assets/images/4.2.input.cust.vendor.data.png)|
-|![input.multi.cust.data](/assets/images/4.4.input.multi.cust.data.png)|
-|![input.vendor.data](/assets/images/4.3.input.vendor.data.png)|
+|![4.1.input.cust.data](/assets/images/4.1.input.cust.vendor.data.png)|
+|![4.2.input.cust.data](/assets/images/4.2.input.cust.vendor.data.png)|
+|![4.4.input.multi.cust.data](/assets/images/4.4.input.multi.cust.data.png)|
+|![4.3.input.vendor.data](/assets/images/4.3.input.vendor.data.png)|
 
 
 
@@ -84,21 +81,22 @@ layout: post
 
 |Input & Manage Products & Services Lists|
 |:--:|
-|![Accountant](/assets/images/5.1.sales.prods.services.lists.png)|
-|![Accountant](/assets/images/5.2.sales.prods.services.types.png)|
+|![5.1.sales.prods.services.lists](/assets/images/5.1.sales.prods.services.lists.png)|
+|![5.2.sales.prods.services.types](/assets/images/5.2.sales.prods.services.types.png)|
 
 **Congrats Setting QBO Is Complete and you are ready for Business!**
 
 
-## 40:05 Chapter 6: The 1st Transaction OR Creating An Invoice 
+## 40:05 Chapter 6: Creating An Invoice (1st Transaction)
 
-40:05 ASIDE: Make Custom REPORTS
-45:27 REAL INVOICE
+40:05 ASIDE: Make Custom REPORTS  
+45:27 REAL INVOICE  
 
 |Creating An Invoice|
 |:--:|
-|Example: On Jan 1, Video taped 10 hrs Service for cuastomer Alan Arby ON ACCOUNT</br>![Accountant](/assets/images/6.1.create.invoices.png)|
-|![Accountant](/assets/images/6.2.create.invoices.png)|
+|**Example**: On Jan 1, Videotaped 10 hrs Service for customer 'A' ON ACCOUNT|
+|![create.invoices1](/assets/images/6.1.create.invoices.png)|
+|![create.invoices2](/assets/images/6.2.create.invoices.png)|
 
 
 
