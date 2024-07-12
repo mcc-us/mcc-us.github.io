@@ -34,15 +34,19 @@ layout: post
 |**Find COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
 |:--:|
 |![3.new.coa](/assets/images/3.new.chart.of.accounts.button.png)|
-
+|![4.1.input.cust.data](/assets/images/3.new.coa.png)|
 
 ### 26:10  - Input & Manage Customer/Vendor Data
 
 1. Generate List of Customer/Vendor
+   
+2. Add Accounts or Change Names 
+
+3. **Find Customer**: Tools/`Sales`/`Transactions`/`Chart of Accounts`   
 
 |Input & Managing Customer Data|
 |:--:|
-|![4.1.input.cust.data](/assets/images/4.1.input.cust.vendor.data.2.png)|
+|![4.new.cust.data](/assets/images/4.cust.data.png)|
 |![4.2.input.cust.data](/assets/images/4.2.input.cust.vendor.data.png)|
 |![4.4.input.multi.cust.data](/assets/images/4.4.input.multi.cust.data.png)|
 |![4.3.input.vendor.data](/assets/images/4.3.input.vendor.data.png)|
