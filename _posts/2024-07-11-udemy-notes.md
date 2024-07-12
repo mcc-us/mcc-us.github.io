@@ -1,6 +1,6 @@
 ---
-title: Dashboard Notes
-date: 2024-06-22
+title: Udemy Notes
+date: 2024-07-11
 category: qbo
 layout: post
 ---
