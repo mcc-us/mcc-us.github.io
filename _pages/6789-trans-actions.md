@@ -87,8 +87,8 @@ Payroll / Employee info, act tax payable, hours tax
 
 
 
-### 8-58:35 Finding & Fixing Mistakes
+### 8-58:35 8-Finding & Fixing Mistakes
 
 
 
-### 1:03:42 Deleting Transactions
+### 1:03:42 9-Deleting Transactions
