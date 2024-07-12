@@ -25,6 +25,50 @@ layout: post
 See Customer Balance Detail, list of customers that owe you!
 
 
+6. Creatint an Invoice
+
+
+
+An invoice with effect the COA of gen ledger
+
+
+Aside: Set up: Trial Balance Report
+
+
+Tools Reports / Std / Custom / Managment reports
+
+
+Reports / Std / `For my accountant` / `Trial Balance` / Star 
+
+
+
+## Reports:
+
+Customer report builder
+
+Favorites
+
+Business overview
+
+Who owes who / A/Receivable
+
+Sales and Cusomters
+
+What we owe / A/Payable
+
+Expanes and Vendors / 1099
+
+Employees / Times
+
+For my accountnat   / Gen.Kedger / PL / Trial Balance /Recurring Template list / Reconcilation Reports / Adjusted TB
+
+Payroll / Employee info, act tax payable, hours tax 
+
+
+
+
+
+
 #### 56:22 7-First Transaction (Practice)
 
 
