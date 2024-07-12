@@ -26,15 +26,15 @@ layout: post
 >**NOTE**: It is not possible to make some accounts inactive  
 {: .block-warning } 
 
->**Returning Inactive COA Accounts to Active**: Goto Gear by COA & choose Active  
+>**Returning Inactive COA Accounts to Active**: Goto Gear by COA, choose `Active`  
 {: .block-warning }
 
 |**Find COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
 |:--:|
 |![3.new.coa](/assets/images/3.new.chart.of.accounts.button.png)|
-|![4.1.input.cust.data](/assets/images/3.new.coa.png)|
+|![4.1.input.customer.data](/assets/images/3.new.coa.png)|
 
-### 26:10  - Input & Manage Customer/Vendor Data
+### 26:10  - Customer Data
 
 1. Generate List of Customer/Vendor
    
@@ -49,8 +49,9 @@ layout: post
 |![4.4.input.multi.cust.data](/assets/images/4.4.input.multi.cust.data.png)|
 |![4.3.input.vendor.data](/assets/images/4.3.input.vendor.data.png)|
 
+### 00:00 - Vendor Data
 
-- **34:07 - Input & Manage Products & Services Lists**
+### 34:07 - Products & Services, Input & Manage 
 
 
 |Input & Manage Products & Services Lists|
