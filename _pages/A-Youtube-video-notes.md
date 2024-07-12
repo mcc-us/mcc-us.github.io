@@ -37,78 +37,6 @@ layout: post
 ## 1:03:42  Chapter 9: Deleting Transactions In QuickBooks Online 
 
 
-## 1:09:16 Chapter 10: Receiving Invoice Payments 
-
-
-
-
-## 1:18:54  Chapter 11: How To Enter Sales Receipts 
-
-
-
-
-## 1:26:28  Chapter 12: Customize QuickBooks Reports With The Journal 
-
-
-
-## 1:38:11  Chapter 13: Practice Transactions with Customers And Receivables 
-
-
-
-## 1:44:05  Chapter 14: What Is Accounts Payable? 
-
-
-
-
-## 1:47:07  Chapter 15: Entering Vendor’s Bills 
-
-
-
-
-## 1:54:08  Chapter 16: Practice Enter Bills Exercise
-
-
-
-
-
-## 1:57:23  Chapter 17: Paying Bills From Vendors 
-
-
-
-## 2:05:22  Chapter 18: How To Record Checks And Expenses 
-
-
-
-## 2:12:44  Chapter 19: Cash Transactions And Petty Cash 
-
-
-## 2:22:04  Chapter 20: Practice Vendor And Expense Transactions 
-
-
-## 2:27:51   Chapter 21: Bank Deposits 
-
-
-## 2:35:44   Chapter 22: Deposits With Cash Back 
-
-
-
-## 2:41:45   Chapter 23: Managing Undeposited Funds 
-
-
-## 2:58:54   Chapter 24: How To Edit A Deposit With The Deposit Detail Report 
-
-
-## 3:07:19   Chapter 25: How To Use The Advanced Search Tool 
-
-
-
-## 3:13:47   Chapter 26: How To Use The Audit Log 
-
-
-
-## 3:27:38   Chapter 27: QuickBooks Online Final Exam 
-
-
 
 
 ---
@@ -116,38 +44,38 @@ layout: post
 
 ## Appendix 1
 
-https://www.youtube.com/watch?v=aoWghI3kvpc
-QuickBooks Online Complete Tutorial
+https://www.youtube.com/watch?v=aoWghI3kvpc  
+QuickBooks Online Complete Tutorial  
 
-Timestamps: 
-00:00 Intro
-1:45 Navigate The QuickBooks Online Interface 
-9:10 Adjust Company Settings and adjust Account Settings
-16:22 Manage The QuickBooks Online Chart Of Accounts
-26:10 Managing Customer And Vendor Data 
-34:07 Managing The List Of Products And Services 
-40:05 Entering Your First Transaction, Creating An Invoice 
-56:22 First QuickBooks Transaction Practice
-58:35 Finding And Fixing QuickBooks Online Mistakes 
-1:03:42 Delete Transactions In QuickBooks Online 
-1:09:16 Receiving Invoice Payments 
-1:18:54 How To Enter Sales Receipts 
-1:26:28 Customize QuickBooks Reports With The Journal 
-1:38:11 Practice Transactions with Customers And Receivables 
-1:44:05 What Is Accounts Payable? 
-1:47:07 Entering Vendor’s Bills 
-1:54:08 Practice Enter Bills Exercise
-1:57:23 Paying Bills From Vendors 
-2:05:22 How To Record Checks And Expenses 
-2:12:44 Cash Transactions And Petty Cash 
-2:22:04 Practice Vendor And Expense Transactions 
-2:27:51 Bank Deposits 
-2:35:44 Deposits With Cash Back 
-2:41:45 Managing Undeposited Funds 
-2:58:54 How To Edit A Deposit With The Deposit Detail Report 
-3:07:19 How To Use The Advanced Search Tool 
-3:13:47 How To Use The Audit Log 
-3:27:38 QuickBooks Online Final Exam 
+Timestamps:   
+00:00 Intro  
+1:45 Navigate The QuickBooks Online Interface   
+9:10 Adjust Company Settings and adjust Account Settings  
+16:22 Manage The QuickBooks Online Chart Of Accounts  
+26:10 Managing Customer And Vendor Data   
+34:07 Managing The List Of Products And Services   
+40:05 Entering Your First Transaction, Creating An Invoice  
+56:22 First QuickBooks Transaction Practice  
+58:35 Finding And Fixing QuickBooks Online Mistakes  
+1:03:42 Delete Transactions In QuickBooks Online  
+1:09:16 Receiving Invoice Payments  
+1:18:54 How To Enter Sales Receipts  
+1:26:28 Customize QuickBooks Reports With The Journal  
+1:38:11 Practice Transactions with Customers And Receivables  
+1:44:05 What Is Accounts Payable?  
+1:47:07 Entering Vendor’s Bills  
+1:54:08 Practice Enter Bills Exercise 
+1:57:23 Paying Bills From Vendors  
+2:05:22 How To Record Checks And Expenses  
+2:12:44 Cash Transactions And Petty Cash  
+2:22:04 Practice Vendor And Expense Transactions  
+2:27:51 Bank Deposits  
+2:35:44 Deposits With Cash Back  
+2:41:45 Managing Undeposited Funds  
+2:58:54 How To Edit A Deposit With The Deposit Detail Report  
+3:07:19 How To Use The Advanced Search Tool  
+3:13:47 How To Use The Audit Log  
+3:27:38 QuickBooks Online Final Exam  
 
 ---
 
