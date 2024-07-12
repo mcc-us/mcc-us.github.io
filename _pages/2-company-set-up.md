@@ -13,7 +13,7 @@ layout: post
 | <button onclick="openWindow()">Open: The Quickbooks Dude Videos</button>|
 
 
-## 16:22 - Chart Of Accounts, Manage  
+- **16:22 - Chart Of Accounts, Manage** 
 
 
 - **Find COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts` 
@@ -32,7 +32,7 @@ layout: post
 |![3.new.coa](/assets/images/3.new.chart.of.accounts.button.png)|
 
 
-## 26:10  Chapter 4: Input & Managing Customer Data 
+- **26:10  - Input & Managing Customer Data**
 
 
 |Input & Managing Customer Data|
@@ -43,7 +43,7 @@ layout: post
 |![4.3.input.vendor.data](/assets/images/4.3.input.vendor.data.png)|
 
 
-## 34:07 Chapter 5: Input & Manage Products & Services Lists
+- **34:07 - Input & Manage Products & Services Lists**
 
 
 |Input & Manage Products & Services Lists|
@@ -51,5 +51,5 @@ layout: post
 |![5.1.sales.prods.services.lists](/assets/images/5.1.sales.prods.services.lists.png)|
 |![5.2.sales.prods.services.types](/assets/images/5.2.sales.prods.services.types.png)|
 
-**Congrats Setting QBO Is Complete and you are ready for Business!**
+- **Congrats Setting QBO Is Complete and you are ready for Business!**
 
