@@ -7,7 +7,7 @@ permalink: /
 
 |Internal Links|
 |:-|
-||
+|https://quickbooks.intuit.com/learn-support/en-us/help-custom/L8onrlA6N|
 
 ---
 
