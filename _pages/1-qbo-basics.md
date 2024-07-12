@@ -4,22 +4,22 @@ layout: post
 ---
 
 
-## Similar aspects for all views
+## Three common parts for all QBO views
 
-  1. `Settings` 'gear-wheel' on top-rt
-  2. `+New` on the top-left: opens menu for day-to-day tasks
-  3. `Left panel menu`: Accountant view or Business view
+  1. `Settings`
+  2. `+New` 
+  3. `Accountant Tools`
 
-![getting things done](/assets/images/getting-things-done.BIG.png)
+![getting things done](/assets/images/1.getting-things-done.BIG.png)
 
 
-### 1. Settings
+### `Settings`
 
 1. Adjust ('gear-wheel' on top-rt) Company Settings & Account Settings
 
 ![Settings](/assets/images/gear-settings_2024-06-19_09-49-27.png)
 
-### 2 & 3. Left panel menu & `+New`
+### `+New` & `Accountant Tools`
 
 
 |Accountant Main View:</br>17 options from the left hand menu|
