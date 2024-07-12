@@ -25,7 +25,7 @@ layout: post
 See Customer Balance Detail, list of customers that owe you!
 
 
-#### 56:22 7-First QuickBooks Transaction (Practice)
+#### 56:22 7-First Transaction (Practice)
 
 
 
@@ -43,7 +43,8 @@ See Customer Balance Detail, list of customers that owe you!
 
 
 
-### 8-58:35 Finding And Fixing QuickBooks Online Mistakes 
+### 8-58:35 Finding & Fixing Mistakes
 
 
 
+### 1:03:42 Deleting Transactions
