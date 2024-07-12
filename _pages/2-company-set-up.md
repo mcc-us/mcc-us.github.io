@@ -8,22 +8,20 @@ layout: post
  {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc");}
  </script>
 
-| QuickBooks Online Youtube Tutorials |
+| Quickbooks Dude Videos |
 |:-:|
-| <button onclick="openWindow()">Open: The Quickbooks Dude Videos</button>|
+| <button onclick="openWindow()">Open: Video</button>|
 
 
 ### 16:22 - Set up Chart Of Account 
 
-1. Determine which accounts to use?   
+1. Determine which accounts to use?  *Make New / Edit / Inactive*?
 
-2. Add Accounts or Change Names 
+2. **Goto COA** 
+   1. **Method 1:** Tools/`Expenses`/`Transactions`/`Chart of Accounts`   
+   2. **Method 2:** Tools/`Bookmarks`/`Bank Transactions`/`Chart of Accounts`   
 
-3. **Find COA Method 1**: Tools/`Expenses`/`Transactions`/`Chart of Accounts`   
-   
-4. **Method 2**: Tools/`Bookmarks`/`Bank Transactions`/`Chart of Accounts`   
-
-5. **To Make New / Edit / Inactive / Report Acts**: Use `View register` drop down menu     
+4. **To Make New / Edit / Inactive / Report Acts**: Use `New` **OR** `View register` drop down menus     
 
 >**NOTE**: It is not possible to make some accounts inactive  
 {: .block-warning } 
