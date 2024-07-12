@@ -16,7 +16,7 @@ layout: post
 ## 16:22 - Chart Of Accounts, Manage  
 
 
-- **Find COA**: `Left Panel`/`Expenses`/`Transactions`/`Chart of Accounts` 
+- **Find COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts` 
 
 - **To Make Acts Inactive / New**: Use `View register` on right-hand drop down menu,  See Pic  
 
@@ -27,7 +27,7 @@ layout: post
 {: .block-warning }
 
 
-|COA Options|
+|**Find COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
 |:--:|
 |![3.new.coa](/assets/images/3.new.chart.of.accounts.button.png)|
 
