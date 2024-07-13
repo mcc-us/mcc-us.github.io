@@ -33,13 +33,16 @@ layout: post
 |![3.new.coa](/assets/images/3.new.chart.of.accounts.button.png)|
 |![4.1.input.customer.data](/assets/images/3.new.coa.png)|
 
+
+
 ### 26:10  - Set Up Customer Data
+
 
 1. Generate List of Customer/Vendor
    
 2. Add Accounts or Change Names 
 
-3. **Find Customer**: Tools/`Sales`/`Transactions`/`Chart of Accounts`   
+3. **Set Up Customer**: Tools/`Sales`/`Transactions`/`Customer`   
 
 |Set Up Customer Data|
 |:--:|
@@ -51,11 +54,11 @@ layout: post
 >**Returning Inactive COA Accounts to Active**: Goto Gear by COA, choose `Active`  
 {: .block-warning }
 
-### 00:00 - Set Up Vendor Data
+### 31:00 - Vendor Data, Set Up
+1860
 
 
-
-### 34:07 - Set Up Products & Services 
+### 34:07 - Products & Services, Set Up  
 
 
 |Input & Manage Products & Services Lists|
