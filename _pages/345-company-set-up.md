@@ -4,13 +4,14 @@ layout: post
 ---
 
 
- <script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc");}
+ <script> 
+ function openWindow()
+ {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=982");}
  </script>
 
 | Quickbooks Dude Videos |
 |:-:|
-| <button onclick="openWindow()">Open: Video</button>|
+| <button onclick="openWindow()">Open: Video</button> |
 
 
 ### 16:22 - Set up Chart Of Account 
@@ -34,7 +35,7 @@ layout: post
 |![3.new.coa](/assets/images/3.new.chart.of.accounts.button.png)|
 |![4.1.input.customer.data](/assets/images/3.new.coa.png)|
 
-### 26:10  - Customer Data
+### 26:10  - Set Up Customer Data
 
 1. Generate List of Customer/Vendor
    
@@ -49,9 +50,9 @@ layout: post
 |![4.4.input.multi.cust.data](/assets/images/4.4.input.multi.cust.data.png)|
 |![4.3.input.vendor.data](/assets/images/4.3.input.vendor.data.png)|
 
-### 00:00 - Vendor Data
+### 00:00 - Set Up Vendor Data
 
-### 34:07 - Products & Services, Input & Manage 
+### 34:07 - Set Up Products & Services 
 
 
 |Input & Manage Products & Services Lists|
