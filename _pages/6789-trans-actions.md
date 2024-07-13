@@ -20,14 +20,17 @@ layout: post
 |:--:|
 |![6.Recurring.Email.TB.Report](/assets/images/6.Recurring.Email.TB.Report.png)|
 
-
-
 See Customer Balance Detail, list of customers that owe you!
 
 
-6. Creatint an Invoice
+1. Creatint an Invoice
 
-
+|**Creatint an Invoice**: |
+|:--:|
+|![6.](/assets/images/6.1.create.invoices.png)|
+|![6.](/assets/images/6.2.create.invoices.png)|
+|![6.](/assets/images/6.create.INVOICES.set.up.defaults.png)|
+|![6.](/assets/images/6.generate.INVOICE.png)|
 
 An invoice with effect the COA of gen ledger
 
@@ -43,6 +46,12 @@ Reports / Std / `For my accountant` / `Trial Balance` / Star
 
 
 ## Reports:
+
+|**Creatint an Invoice**: |
+|:--:|
+|![6.](/assets/images/6.customer.bala.detail.report.png)|
+|![6.](/assets/images/6.customer.bala.detail.report2.png)|
+|![6.](/assets/images/6.customer.bala.detail.report3.png)|
 
 Customer report builder
 
@@ -80,15 +89,22 @@ Payroll / Employee info, act tax payable, hours tax
    2. **Method 2:** Tools/`Bookmarks`/`Bank Transactions`/`Chart of Accounts`   
 
 
-
 |**Practice X-actions**: Tools/`Reports`/`Std`/`7`|
 |:--:|
-|![7](/assets/images/6.png)|
+|![7](/assets/images/7.pracvtice.invoices.png)|
 
 
 
 ### 8-58:35 8-Finding & Fixing Mistakes
 
 
+|**Practice X-actions**: Tools/`Reports`/`Std`/`7`|
+|:--:|
+|![8](/assets/images/8.fixing.edit.invoices.png)|
 
 ### 1:03:42 9-Deleting Transactions
+
+
+|**Practice X-actions**: Tools/`Reports`/`Std`/`7`|
+|:--:|
+|![9](/assets/images/9-deleting-xactions.png)|
