@@ -11,10 +11,10 @@ layout: post
 
 | Quickbooks Dude Videos |
 |:-:|
-| <button onclick="openWindow()">Open: Video</button> |
+| <button onclick="openWindow()">Open: Video @ 16:22</button> |
 
 
-### 16:22 - Set up Chart Of Account 
+### 16:22 - Chart Of Account, Set up 
 
 1. Determine which accounts to use?  *Make New / Edit / Inactive*?
 
@@ -28,7 +28,7 @@ layout: post
 {: .block-warning } 
 
 
-|**Find COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
+|**Set Up COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
 |:--:|
 |![3.new.coa](/assets/images/3.new.chart.of.accounts.button.png)|
 |![4.1.input.customer.data](/assets/images/3.new.coa.png)|
