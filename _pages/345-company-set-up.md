@@ -27,8 +27,6 @@ layout: post
 >**NOTE**: It is not possible to make some accounts inactive  
 {: .block-warning } 
 
->**Returning Inactive COA Accounts to Active**: Goto Gear by COA, choose `Active`  
-{: .block-warning }
 
 |**Find COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
 |:--:|
@@ -43,14 +41,19 @@ layout: post
 
 3. **Find Customer**: Tools/`Sales`/`Transactions`/`Chart of Accounts`   
 
-|Input & Managing Customer Data|
+|Set Up Customer Data|
 |:--:|
-|![4.new.cust.data](/assets/images/4.cust.data.png)|
 |![4.2.input.cust.data](/assets/images/4.2.input.cust.vendor.data.png)|
 |![4.4.input.multi.cust.data](/assets/images/4.4.input.multi.cust.data.png)|
 |![4.3.input.vendor.data](/assets/images/4.3.input.vendor.data.png)|
 
+
+>**Returning Inactive COA Accounts to Active**: Goto Gear by COA, choose `Active`  
+{: .block-warning }
+
 ### 00:00 - Set Up Vendor Data
+
+
 
 ### 34:07 - Set Up Products & Services 
 
