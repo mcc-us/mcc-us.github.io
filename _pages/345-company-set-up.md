@@ -41,7 +41,6 @@ layout: post
 |![4.4.input.multi.cust.data](/assets/images/4.4.input.multi.cust.data.png)|
 
 
-
 >**Returning Inactive COA Accounts to Active**: Goto Gear by COA, choose `Active`  
 {: .block-warning }
 
