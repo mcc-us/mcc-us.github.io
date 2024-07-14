@@ -14,11 +14,11 @@ layout: post
 
 ### Setup Chart Of Account / 16:22
 
-|**Set Up COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
-|:--:|
-|1. Determine which accounts to use?  *Make New / Edit / Inactive*?|
-|2. **Goto COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
-|3. **To Make New / Edit / Inactive / Report Acts**: Use `New` **OR** `View register` drop down menus|
+|Setup Chart Of Account|
+|:--|
+| 1.Goto: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
+|2. Determine which accounts to use?  *Make New / Edit / Inactive*?|
+|3. To Make New / Edit / Inactive / Report Acts**:</br> Use `New` **OR** `View register` drop down menus|
 |![3.new.coa](/assets/images/3.new.chart.of.accounts.button.png)|
 |![4.1.input.customer.data](/assets/images/3.new.coa.png)|
 
@@ -26,6 +26,7 @@ layout: post
 >**NOTE**: It is not possible to make some accounts inactive  
 {: .block-warning } 
 
+---
 
 ### Setup Customer Data / 26:10
 
@@ -34,7 +35,7 @@ layout: post
    
 2. Add Accounts or Change Names 
 
-3. **Set Up Customer**: Tools/`Sales`/`Transactions`/`Customer`   
+3. Set Up Customer: Tools/`Sales`/`Transactions`/`Customer`   
 
 |Set Up Customer Data|
 |:--:|
@@ -46,9 +47,12 @@ layout: post
 >**Returning Inactive COA Accounts to Active**: Goto Gear by COA, choose `Active`  
 {: .block-warning }
 
+---
+
 ### Setup Vendor Data / 31:00
 1860
 
+---
 
 ### Setup Products & Services / 34:07  
 
@@ -58,5 +62,5 @@ layout: post
 |![5.1.sales.prods.services.lists](/assets/images/5.1.sales.prods.services.lists.png)|
 |![5.2.sales.prods.services.types](/assets/images/5.2.sales.prods.services.types.png)|
 
-- **Congrats Setting QBO Is Complete and you are ready for Business!**
+- **Congrats Setting up QBO is complete and you are ready for business!**
 
