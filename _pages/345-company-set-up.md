@@ -16,7 +16,7 @@ layout: post
 
 |Setup Chart Of Account|
 |:--|
-| 1.Goto: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
+| 1. Goto: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
 |2. Determine which accounts to use?  *Make New / Edit / Inactive*?|
 |3. To Make New / Edit / Inactive / Report Acts**:</br> Use `New` **OR** `View register` drop down menus|
 |![3.new.coa](/assets/images/3.new.chart.of.accounts.button.png)|
