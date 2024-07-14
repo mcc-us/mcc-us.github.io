@@ -5,13 +5,11 @@ layout: post
 
 
  <script> 
- function openWindow()
+ function open982()
  {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=982");}
  </script>
 
-| Quickbooks Dude Videos |
-|:-:|
-| <button onclick="openWindow()">Open: Video @ 16:22</button> |
+<button onclick="open982()">Open: Quickbooks Dude Video @ 16:22</button>
 
 
 ### Setup Chart Of Account / 16:22
