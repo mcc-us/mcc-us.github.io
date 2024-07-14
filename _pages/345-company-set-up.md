@@ -14,7 +14,7 @@ layout: post
 | <button onclick="openWindow()">Open: Video @ 16:22</button> |
 
 
-### 16:22 - Chart Of Account, Set up 
+### Setup Chart Of Account / 16:22
 
 1. Determine which accounts to use?  *Make New / Edit / Inactive*?
 
@@ -35,7 +35,7 @@ layout: post
 
 
 
-### 26:10  - Set Up Customer Data
+### Setup Customer Data / 26:10
 
 
 1. Generate List of Customer/Vendor
@@ -54,11 +54,11 @@ layout: post
 >**Returning Inactive COA Accounts to Active**: Goto Gear by COA, choose `Active`  
 {: .block-warning }
 
-### 31:00 - Vendor Data, Set Up
+### Setup Vendor Data / 31:00
 1860
 
 
-### 34:07 - Products & Services, Set Up  
+### Setup Products & Services / 34:07  
 
 
 |Input & Manage Products & Services Lists|
