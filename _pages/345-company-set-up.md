@@ -4,33 +4,27 @@ layout: post
 ---
 
 
- <script> 
+<script> 
  function open982()
  {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=982");}
- </script>
+</script>
 
 <button onclick="open982()">Open: Quickbooks Dude Video @ 16:22</button>
 
 
 ### Setup Chart Of Account / 16:22
 
-1. Determine which accounts to use?  *Make New / Edit / Inactive*?
-
-2. **Goto COA** 
-   1. **Method 1:** Tools/`Expenses`/`Transactions`/`Chart of Accounts`   
-   2. **Method 2:** Tools/`Bookmarks`/`Bank Transactions`/`Chart of Accounts`   
-
-4. **To Make New / Edit / Inactive / Report Acts**: Use `New` **OR** `View register` drop down menus     
-
->**NOTE**: It is not possible to make some accounts inactive  
-{: .block-warning } 
-
-
 |**Set Up COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
 |:--:|
+|1. Determine which accounts to use?  *Make New / Edit / Inactive*?|
+|2. **Goto COA**: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
+|3. **To Make New / Edit / Inactive / Report Acts**: Use `New` **OR** `View register` drop down menus|
 |![3.new.coa](/assets/images/3.new.chart.of.accounts.button.png)|
 |![4.1.input.customer.data](/assets/images/3.new.coa.png)|
 
+
+>**NOTE**: It is not possible to make some accounts inactive  
+{: .block-warning } 
 
 
 ### Setup Customer Data / 26:10
