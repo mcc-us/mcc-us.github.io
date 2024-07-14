@@ -9,12 +9,10 @@ layout: post
  {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=982");}
 </script>
 
-<button onclick="open982()">Open: Quickbooks Dude Video @ 16:22</button>
-
 
 ### Setup Chart Of Account / 16:22
 
-|Setup Chart Of Account|
+|<button onclick="open982()">Open: Quickbooks Dude Video @ 16:22</button>|
 |:--|
 | 1. Goto: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
 |2. Determine which accounts to use?  *Make New / Edit / Inactive*?|
@@ -39,9 +37,9 @@ layout: post
 
 |Set Up Customer Data|
 |:--:|
-|![4.2.input.cust.data](/assets/images/4.2.input.cust.vendor.data.png)|
+|![4.2.input.cust.data](/assets/images/4.2.cust.data.png)|
 |![4.4.input.multi.cust.data](/assets/images/4.4.input.multi.cust.data.png)|
-|![4.3.input.vendor.data](/assets/images/4.3.input.vendor.data.png)|
+
 
 
 >**Returning Inactive COA Accounts to Active**: Goto Gear by COA, choose `Active`  
@@ -51,6 +49,10 @@ layout: post
 
 ### Setup Vendor Data / 31:00
 1860
+
+|Set Up Vendor Data|
+|:--:|
+|![4.3.input.vendor.data](/assets/images/4.3.input.vendor.data.png)|
 
 ---
 
