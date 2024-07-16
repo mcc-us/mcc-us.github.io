@@ -276,20 +276,25 @@ If you got stuck or didn’t get to the end, try the following steps:
 - Check that the mapping is correct, then select Next
 - Finally, select Import
 
+## Managing the products and services list 
+
+To get the most from this lesson, we recommend completing the ones on the Chart of accounts and the products and services list first.
 
 
+![](/assets/images/qbo-notes.products.services.png)
 
 
+How do you create a product category?
 
+- You and your clients can create a new product category before adding new products/services to QuickBooks Online. To do this:
 
+   - Select More, followed by Manage categories
+   - Then select New category
+   - Give the category a suitable name and select Save
 
+## Setting up products and services to sell and/or purchase 
 
-
-
-
-
-
-
+![](accounting.settings.png)
 
 
 
