@@ -17,9 +17,15 @@ Timestamps:
 00:00 Intro  
 1:45 Navigate The QuickBooks Online Interface   
 9:10 Adjust Company Settings and adjust Account Settings  
+
+---
+
 16:22 Manage The QuickBooks Online Chart Of Accounts  
 26:10 Managing Customer And Vendor Data   
-34:07 Managing The List Of Products And Services   
+34:07 Managing The List Of Products And Services  
+
+---
+
 40:05 Entering Your First Transaction, Creating An Invoice  
 56:22 First QuickBooks Transaction Practice  
 58:35 Finding And Fixing QuickBooks Online Mistakes  
