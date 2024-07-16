@@ -297,11 +297,23 @@ How do you create a product category?
 ![](accounting.settings.png)
 
 
+Q. Which of the following statements about adding sub-categories to the product and services list are correct? Select all that apply.
+
+A. You can edit existing product/service items to assign them to a sub-category
+A. You can only add up to 4 category and sub-category levels, including the parent
 
 
 
 
+Standard user
 
+There are several standard user types, so you and your clients can control which areas of QuickBooks Online different users have access to:
+
+    Standard all access users have full access without admin privileges, plus access to Payroll
+    Standard limited customers and vendors users can see and do everything with Customers and Sales, and Vendors and Purchases
+    Standard limited customers only users can see and do everything with Customers and Sales
+    Standard limited vendors only users can see and do everything with Vendors and Purchases
+    Standard no access users have some permissions and can submit their own timesheets but can’t use accounting features
 
 
 
