@@ -259,3 +259,71 @@ Note: If your certification expires, you'll lose the points you earned when you 
 - Select the History link to se
 
 
+## Importing Customer lists
+
+Our solution
+
+If you got stuck or didn’t get to the end, try the following steps:
+
+- First, download Craig’s customer list to your local computer. (The customer list is in the task dropdown in this ProAdvisor challenge)
+- Go to the Sales center
+- Select the Customers tab
+- Select the dropdown next to New customer 
+- Select Import customers
+- Select Browse 
+- Upload Craig’s customer list 
+- Select Next
+- Check that the mapping is correct, then select Next
+- Finally, select Import
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
