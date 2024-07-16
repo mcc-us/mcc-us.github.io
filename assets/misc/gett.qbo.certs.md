@@ -257,3 +257,5 @@ Note: If your certification expires, you'll lose the points you earned when you 
 - In QuickBooks Online Accountant, go to ProAdvisor.
 - Review the Benefits tab.
 - Select the History link to se
+
+
