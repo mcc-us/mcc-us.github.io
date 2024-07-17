@@ -33,6 +33,7 @@ layout: post
 11.Customizing sales forms
 
 qbo.custom.forms.png
+
 ###  Adding a custom field to sales forms
 
 Select the Gear icon, then select Custom fields
@@ -42,7 +43,7 @@ To customize sales forms such as invoices, check the box next to All Sales forms
 Use the Print on form slider to make the custom field appear on printed or emailed transactions
 When done, select Save
 
-Back on the Custom fields screen, the new custom field appears. Note that there’s a checkmark in the columns of the transaction forms that the custom field applies to. The Print icon next to them indicates whether the custom field is set to show for customers and vendors on printed or emailed forms. 
+Back on the Custom fields screen, the new custom field appears. Note that there’s a checkmark in the columns of the transaction forms that the custom field applies to. The Print icon next to them indicates whether the custom field is set to show for customers and vendors on printed or emailed forms.
 
 
 ### How many custom fields can be added?
@@ -50,11 +51,11 @@ Subscription level	Sales forms	Purchase orders
 
 QuickBooks Online Simple Start	Not available	Not available
 QuickBooks Online Essentials	Up to 3	Not available
-QuickBooks Online Plus	
+QuickBooks Online Plus
 Up to 3, shared across both sales forms and purchase orders. To apply the same custom field to both form categories, select the checkboxes when you’re creating the field.
 
 
-QuickBooks Online Advanced	
+QuickBooks Online Advanced
 Up to 12 active custom fields for each transaction type in the following form categories:
 
 Purchase orders
@@ -71,12 +72,12 @@ Follow this link for a detailed article on how to create and edit custom fields 
 
 ## Working with Estimates and Purchase Orders
 
-estimates created by the client are saved in the Sales center. 
+estimates created by the client are saved in the Sales center.
 Estimates can also be found in the Customers tab. Select an individual customer then select the Transaction List tab for that customer.
 
 Some of your clients may have access to the Estimates tab in the Sales center.
 
-Clients using QuickBooks Online Plus or Advanced can create a purchase order using an estimate. 
+Clients using QuickBooks Online Plus or Advanced can create a purchase order using an estimate.
 
 To enable this option, follow these steps:
 
