@@ -1,4 +1,7 @@
-Training Path
+---
+title: QBO Training Path
+layout: post
+---
 
 
 ## Client routes into your books
@@ -18,10 +21,10 @@ Q. Where can you find the template?
 |QBO Subscription Levels|Highlights|Usage limits|
 |:-|-:|
 |Advanced = 140/mnth|Mid-Market Clients w All Bells & Whitsles|25|
-|Plus = 63|Small Businesses w Staff, Inventgory, Budgets|5|
+|Plus = 63|Small Businesses w Staff, Inventory, Budgets|5|
 |Essentials = 42|Like Simple-Start|3|
-|Simple Start = 21|For sole proprietors, LLCs, partnerships, & small businesses.|1|
-|QB Ledger = 10|Ideal for tax-only & low-volume transaction clients, Plus clients with non-operating entities or holding companies.|1|
+|Simple Start = 21|For sole proprietors, LLCs, partnerships, & small businesses|1|
+|QB Ledger = 10|Ideal for tax-only & low-volume transaction clients, Plus clients with non-operating entities or holding companies|1|
 |Self-Employed|Uses Schedule C w 1040|1|
 
 |ADD QB TIME & PAYROLL|
