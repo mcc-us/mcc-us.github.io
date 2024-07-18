@@ -48,6 +48,8 @@ Q. Where can you find the template?
 
 ## Subscription options & levels
 
+### Gathering requirements 
+
 Find out the client’s:
 
 - Legal/Tax entity type
@@ -88,8 +90,6 @@ Activities you can carry out include:
 - Designing workflows & choosing tools that allow you to collaborate with your client
 - Assigning tasks to yourself, your staff, & the client based on individual strengths
 
-## Onboarding clients who are new to QuickBooks Online
-
 - New Client Checklist.xsl
 - Milage
 
@@ -97,7 +97,39 @@ Activities you can carry out include:
 >Exploring the client’s industry-specific needs will help you identify any additional functionality they may require. For example, they may need third-party apps to track e-commerce sales or manage their logistics, manufacturing, shipping, point of sale, or personal billable time
 {}
 
-- Usage limits, 5,25, ?
+Q1. 
+- Based on the information in the first two columns about the QuickBooks Online features that the client will need, which subscription level would you recommend?
+- QuickBooks Online Plus
+- This client requires Location tracking, Budgets, and Purchase orders, which are all features of QuickBooks Online Plus.
+
+Q2. 
+- The client runs a haulage and warehouse business
+- The business is a large SMB with more than 10 users
+- Their HQ is in Idaho, but the business also has distribution centers in Maine and New Mexico
+- They manage a team of around 50, made up of a mixture of employees and contractors. The truck drivers don’t need access to QuickBooks Online, but the finance team, the separate sales team, and purchasing department all need access to different sets of data
+- They’d benefit from giving the sales and purchasing teams custom access to financial data
+- There will likely be complex tracking and categorization requirements
+
+ 
+A2. Which QuickBooks Online subscription level would you recommend?
+- QuickBooks Online Advanced
+- The client has many complex bookkeeping requirements that QuickBooks Online Advanced is designed to solve.
+
+
+### Billing options 
+
+- **Add client** from the **Clients list** and then **Subscription** in the **Products** section.
+
+In the **Billing options** section, you can choose how they’ll be billed for their subscription. The three options are:
+- ProAdvisor discount
+- Direct discount
+- Revenue share
+
+
+
+
+## Onboarding clients who are new to QuickBooks Online
+
 
 ## Signing up a client new to QuickBooks Online
 
