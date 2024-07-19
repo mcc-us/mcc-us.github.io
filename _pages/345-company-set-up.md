@@ -16,11 +16,9 @@ layout: post
 <button onclick="openWindow()">Open: Quickbooks Dude Video @ 16:22</button>
 
 
-|Setting Up Chart Of Accounts|
-|:-|
-|1. Goto: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
-|2. Determine which accounts to use? *Make New / Edit / Inactive*?|
-|3. To Make New / Edit / Inactive / Report Acts:</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `New` **OR** `View register` drop down menus|
+1. Goto: Tools/`Expenses`/`Transactions`/`Chart of Accounts`
+2. Determine which accounts to use? *Make New / Edit / Inactive*?
+3. To Make New / Edit / Inactive / Report Acts:</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `New` **OR** `View register` drop down menus
 
 
 |Setting Up Chart Of Accounts|
@@ -52,7 +50,7 @@ layout: post
 3. Set Up Customer: Tools/`Sales`/`Transactions`/`Customer`   
 
 |Set Up Customer Data|
-|:--:|
+|:-:|
 |![4.2.input.cust.data](/assets/images/4.2.cust.data.png)|
 |![4.4.input.multi.cust.data](/assets/images/4.4.input.multi.cust.data.png)|
 
