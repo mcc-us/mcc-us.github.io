@@ -20,7 +20,7 @@ Q. Where can you find the template?
 
 |QBO Subscription Levels|Highlights|Usage limits|
 |:-|-:|
-|Advanced = 140/mnth|Mid-Market Clients w All Bells & Whitsles|25|
+|Advanced = 140/mnth|Mid-Market Clients w/ All Bells & Whitsles|25|
 |Plus = 63|Small Businesses w Staff, Inventory, Budgets|5|
 |Essentials = 42|Like Simple-Start|3|
 |Simple Start = 21|For sole proprietors, LLCs, partnerships, & small businesses|1|
@@ -150,26 +150,41 @@ Estimates can also be found in the Customers tab.
 ### Using an estimate to create a purchase order 
 
 1. From the left-hand navigation, select `Sales`, then `All Sales`
-    On the money bar, select the Estimate box
-    From the Action column, select Edit on the estimate to be turned into a purchase order 
-    Next, select the down arrow next to Create invoice and select Copy to purchase order 
-    On the Purchase Order screen, select the Vendor to order the item from  
-    If the item will be shipped directly to the customer, select the customer from the Ship to dropdown. Otherwise, the item will be shipped to the company
-    Review and adjust any details as necessary
-    When done, select Save and send
-    Review the content of the email with the purchase order then select Send and close 
+2. On the money bar, select `Estimate`, From the Action column, select Edit on the estimate to be turned into a purchase order ,   Next, select the down arrow next to Create invoice and select Copy to purchase order ,   On the Purchase Order screen, select the Vendor to order the item from  ,   If the item will be shipped directly to the customer, select the customer from the Ship to dropdown. Otherwise, the item will be shipped to the company, Review and adjust any details as necessary,  When done, select Save and send,  Review the content of the email with the purchase order then select Send and close, 
 
 The purchase order is now sent to the vendor.
 
+### Converting a purchase order to an expense or bill
+
+1. From the left-hand navigation, select `Expenses`, then `Vendors`, On the money bar, select `Purchase Order` box  
+2. Find the purchase order 
+3. select either `Create bill` or `Create expense` from the dropdown
+
+Note: Enter any missing details. 
+
+4. From the drawer on the right, select `Add` to add the details of the purchase order to the expense 
+
+5. select `Save and close`
 
 
+6. You can copy a purchase order to a bill from the Expenses tab, select `Copy to bill` from the dropdown in the `Action column.
+
+7. The bill automatically populates with the details from the purchase order. Add any additional information to the bill before saving it.
 
 
+8. Alternatively, open the `purchase order` and select `Copy to Bill`.
 
 
+Q. Which of these statements about estimates in QuickBooks Online Plus and Advanced are true? Select all that apply.
+- Estimate data can be used to create a purchase order
+- Estimate data can be used to create an invoice
+
+1. Estimates are non-posting transactions and can be used to create purchase orders and invoices.
+
+## Customer statements types
 
 
-
+### Balance Forward
 
 
 
