@@ -4,19 +4,27 @@ layout: post
 ---
 
 
-<script> 
- function open982()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=982");}
-</script>
-
 
 ### Setup Chart Of Account / 16:22
 
-|<button onclick="open982()">Open: Quickbooks Dude Video @ 16:22</button>|
-|:--|
-| 1. Goto: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
-|2. Determine which accounts to use?  *Make New / Edit / Inactive*?|
+
+<script> 
+ function openWindow()
+ {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=982");}
+</script>
+
+<button onclick="openWindow()">Open: Quickbooks Dude Video @ 16:22</button>
+
+
+|Setting Up Chart Of Accounts|
+|:-|
+|1. Goto: Tools/`Expenses`/`Transactions`/`Chart of Accounts`|
+|2. Determine which accounts to use? *Make New / Edit / Inactive*?|
 |3. To Make New / Edit / Inactive / Report Acts:</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `New` **OR** `View register` drop down menus|
+
+
+|Setting Up Chart Of Accounts|
+|:-:|
 |<img src="/assets/images/3.new.chart.of.accounts.button.png" width="85%" />|
 |<img src="/assets/images/3.new.coa.png" width="65%" />|
 
@@ -27,6 +35,14 @@ layout: post
 ---
 
 ### Setup Customer Data / 26:10
+
+
+<script> 
+ function openWindow()
+ {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=1570");}
+</script>
+
+<button onclick="openWindow()">Open: Quickbooks Dude Video @ 26:10</button>
 
 
 1. Generate List of Customer/Vendor
@@ -47,7 +63,16 @@ layout: post
 ---
 
 ### Setup Vendor Data / 31:00
-1860
+
+
+<script> 
+ function openWindow()
+ {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=1860");}
+</script>
+
+<button onclick="openWindow()">Open: Quickbooks Dude Video @ 31:00</button>
+
+
 
 |Set Up Vendor Data|
 |:--:|
