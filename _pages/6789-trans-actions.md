@@ -5,7 +5,7 @@ layout: post
 
 
  <script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc");}
+ {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=2405");}
  </script>
 
 | Quickbooks Dude Videos |
@@ -81,6 +81,13 @@ Payroll / Employee info, act tax payable, hours tax
 #### 56:22 7-First Transaction (Practice)
 
 
+ <script> function openWindow()
+ {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=3382");}
+ </script>
+
+| Quickbooks Dude Videos |
+|:-:|
+| <button onclick="openWindow()">Open: Video</button>|
 
 1. Determine?  *Make New / Edit / Inactive*?
 
@@ -98,11 +105,31 @@ Payroll / Employee info, act tax payable, hours tax
 ### 8-58:35 8-Finding & Fixing Mistakes
 
 
+ <script> function openWindow()
+ {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=3515");}
+ </script>
+
+| Quickbooks Dude Videos |
+|:-:|
+| <button onclick="openWindow()">Open: Video</button>|
+
+
 |**Practice X-actions**: Tools/`Reports`/`Std`/`7`|
 |:--:|
 |![8](/assets/images/8.fixing.edit.invoices.png)|
 
+
+
 ### 1:03:42 9-Deleting Transactions
+
+
+ <script> function openWindow()
+ {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=3822");}
+ </script>
+
+| Quickbooks Dude Videos |
+|:-:|
+| <button onclick="openWindow()">Open: Video</button>|
 
 
 |**Practice X-actions**: Tools/`Reports`/`Std`/`7`|
