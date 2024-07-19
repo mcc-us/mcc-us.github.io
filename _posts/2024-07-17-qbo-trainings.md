@@ -125,8 +125,101 @@ In the **Billing options** section, you can choose how they’ll be billed for t
 - Direct discount
 - Revenue share
 
+### Adding QuickBooks Time and QuickBooks Online Payroll
 
 
+## Sales and customers
+
+
+### Working with estimates and purchase orders 
+
+Estimates created by the client are saved in the Sales center. 
+
+Estimates can also be found in the Customers tab.  
+
+
+### Creating an estimate
+
+1. Select `+ New` / `Estimate` / `Add Customer` / FILL OUT ALL Important Information
+
+
+### Enabling purchase orders
+
+1.  Select `+ New`, under Vendor, `Purchase Order`, Fill in All relevant Information
+
+### Using an estimate to create a purchase order 
+
+1. From the left-hand navigation, select `Sales`, then `All Sales`
+    On the money bar, select the Estimate box
+    From the Action column, select Edit on the estimate to be turned into a purchase order 
+    Next, select the down arrow next to Create invoice and select Copy to purchase order 
+    On the Purchase Order screen, select the Vendor to order the item from  
+    If the item will be shipped directly to the customer, select the customer from the Ship to dropdown. Otherwise, the item will be shipped to the company
+    Review and adjust any details as necessary
+    When done, select Save and send
+    Review the content of the email with the purchase order then select Send and close 
+
+The purchase order is now sent to the vendor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 ## Onboarding clients who are new to QuickBooks Online
 
