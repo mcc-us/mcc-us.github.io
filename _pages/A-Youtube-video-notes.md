@@ -15,8 +15,8 @@ layout: post
 
 ## 40:05 Chapter 6: Creating An Invoice (1st Transaction)
 
-40:05 ASIDE: Make Custom REPORTS  
-45:27 REAL INVOICE  
+- 40:05 ASIDE: Make Custom REPORTS  
+- 45:27 REAL INVOICE  
 
 |Creating An Invoice|
 |:--:|

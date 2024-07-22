@@ -10,7 +10,7 @@ layout: post
 
 | Quickbooks Dude Videos |
 |:-:|
-| <button onclick="openWindow()">Open: Video</button>|
+| <button onclick="openWindow()">Open: Video @ 40:05</button>|
 
 
 ### 40:05 6-Entering Your First Transaction, Creating An Invoice  
@@ -61,15 +61,15 @@ Business overview
 
 Who owes who / A/Receivable
 
-Sales and Cusomters
+Sales and Customers
 
 What we owe / A/Payable
 
-Expanes and Vendors / 1099
+Expenses and Vendors / 1099
 
 Employees / Times
 
-For my accountnat   / Gen.Kedger / PL / Trial Balance /Recurring Template list / Reconcilation Reports / Adjusted TB
+For my accountnat   / Gen.Kedger / PL / Trial Balance /Recurring Template list / Reconcialation Reports / Adjusted TB
 
 Payroll / Employee info, act tax payable, hours tax 
 
@@ -87,7 +87,7 @@ Payroll / Employee info, act tax payable, hours tax
 
 | Quickbooks Dude Videos |
 |:-:|
-| <button onclick="openWindow()">Open: Video</button>|
+| <button onclick="openWindow()">Open: Video @ 56:22</button>|
 
 1. Determine:  *Make New / Edit / Inactive*?
 
@@ -100,7 +100,7 @@ Payroll / Employee info, act tax payable, hours tax
 
 
 
-### 8-58:35 8-Finding & Fixing Mistakes
+### 8 - 58:35 Finding & Fixing Mistakes
 
 
  <script> function openWindow()
@@ -109,7 +109,7 @@ Payroll / Employee info, act tax payable, hours tax
 
 | Quickbooks Dude Videos |
 |:-:|
-| <button onclick="openWindow()">Open: Video</button>|
+| <button onclick="openWindow()">Open: Video @ 58:35</button>|
 
 
 |**Practice X-actions**: Tools/`Reports`/`Std`/`7`|
@@ -127,7 +127,7 @@ Payroll / Employee info, act tax payable, hours tax
 
 | Quickbooks Dude Videos |
 |:-:|
-| <button onclick="openWindow()">Open: Video</button>|
+| <button onclick="openWindow()">Open: Video @ 1:03:42</button>|
 
 
 |**Practice X-actions**: Tools/`Reports`/`Std`/`7`|

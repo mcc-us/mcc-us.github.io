@@ -49,24 +49,24 @@ You can also take the QuickBooks Online Payroll Certification exam and attract n
 
 ### Kristal has used QuickBooks Online for the three months she’s been working at her aunt’s accounting firm as a bookkeeper. Her key tasks there include:
 
-    Adding new customers and vendors for the firm’s clients
-    Entering customers’ bank details
-    Creating invoices, sales receipts, and payments
+- Adding new customers and vendors for the firm’s clients
+- Entering customer's bank details
+- Creating invoices, sales receipts, and payments
 
 
 
 ### Andrew is a newly qualified accountant. He recently joined a small bookkeeping practice to provide a mixture of accounting and bookkeeping services to existing clients. He’s been using QuickBooks Online for about two months to do basic bookkeeping tasks for clients, such as:
 
-    Reconciling accounts and making adjustment entries where appropriate
-    Reviewing and closing the books in preparation for period end
-    Running basic reports, including Balance Sheet and P&L
+- Reconciling accounts and making adjustment entries where appropriate
+- Reviewing and closing the books in preparation for period end
+- Running basic reports, including Balance Sheet and P&L
 
 
 
 ### Rebecca graduated with a BS in Accounting three years ago and immediately joined a prestigious local firm with 50 employees. She is assigned to some of the firm’s most important clients and she uses QuickBooks Online to carry out basic bookkeeping tasks such as:
 
-    Adding and removing external users in the client’s QuickBooks Online account
-    Integrating third-party applications
+- Adding and removing external users in the client’s QuickBooks Online account
+- Integrating third-party applications
 
 
 ## How the certification exam works
@@ -84,8 +84,9 @@ Note that submitted sections are saved, however, you may lose the progress withi
 Once you have completed all the sections, you can submit the whole exam for grading.
 
 
-###     Pass requirements
-    If you don't pass
+### Pass requirements
+
+If you don't pass
 
 Sections all done? Time for your grade.
 
@@ -93,7 +94,7 @@ You need to get 80% or higher on each section to pass the exam.
 
 You have 3 attempts to pass the exam, so if you fail the first time, you can try two more times.
 
-###     If you don't pass
+### If you don't pass
 
 If you don’t get the pass grade, use the remaining two attempts to retake the exam.
 
@@ -131,18 +132,18 @@ For clients already using QuickBooks Online, you’ll want to validate that thei
 
 The QuickBooks Online Certification exam assesses you on:
 
-    The key tools and workflows to use when setting up clients in QuickBooks Online
-    Reviewing a client’s existing QuickBooks Online books
-    The different subscription options and levels
-    Identifying the right QuickBooks Online subscription for a client’s needs
-    The pricing and billing options
-    The benefits of adding QuickBooks Time and QuickBooks Online Payroll to QuickBooks Online
+- The key tools and workflows to use when setting up clients in QuickBooks Online
+- Reviewing a client’s existing QuickBooks Online books
+- The different subscription options and levels
+- Identifying the right QuickBooks Online subscription for a client’s needs
+- The pricing and billing options
+- The benefits of adding QuickBooks Time and QuickBooks Online Payroll to QuickBooks Online
 
 There are various QuickBooks Online solutions available, and you must be familiar with them all before taking the exam.
 
 To give you a flavor of what you’ll need to know about this, see if you can answer the following question.
 
-This is just a sample—you won’t be scored on your answers!
+This is just a sample: you won’t be scored on your answers!
 
 
 
@@ -150,9 +151,9 @@ This is just a sample—you won’t be scored on your answers!
 
 Which 2 QuickBooks Online billing options include a discount on QuickBooks Time?
 
-    ProAdvisor discount
-    Direct discount
-    Revenue share
+- ProAdvisor discount
+- Direct discount
+- Revenue share
 
 
 
@@ -177,10 +178,10 @@ To get a feel for if you’re ready for the exam, try answering the following qu
 A new client has been using an inconsistent structure and hierarchy in the chart of accounts. You’ve already customized all your other clients’ account numbering to provide a consistent way of working, but your new client doesn’t have account numbering enabled.
 Where would you go to enable account numbering in the chart of accounts?
 
-    The Enable account numbers slider from the Chart of Accounts screen
-    The Chart of accounts tab in Account and Settings
-    The Advanced tab in Account and Settings
-    The Customization option from Accountant Tools
+- The Enable account numbers slider from the Chart of Accounts screen
+- The Chart of accounts tab in Account and Settings
+- The Advanced tab in Account and Settings
+- The Customization option from Accountant Tools
 
 
 
@@ -309,11 +310,11 @@ Standard user
 
 There are several standard user types, so you and your clients can control which areas of QuickBooks Online different users have access to:
 
-    Standard all access users have full access without admin privileges, plus access to Payroll
-    Standard limited customers and vendors users can see and do everything with Customers and Sales, and Vendors and Purchases
-    Standard limited customers only users can see and do everything with Customers and Sales
-    Standard limited vendors only users can see and do everything with Vendors and Purchases
-    Standard no access users have some permissions and can submit their own timesheets but can’t use accounting features
+- Standard all access users have full access without admin privileges, plus access to Payroll
+- Standard limited customers and vendors users can see and do everything with Customers and Sales, and Vendors and Purchases
+- Standard limited customers only users can see and do everything with Customers and Sales
+- Standard limited vendors only users can see and do everything with Vendors and Purchases
+- Standard no access users have some permissions and can submit their own timesheets but can’t use accounting features
 
 
 
