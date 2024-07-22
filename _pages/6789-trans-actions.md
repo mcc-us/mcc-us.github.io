@@ -13,7 +13,7 @@ layout: post
 | <button onclick="openWindow()">Open: Video @ 40:05</button>|
 
 
-### 40:05 6-Entering Your First Transaction, Creating An Invoice  
+### Creating An Invoice, Transactions / 40:05   
 
 
 |**Find COA**: Tools/`Reports`/`Std`/`6.Recurring.Email.TB.Report`|
@@ -75,10 +75,7 @@ Payroll / Employee info, act tax payable, hours tax
 
 
 
-
-
-
-#### 56:22 7-First Transaction (Practice)
+#### Transactions (Practice) / 56:22
 
 
  <script> function openWindow()
@@ -100,7 +97,7 @@ Payroll / Employee info, act tax payable, hours tax
 
 
 
-### 8 - 58:35 Finding & Fixing Mistakes
+### Finding & Fixing Mistakes / 58:35 
 
 
  <script> function openWindow()
@@ -118,7 +115,7 @@ Payroll / Employee info, act tax payable, hours tax
 
 
 
-### 1:03:42 9-Deleting Transactions
+### Deleting Transactions / 1:03:42
 
 
  <script> function openWindow()
