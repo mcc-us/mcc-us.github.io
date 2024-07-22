@@ -16,7 +16,7 @@ layout: post
 <button onclick="openWindow()">Open: Quickbooks Dude Video @ 16:22</button>
 
 
-1. Goto: Tools/`Expenses`/`Transactions`/`Chart of Accounts`
+1. Goto: Accountant Tools / `Transactions` / `Chart of Accounts`
 2. Determine which accounts to use? *Make New / Edit / Inactive*?
 3. To Make New / Edit / Inactive / Report Acts:  `New` **OR** `View register` drop down menus
 
@@ -43,11 +43,11 @@ layout: post
 <button onclick="openWindow()">Open: Quickbooks Dude Video @ 26:10</button>
 
 
-1. Generate List of Customer/Vendor
+1. Generate List of Customer / Vendor
    
 2. Add Accounts or Change Names 
 
-3. Set Up Customer: Tools/`Sales`/`Transactions`/`Customer`   
+3. Set Up Customer: Accountant Tools / `Sales` / `Transactions` / `Customer`   
 
 |Set Up Customer Data|
 |:-:|
