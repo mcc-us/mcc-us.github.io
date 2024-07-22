@@ -81,6 +81,14 @@ layout: post
 ### Setup Products & Services / 34:07  
 
 
+<script> 
+ function openWindow()
+ {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=2450");}
+</script>
+
+<button onclick="openWindow()">Open: Quickbooks Dude Video @ 34:07</button>
+
+
 |Input & Manage Products & Services Lists|
 |:--:|
 |![5.1.sales.prods.services.lists](/assets/images/5.1.sales.prods.services.lists.png)|
