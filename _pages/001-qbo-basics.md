@@ -1,5 +1,5 @@
 ---
-title: QBO Basics
+title: 2-QBO Basics
 layout: post
 ---
 

@@ -1,3 +1,9 @@
+---
+title: AI-QBO Outline 2
+layout: post
+---
+
+
 # QuickBooks Online Certification Prep
 
 [QuickBooks Online Certification Prep](https://qbo.intuit.com/app/accountant/training?d=3140)

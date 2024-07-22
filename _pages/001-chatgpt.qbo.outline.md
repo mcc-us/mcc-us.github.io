@@ -1,5 +1,5 @@
 ---
-title: ChatGPT-QBO Outline
+title: 1-ChatGPT-QBO Outline
 layout: post
 ---
 
