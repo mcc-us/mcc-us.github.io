@@ -6,10 +6,8 @@ permalink: /
 
 
 
-|Company Setup Links|
+|Links|
 |:-|
-|[COA](/345-company-set-up.md), [Customer](/345-company-set-up.md), [Products & Services](/345-company-set-up.md)|
-||
 |External Links & HELP|
 |https://quickbooks.intuit.com/learn-support/en-us/help-custom/L8onrlA6N|
 |https://www.youtube.com/watch?v=r7eshNt0nZY|
