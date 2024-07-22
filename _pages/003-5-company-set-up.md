@@ -1,5 +1,5 @@
 ---
-title: 3,4,5 Company Set Up
+title: Company Set Up
 layout: post
 ---
 

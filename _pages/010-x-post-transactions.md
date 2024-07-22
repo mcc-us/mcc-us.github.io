@@ -1,5 +1,5 @@
 ---
-title: 6, X-actions
+title: after X-actions
 layout: post
 ---
 
@@ -74,59 +74,3 @@ For my accountnat   / Gen.Kedger / PL / Trial Balance /Recurring Template list /
 Payroll / Employee info, act tax payable, hours tax 
 
 
-
-#### Transactions (Practice) / 56:22
-
-
- <script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=3382");}
- </script>
-
-| Quickbooks Dude Videos |
-|:-:|
-| <button onclick="openWindow()">Open: Video @ 56:22</button>|
-
-1. Determine:  *Make New / Edit / Inactive*?
-
-2. **Goto** Tools/`Bookmarks`/`Bank Transactions`/`Chart of Accounts`   
-
-
-|**Practice X-actions**: Tools/`Reports`/`Std`/`7`|
-|:--:|
-|![7](/assets/images/7.pracvtice.invoices.png)|
-
-
-
-### Finding & Fixing Mistakes / 58:35 
-
-
- <script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=3515");}
- </script>
-
-| Quickbooks Dude Videos |
-|:-:|
-| <button onclick="openWindow()">Open: Video @ 58:35</button>|
-
-
-|**Practice X-actions**: Tools/`Reports`/`Std`/`7`|
-|:--:|
-|![8](/assets/images/8.fixing.edit.invoices.png)|
-
-
-
-### Deleting Transactions / 1:03:42
-
-
- <script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=3822");}
- </script>
-
-| Quickbooks Dude Videos |
-|:-:|
-| <button onclick="openWindow()">Open: Video @ 1:03:42</button>|
-
-
-|**Practice X-actions**: Tools/`Reports`/`Std`/`7`|
-|:--:|
-|![9](/assets/images/9-deleting-xactions.png)|
