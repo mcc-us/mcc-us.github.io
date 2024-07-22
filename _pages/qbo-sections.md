@@ -115,7 +115,12 @@ When you’re done, select Save, followed by Done
 3. To create statements for multiple customers at once, `check all the relevant customers`, then select `Create statements` from the Batch actions dropdown.
 
 
+### Credit memos and customer refunds
 
+>How can you and QuickBooks Online help?
+>
+>QuickBooks Online allows clients to give their customers credit that they can apply to invoices. These are issued as credit memos. Clients can also send refunds to customers if required. They can do this by creating refund receipts.
+{: .block-tip }
 
 ## Expenses and vendors
 

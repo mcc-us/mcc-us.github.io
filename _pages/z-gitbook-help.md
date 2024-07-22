@@ -41,17 +41,17 @@ function buttonFunc() {
 
 
 ```
-> #### green tip
+> Green Tip
 {: .block-tip }
 ```
 
 ```
-> #### yellow warning
+> Yellow Warning
 {: .block-warning }
 ```
 
 ```
-> #### red danger
+> Red Danger
 {: .block-danger }
 ```
 
