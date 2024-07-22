@@ -47,12 +47,12 @@ Back on the Custom fields screen, the new custom field appears. Note that there�
 
 
 ### How many custom fields can be added?
-Subscription level	Sales forms	Purchase orders
 
-QuickBooks Online Simple Start	Not available	Not available
-QuickBooks Online Essentials	Up to 3	Not available
-QuickBooks Online Plus
-Up to 3, shared across both sales forms and purchase orders. To apply the same custom field to both form categories, select the checkboxes when you’re creating the field.
+|Subscription level|Sales forms|Purchase orders|
+|-|-|
+|QuickBooks Online Simple Start|Not available|Not available|
+|QuickBooks Online Essentials|Up to 3|Not available|
+|QuickBooks Online Plus|Up to 3, shared across both sales forms and purchase orders. To apply the same custom field to both form categories, select the checkboxes when you’re creating the field.||
 
 
 QuickBooks Online Advanced
@@ -95,6 +95,26 @@ When you’re done, select Save, followed by Done
 4.  Adding Quickbooks Payments
 
 5.  Basic Sales Tax setup
+
+### Creating a customer statement 
+
+1. Select `+ New`, then select `Statement`
+1. Select the checkboxes for the customer(s) you wish to create statements for 
+1. Select the Statement type from the dropdown. For this example, we’ll create a Balance Forward statement
+1. From the Customer Balance Status dropdown, choose whether you want the statement to list All, Open, or Overdue transactions
+1. Next, enter a statement date (typically the date when you’ll issue the statement)
+1. Specify the date range that you want the statement to cover
+1. Check that the statement contains the correct information before you send it to the selected customer(s). To do this, select Print or Preview at the bottom of the screen. This opens a statement preview
+1. If the statement looks good, select Close on the preview window, then select Save or Save and send as required
+
+
+### Alternative methods of creating customer statements 
+
+1. One way to do this for a specific customer is to select `Create statement` from the dropdown in the `Action column`.
+2. Another way is to `open the customer from list` and select `New transaction` followed by `Statement`.
+3. To create statements for multiple customers at once, `check all the relevant customers`, then select `Create statements` from the Batch actions dropdown.
+
+
 
 
 ## Expenses and vendors
