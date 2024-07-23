@@ -1,8 +1,7 @@
 ---
-title: 1-Company Set Up
+title: 003-Company SetUp
 layout: post
 ---
-
 
 
 ### Setup Customer Data / 26:10
