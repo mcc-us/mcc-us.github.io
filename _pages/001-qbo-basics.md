@@ -6,15 +6,15 @@ layout: post
 
 ## 1. Introduction to QuickBooks Online
 
-- Overview of QuickBooks Online
-
-QuickBooks Online has 60-80% of market share for Bookkeeping, depending on who you talk to.  
-
-There are differences between QuickBooks Online and QuickBooks Desktop. However it is advantageous to use the online version over the desktop one. QBO is making it easy to convert from the desktop to online.
 
 - Signing up and setting up your account
+     - If you are learning QBO then start with the **FREE** Accountant version of the software. It allows you to learn & use their training course.
+     - It gives your future clients a discount once you them.
+  
+- QuickBooks Online has 60-80% of market share for Bookkeeping, depending on who you talk to.  
 
-If you are learning QBO then start with the FREE Accountant version of the software. It provides a free account for bookkeepers and accountants AND gives your future clients a discount if you enroll new clients.
+- There are differences between QuickBooks Online and QuickBooks Desktop. However it is advantageous to use the online version over the desktop one. QBO is making it easy to convert from the desktop to online. (**This is the place to dive into the WHY**.)
+
 
 ### Key Features of QuickBooks Online
 
