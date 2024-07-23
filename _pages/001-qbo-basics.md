@@ -8,7 +8,7 @@ layout: post
 
 - Overview of QuickBooks Online
 
-QuickBooks Online has 60-85% of market share for Bookkeeping.
+QuickBooks Online has 60-80% of market share for Bookkeeping, depending on who you talk to.  
 
 There are differences between QuickBooks Online and QuickBooks Desktop. However it is advantageous to use the online version over the desktop one. QBO is making it easy to convert from the desktop to online.
 
@@ -32,11 +32,9 @@ If you are learning QBO then start with the FREE Accountant version of the softw
 2. `+New` 
 3. `Accountant Tools`
 
-![getting things done](/assets/images/1.getting-things-done.BIG.png)
-
-
 |Account Settings & Adjust Company Settings|
 |:-:|
+|![Start](/assets/images/1.getting-things-done.BIG.png)|
 |![Settings](/assets/images/gear-settings_2024-06-19_09-49-27.png)|
 
 
