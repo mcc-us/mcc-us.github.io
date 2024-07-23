@@ -1,17 +1,7 @@
 ---
-title: 1-ChatGPT-QBO Outline
+title: 1-Learning QBO: An Accounting Approach
 layout: post
 ---
-
-Prompt:
-
-- I have taken a college course on the "Fundamentals of Accounting." I am now a bookkeeper. I am knowledgeable in the basics of bookkeeping. I want to learn how to use Quickbooks Online. I would like a flow chart that teaches me how to use Quickbooks Online in a manner that is in step with a "Fundamentals of Accounting" college-level course. I would like this flow chart or outline to closely follow the steps in a normal college-level course. Could you prepare such an outline? Could you produce this outline using standard markdown formatting?
-
-Answer:
-
-QuickBooks Online Learning Outline (Fundamentals of Accounting Approach)
-
-# Learning QuickBooks Online: An Accounting Fundamentals Approach
 
 ## 1. Introduction to QuickBooks Online
 - Overview of QuickBooks Online
@@ -93,3 +83,9 @@ QuickBooks Online Learning Outline (Fundamentals of Accounting Approach)
 - Summary of key learning points
 - Next steps in mastering QuickBooks Online
 - Resources for further learning and support
+
+---
+
+ChatGPT Prompt Used:
+
+- I have taken a college course on the "Fundamentals of Accounting." I am now a bookkeeper. I am knowledgeable in the basics of bookkeeping. I want to learn how to use Quickbooks Online. I would like a flow chart that teaches me how to use Quickbooks Online in a manner that is in step with a "Fundamentals of Accounting" college-level course. I would like this flow chart or outline to closely follow the steps in a normal college-level course. Could you prepare such an outline? Could you produce this outline using standard markdown formatting?
