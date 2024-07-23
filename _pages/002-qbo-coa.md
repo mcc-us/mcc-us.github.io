@@ -1,5 +1,5 @@
 ---
-title: 002-Accounting & Chart of Accounts
+title: 002-Chart of Accounts
 layout: post
 ---
 
@@ -9,7 +9,7 @@ One of the first things you will do with a new client is set up their company on
 I'll start with the Chart of Accounts first, arbitrarily.
 
 
-### Setup A Chart Of Accounts
+### Setup: Chart Of Accounts
 
 
 <script> 
@@ -34,7 +34,7 @@ I'll start with the Chart of Accounts first, arbitrarily.
 >**NOTE**: It is not possible to make some accounts inactive  
 {: .block-warning } 
 
-### Example Chart of Accounts
+### Example: Chart of Accounts
 
 - Attached is an example chart of accounts that includes many common accounts for different situations.
 
