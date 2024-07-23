@@ -1,5 +1,5 @@
 ---
-title: 1-Learning QBO: An Accounting Approach
+title: 000-Learning QBO: An Accounting Approach
 layout: post
 ---
 
