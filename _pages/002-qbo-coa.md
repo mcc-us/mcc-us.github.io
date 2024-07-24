@@ -3,10 +3,9 @@ title: 002-Chart of Accounts
 layout: post
 ---
 
+- Setting up the Chart of Accounts should be the first thing to do in QuickBooks.
 
-One of the first things you will do with a new client is set up their company on Quickbooks and their Chart of Accounts.
-
-I'll start with the Chart of Accounts first, arbitrarily.
+- The Chart of Accounts prepares the subsidiary ledgers that is necessary for each account.
 
 
 ### Setup: Chart Of Accounts
@@ -14,10 +13,10 @@ I'll start with the Chart of Accounts first, arbitrarily.
 
 <script> 
  function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=982");}
+ {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=987");}
 </script>
 
-<button onclick="openWindow()">Open: Quickbooks Dude Video @ 16:22</button>
+<button onclick="openWindow()">Open: Tutorital Video @ 16:27</button>
 
 
 1. Goto: Accountant Tools / `Transactions` / `Chart of Accounts`
