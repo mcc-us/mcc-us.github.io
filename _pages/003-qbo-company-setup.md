@@ -6,7 +6,6 @@ layout: post
 
 ### Setup Customer Data / 26:10
 
-
 <script> 
  function openWindow()
  {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=1570");}
