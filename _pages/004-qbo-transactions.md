@@ -23,9 +23,24 @@ layout: post
 See Customer Balance Detail, list of customers that owe you!
 
 
-1. Creatint an Invoice
+```
+Clara CFO Group Invoice video 
+https://www.youtube.com/watch?v=X984hQDZnik
+``
 
-|**Creatint an Invoice**: |
+<script> function openWindow()
+ {window.open("https://www.youtube.com/watch?v=X984hQDZnik");}
+ </script>
+
+| Clara CFO Group Invoice video |
+|:-:|
+| <button onclick="openWindow()">Open: Invoice video</button>|
+
+
+
+1. Creating an Invoice
+
+|**Creating an Invoice**: |
 |:--:|
 |![6.](/assets/images/6.1.create.invoices.png)|
 |![6.](/assets/images/6.2.create.invoices.png)|
@@ -43,11 +58,46 @@ Tools Reports / Std / Custom / Managment reports
 
 Reports / Std / `For my accountant` / `Trial Balance` / Star 
 
+## Some COA Best Practices
+
+- Always make sure each bank account is it's own account.  
+  - Same with Credit cards, don't lump bank accounts and CCs into the same account.  
+
+- QB will make you keep some accounts, you don't have to use them though!
+   
+- Any 'uncategorized" account should end in "99" and not be used over a long period of time. Just use it while you investigate the transaction.
+
+- Don't use the main account whenever there are subaccounts as options. For example, don't code anything to "4000" when the transaction should go to subaccount 4010.
+
+- If there is no suitable account for a given transaction, feel free to add one if you think it makes sense to have the presentation on the P&L. 
+
+- Don't go too far overboard with a new account for every single transaction - try not to go more than 2 levels deep on your sub accounts 
+
+- Avoid setting up accounts for vendors as vendors can be tagged separately for each line item. For example, don't make "quickbooks" its own account. Instead put "quickbooks" into a "software" category 
+
+- Match Sales and COGS by product line when you can
+
+- Customize this for your best use! 
+
+
+## General Code: 
+(Your milage may vary.)
+
+ 1000s = Assets
+ 2000s = Liabilities 
+ 3000s = Equity
+ 4000s = Revenue
+ 5000s = Cost of Goods Sold
+ 6000s = Payroll 
+ 7000s = All other Expenses 
+ 8000s = Taxes and Misc
+
+
 
 
 ## Reports:
 
-|**Creatint an Invoice**: |
+|**Creating an Invoice**: |
 |:--:|
 |![6.](/assets/images/6.customer.bala.detail.report.png)|
 |![6.](/assets/images/6.customer.bala.detail.report2.png)|

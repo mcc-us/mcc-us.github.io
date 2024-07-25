@@ -34,6 +34,19 @@ layout: post
 >**NOTE**: It is not possible to make some accounts inactive  
 {: .block-warning } 
 
+
+<script> 
+ function openWindow()
+ {window.open("https://www.youtube.com/watch?v=mkQWUzK-pGg");}
+</script>
+
+
+>**See Also**: 
+<button onclick="openWindow()">Open: Clara CFO chart of Accounts video tutorial</button>
+>I like to play this on 1.5X speed. 
+{: .block-warning } 
+
+
 ### Example: Chart of Accounts
 
 - This example chart of accounts includes many common accounts for different situations.
