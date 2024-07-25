@@ -16,7 +16,9 @@ layout: post
  {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=987");}
 </script>
 
-<button onclick="openWindow()">Open: Tutorital Video @ 16:27</button>
+|The "QuickBooksGuy"|
+|:-:|
+|<button onclick="openWindow()">Open: Tutorital Video @ 16:27</button>|
 
 
 1. Goto: Accountant Tools / `Transactions` / `Chart of Accounts`
