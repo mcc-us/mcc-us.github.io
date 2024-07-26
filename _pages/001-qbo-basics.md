@@ -13,7 +13,7 @@ layout: post
   
 - QuickBooks Online has 60-80% of market share for Bookkeeping, depending on who you talk to.  
 
-- There are differences between QuickBooks Online and QuickBooks Desktop. However it is advantageous to use the online version over the desktop one. QBO is making it easy to convert from the desktop to online. (**This is the place to dive into the WHY**.)
+- There are differences between QuickBooks Online and QuickBooks Desktop. However it is advantageous to use the online version over the desktop one. QBO is making it easy to convert from the desktop to online. (**This is NOT the place to dive into the WHYs**.)
 
 
 ### Key Features of QuickBooks Online
