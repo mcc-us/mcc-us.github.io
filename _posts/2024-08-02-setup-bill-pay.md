@@ -1,19 +1,25 @@
+---
+layout: post
+title: QuickBooks Bill Pay-Summary & Setup
+--- 
+
+See also: https://quickbooks.intuit.com/learn-support/en-us/help-article/manage-workflows/set-roles-permissions-paying-bills-quickbooks-bill/L0Z0K2aXV_US_en_US?uid=lpwnvkru
+
 # QuickBooks Bill Pay: Summary & Setup Steps
 
 ## Overview
 QuickBooks Bill Pay helps small business owners automate paying bills & managing accounts payable.  
 
 ## Benefits of QuickBooks Bill Pay
-1. **Automation**: Automatically record & pay bills.  
-2. **Time Savings**: Manage & pay bills from one place.  
-3. **Payment Options**: Pay vendors via ACH bank payments or paper checks.  
-4. **Cash Flow Management**: Schedule payments.  
-5. **Vendor & Contractor Management**: Track & issue 1099s.  
-6. **Team Collaboration**: Assign roles & permissions for bill approval workflows.  
-7. **Security**: Limit access to financial data.  
+1. Automatically record & pay bills.  
+2. Pay vendors via ACH bank payments or paper checks.  
+3. Schedule payments.  
+4. Track & issue 1099s, **Vendor & Contractor Management**   
+5. Assign roles & permissions for bill approval workflows.  
+6. Limit access to financial data, **Security**  
 
 ## How QuickBooks Bill Pay Works
-1. Use **QuickBooks Checking** or another connected bank account.  
+1. Use **QuickBooks Checking** or Another connected bank account.  
    - Pay vendors via **ACH bank payments** or **paper checks**.  
 
 2. Enter your bank account info.  
@@ -39,6 +45,17 @@ QuickBooks Bill Pay helps small business owners automate paying bills & managing
 7. Set the **Withdrawal date** for when you want funds to be withdrawn, up to 90 days in advance.  
 
 8. **Review** the payment instructions & select **Schedule payment**.  
+
+---
+
+Which of the following statements about QuickBooks Bill Pay are correct? Select all that apply.
+
+    You can connect a new bank/credit card to QuickBooks Online from the QuickBooks Bill Pay tool
+    When you use QuickBooks Bill Pay, you can choose whether to pay a bill by ACH transfer or paper check
+    The first time you use a bank/credit card account with QuickBooks Bill Pay, you need to match it to the corresponding bank/credit card account in the chart of accounts
+
+That’s correct. You can connect a new bank/credit card to QuickBooks Online from the QuickBooks Bill Pay tool. The first time you use a bank/credit card account with QuickBooks Bill Pay, you need to match it to the corresponding bank/credit card account in the chart of accounts. You can choose whether to pay a bill by ACH transfer or paper check.
+
 
 
 ---
