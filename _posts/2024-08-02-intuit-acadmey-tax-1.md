@@ -6,6 +6,8 @@ title: Intuit Academy-Tax Level 1 Exam-Learning Objectives
 
 See: [academy.intuit.com/programs](https://academy.intuit.com/programs), **Free**
 
+https://academy.intuit.com/home
+
 Personal Information and Dependents
 
 - Recommend the correct filing status based on customer information
