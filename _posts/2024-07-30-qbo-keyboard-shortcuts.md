@@ -13,6 +13,6 @@ Linux Shortcuts
 |H|Help|
 |I|Invoices|
 |J|Journals|
-|L|Lists|
+|L|Does NOT WORK w/ Linux|
 |W|Write Checks|
 |X|Expenses|
