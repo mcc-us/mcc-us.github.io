@@ -7,6 +7,22 @@ layout: post
 ## 1. Introduction to QuickBooks Online
 
 
+Three common parts for all QBO views
+
+1. `Settings`
+2. `+New` 
+3. `Accountant Tools`
+
+|Account Settings & Adjust Company Settings|
+|:-:|
+|![Start](/assets/images/1.getting-things-done.BIG.png)|
+|![Settings](/assets/images/gear-settings_2024-06-19_09-49-27.png)|
+|`+New` & `Accountant Tools`|Accountant Options|
+|:--:|:--:|
+|![qbo.left.panel](/assets/images/qbo.left.panel.png)|![my-clients](/assets/images/my-clients-page_2024-06-19_10-09-25.png)|
+
+---
+
 - Signing up and setting up your account
      - If you are learning QBO then start with the **FREE** Accountant version of the software. It allows you to learn & use their training course.
      - It gives your future clients a discount once you them.
@@ -25,20 +41,3 @@ layout: post
 - Inventory Management: Track inventory, manage purchase orders, and generate inventory reports to ensure stock on hand.  
 - Payroll Integration: Manage payroll within QBO, including employee information, paychecks, and tax filings.  
 - Bank Reconciliation: Connect your bank and credit card accounts to QBO to automatically import transactions and simplify the reconciliation process.  
-
-### Three common parts for all QBO views
-
-1. `Settings`
-2. `+New` 
-3. `Accountant Tools`
-
-|Account Settings & Adjust Company Settings|
-|:-:|
-|![Start](/assets/images/1.getting-things-done.BIG.png)|
-|![Settings](/assets/images/gear-settings_2024-06-19_09-49-27.png)|
-
-
-|`+New` & `Accountant Tools`|Accountant Options|
-|:--:|:--:|
-|![qbo.left.panel](/assets/images/qbo.left.panel.png)|![my-clients](/assets/images/my-clients-page_2024-06-19_10-09-25.png)|
-
