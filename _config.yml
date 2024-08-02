@@ -5,13 +5,13 @@ author:           Matt CC
 email:            mcurcio@duck.com
 # description: >
   
-
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://mcc-us.github.io'
-baseurl:          '/'
+baseurl:          '/bookkeeping/'
 rss:              RSS
+
 
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
