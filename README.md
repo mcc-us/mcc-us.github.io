@@ -1,6 +1,6 @@
 ---
 layout: home
-title: QuickBooks Learning
+title: QuickBooks Online Learning
 permalink: /
 ---
 
