@@ -8,8 +8,9 @@ email:            mcurcio@duck.com
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              "https://mcc-us.github.io"
-baseurl:          ""
+url: "https://mcc-us.github.io" # the base hostname & protocol for your site
+baseurl: "/bookkeeping" # the subpath of your site
+
 rss:              RSS
 
 
