@@ -16,25 +16,21 @@ QuickBooks Online has two main interface views: Business View and Accountant Vie
 ### Steps:
 
 1. **Identify Your View:**
-   - Determine if you are in `Business View` or `Accountant View` by looking at the left panel.
-     - Business View uses icons.
-     - Accountant View has clearly written menu choices.
+   1. Determine if you are in `Business View` or `Accountant View` by looking at the left panel.
+     1. Business View uses icons.
+     2. Accountant View has clearly written menu choices.
 
 2. **Access Settings:**
-   - Locate the `cog wheel` on top right corner to open settings and manage account information.
+   1. Locate the `cog wheel` on top right corner to open settings and manage account information.
 
 3. **Perform Transactions:**
-   - Click the plus sign in the top left corner to access various transactions and day-to-day tasks.
+   1. Click the plus sign in the top left corner to access various transactions and day-to-day tasks.
 
 4. **Access Reports:**
-   - In Accountant View, click `Reports` directly from the left panel.
-   - In Business View, navigate through `Business Overview` > `Reports` from the left panel.
-   - Alternatively, access reports through the middle of the screen in both views.
+   1. In Accountant View, click `Reports` directly from the left panel.
+   1. In Business View, navigate through `Business Overview` > `Reports` from the left panel.
+   1. Alternatively, access reports through the middle of the screen in both views.
 
-5. **Use Video Learning Tools:**
-   - To navigate a tutorial video, click `Show More` under the video description to expand and see topic links.
-   - Click on a time index link to jump directly to that part of the video.
-   - Interact with the teacher by asking questions in the comments section of the video.
 
 ---
 
@@ -45,27 +41,27 @@ Account settings in QuickBooks Online determine the default behaviors until you 
 ### Steps:
 
 1. **Switch Between Views:**
-   - Click the `cog wheel` in the top right corner.
-   - Select `Switch to Accountant View` or `Switch to Business View` as needed.
+   1. Click the `cog wheel` in the top right corner.
+   1. Select `Switch to Accountant View` or `Switch to Business View` as needed.
 
 2. **Access Account Settings:**
-   - Click the `cog wheel` and select `Account and Settings` from the menu.
-   - Navigate to different categories of settings from the left panel of the Account Settings window.
+   1. Click the `cog wheel` and select `Account and Settings` from the menu.
+   1. Navigate to different categories of settings from the left panel of the Account Settings window.
 
 3. **Enable Expense Tracking by Customer:**
-   - In the `Account and Settings` window, select `Expenses` from the left panel.
-   - Click the pencil icon to edit the settings.
-   - Enable `Track expenses and items by customer` and `Save` the changes.
+   1. In the `Account and Settings` window, select `Expenses` from the left panel.
+   1. Click the pencil icon to edit the settings.
+   1. Enable `Track expenses and items by customer` and `Save` the changes.
 
 4. **Update Company Information:**
-   - In the `Account and Settings` window, select `Company` from the left panel.
-   - Click the pencil icon to edit the company name and address.
-   - Start typing the address, select it from the suggested list, or enter it manually.
-   - `Save` the changes and click `Done` to exit.
+   1. In the `Account and Settings` window, select `Company` from the left panel.
+   1. Click the pencil icon to edit the company name and address.
+   1. Start typing the address, select it from the suggested list, or enter it manually.
+   1. `Save` the changes and click `Done` to exit.
 
 5. **Verify Settings Changes:**
-   - Return to the `Expenses` window, add an expense manually, and check if the customer field is available.
-   - Confirm that the updated company name and address appear correctly on the dashboard and in forms/reports.
+   1. Return to the `Expenses` window, add an expense manually, and check if the customer field is available.
+   1. Confirm that the updated company name and address appear correctly on the dashboard and in forms/reports.
 
 
 ---
