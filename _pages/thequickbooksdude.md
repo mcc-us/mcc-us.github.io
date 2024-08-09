@@ -3,15 +3,40 @@ title: thequickbooksdude NOTES
 layout: post
 ---
 
- <script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc");}
- </script>
+
+[Navigate](#1)
+[Adjust Settings](#2)
+[Chart Of Accounts](#3)
+[Customer & Vendor](#4)
+[List Of Products And Services](#5)
+[Invoices](#6)
+[Transaction Practice](#7)
+[Finding And Fixing QuickBooks Online Mistakes](#8)
+[Delete Transactions](#9)
+[Receiving Invoice Payments](#10)
+[Sales Receipts](#11)
+[Customize Reports](#12) 
+[Practice Transactions](#13)
+[Accounts Payable](#14)
+[Vendor’s Bills](#15)
+[Practice Exercise](#16)
+[Paying Bills](#17)
+[Record Checks](#18)
+[Petty Cash](#19)
+[Practice Transactions](#20)
+[Bank Deposits](#21)
+[Deposits With Cash Back](#22)
+[Undeposited Funds](#23)
+[Deposit Detail Report](#24) 
+[Advanced Search Tool](#25)
+[Audit Log](#26)
+[Exam](#27)
+
 
 ---
 
-# Notes
 
-## Chapter 1: Navigating the QuickBooks Online Interface
+## Chapter 1: Navigating the QuickBooks Online Interface {#1}
 
 QuickBooks Online has two main interface views: Business View and Accountant View. Key navigation elements remain consistent across both views, with the `cog wheel`, the plus sign, and the reports menu being essential tools for managing your account and transactions.
 
@@ -37,7 +62,7 @@ QuickBooks Online has two main interface views: Business View and Accountant Vie
 ---
 
 
-## Chapter 2: Adjusting the Company Account Settings
+## Chapter 2: Adjusting the Company Account Settings {#2}
 
 Account settings in QuickBooks Online determine the default behaviors until you modify them. This chapter covers how to switch between Business View and Accountant View, and how to adjust key settings like tracking expenses by customer and updating company information.
 
@@ -70,7 +95,7 @@ Account settings in QuickBooks Online determine the default behaviors until you 
 ---
 
 
-## Chapter 3: Manage The QuickBooks Online Chart Of Accounts
+## Chapter 3: Manage The QuickBooks Online Chart Of Accounts {#3}
 
 
 How to set up and manage the Chart of Accounts, customer data, vendor data, and products/services. It emphasizes the importance of correctly categorizing accounts and associating income accounts with specific items for accurate financial tracking.
@@ -89,6 +114,11 @@ How to set up and manage the Chart of Accounts, customer data, vendor data, and 
    3. Enter the `Name` of the account in capital letters.
    4. Click `Save and Close` or `Save and New` to continue adding accounts.
 
+
+
+## Chapter 4: Customers And Vendors {#4}
+
+
 3. **Managing Customers**
    1. Go to `Sales` > `Customers`.
    2. Click `Add Customer Manually` if this is your first time.
@@ -105,7 +135,7 @@ How to set up and manage the Chart of Accounts, customer data, vendor data, and 
 ---
 
 
-## Chapter 5: Managing The List Of Products And Services
+## Chapter 5: Managing The List Of Products And Services {#5}
 
 ### Steps
 
@@ -123,7 +153,7 @@ How to set up and manage the Chart of Accounts, customer data, vendor data, and 
 ---
 
 
-## Chapter 6: Entering Your First Transaction, Creating An Invoice
+## Chapter 6: Entering Your First Transaction, Creating An Invoice {#6}
 
 
 The text describes the process of entering the first transaction in QuickBooks Online, which involves creating an invoice and checking its effects on the trial balance and customer balance reports. The steps are detailed to guide users through setting up reports, entering invoice details, and verifying the results.
@@ -165,7 +195,7 @@ The text describes the process of entering the first transaction in QuickBooks O
 ---
 
 
-## Chapter 7: First QuickBooks Transaction Practice
+## Chapter 7: First QuickBooks Transaction Practice {#7}
 
 
 
@@ -206,7 +236,7 @@ This chapter guides users through practicing inputting multiple invoices into Qu
 ---
 
 
-## Chapter 8: Finding And Fixing QuickBooks Online Mistakes
+## Chapter 8: Finding And Fixing QuickBooks Online Mistakes {#8}
 
 
 
@@ -243,7 +273,7 @@ The text provides guidance on how to input invoices into QuickBooks Online and c
 ---
 
 
-## Chapter 9: Delete Transactions In QuickBooks Online
+## Chapter 9: Delete Transactions In QuickBooks Online {#9}
 
 
 
@@ -280,7 +310,7 @@ The text provides guidance on how to input invoices into QuickBooks Online and c
 ---
 
 
-## Chapter 10: Receiving Invoice Payments
+## Chapter 10: Receiving Invoice Payments {#10}
 
 
 
@@ -318,7 +348,7 @@ The text explains how to record invoice payments, emphasizing the impact on both
 ---
 
 
-## Chapter 11: How To Enter Sales Receipts
+## Chapter 11: How To Enter Sales Receipts {#11}
 
 
 
@@ -359,7 +389,7 @@ The text describes how to enter sales receipts, explaining how immediate payment
 ---
 
 
-## Chapter 12: Customize QuickBooks Reports With The Journal
+## Chapter 12: Customize QuickBooks Reports With The Journal {#12}
 
 
 
@@ -400,7 +430,7 @@ This text explains how to customize the Journal report, focusing on adding and r
 ---
 
 
-## Chapter 13: Practice with Customer Transactions
+## Chapter 13: Practice with Customer Transactions {#13}
 
 
 This chapter guides you through practicing customer transactions, ensuring that your trial balance and customer balance detail match the provided examples. It also discusses common mistakes and how to troubleshoot them.
@@ -417,7 +447,7 @@ This chapter guides you through practicing customer transactions, ensuring that 
 ---
 
 
-## Chapter 14: Vendors and Accounts Payable
+## Chapter 14: Vendors and Accounts Payable {#14}
 
 
 This chapter introduces managing vendors and accounts payable, including how to track money owed to vendors through the vendor balance detail report.
@@ -430,7 +460,7 @@ This chapter introduces managing vendors and accounts payable, including how to 
 ---
 
 
-## Chapter 15: Entering Bills from Vendors
+## Chapter 15: Entering Bills from Vendors {#15}
 
 
 Learn how to record bills received from vendors, affecting both the trial balance and vendor records.
@@ -446,7 +476,7 @@ Learn how to record bills received from vendors, affecting both the trial balanc
 ---
 
 
-## Chapter 16: Entering Bills Practice Exercise
+## Chapter 16: Entering Bills Practice Exercise {#16}
 
 
 This chapter provides a practice exercise to reinforce the process of entering vendor bills and identifying common mistakes.
@@ -462,7 +492,7 @@ This chapter provides a practice exercise to reinforce the process of entering v
 ---
 
 
-## Chapter 17: Paying Vendor Bills
+## Chapter 17: Paying Vendor Bills {#17}
 
 
 This chapter explains how to record payments made to vendors, affecting the trial balance and vendor records.
@@ -478,7 +508,7 @@ This chapter explains how to record payments made to vendors, affecting the tria
 ---
 
 
-## Chapter 18: Writing Checks and Paying Expenses
+## Chapter 18: Writing Checks and Paying Expenses {#18}
 
 
 This chapter covers how to record check and expense transactions, highlighting the differences between paying bills later and immediate payment.
@@ -497,7 +527,7 @@ This chapter covers how to record check and expense transactions, highlighting t
 ---
 
 
-## Chapter 19: Cash Transactions and Petty Cash
+## Chapter 19: Cash Transactions and Petty Cash {#19}
 
 
 This chapter explains how to manage cash transactions and petty cash funds, including setting up a petty cash account and recording transactions.
@@ -515,7 +545,7 @@ This chapter explains how to manage cash transactions and petty cash funds, incl
 ---
 
 
-## Chapter 20: Vendor and Expense Practical Exercise
+## Chapter 20: Vendor and Expense Practical Exercise {#20}
 
 
 This chapter provides a practical exercise combining all vendor-related transactions, helping you review and ensure accuracy in your QuickBooks Online entries.
@@ -529,7 +559,7 @@ This chapter provides a practical exercise combining all vendor-related transact
 ---
 
 
-## Chapter 21: Recording Bank Deposits
+## Chapter 21: Recording Bank Deposits {#21}
 
 
 Learn how to record bank deposits directly, particularly when payments are received and deposited into the bank without tracking quantities.
@@ -544,7 +574,7 @@ Learn how to record bank deposits directly, particularly when payments are recei
 ---
 
 
-## Chapter 22: Deposits with Cash Back
+## Chapter 22: Deposits with Cash Back {#22}
 
 
 This chapter covers how to handle deposits where cash back is taken for expenses, requiring use of the deposit window with adjustments.
@@ -560,7 +590,7 @@ This chapter covers how to handle deposits where cash back is taken for expenses
 ---
 
 
-## Chapter 23: Undeposited Funds
+## Chapter 23: Undeposited Funds {#23}
 
 
 This chapter explains how to manage undeposited funds, handling scenarios where payment is received but not immediately deposited into a bank account.
@@ -576,7 +606,7 @@ This chapter explains how to manage undeposited funds, handling scenarios where 
 ---
 
 
-## Chapter 24: Using the Deposit Detail Report to Edit Previous Deposits
+## Chapter 24: Using the Deposit Detail Report to Edit Previous Deposits {#24}
 
 
 Learn how to use the Deposit Detail report to review and edit previous bank deposits.
@@ -593,7 +623,7 @@ Learn how to use the Deposit Detail report to review and edit previous bank depo
 ---
 
 
-## Chapter 25: Using the Advanced Search Tool
+## Chapter 25: Using the Advanced Search Tool {#25}
 
 
 This chapter introduces the Advanced Search tool, allowing you to locate specific transactions based on various filters.
@@ -609,7 +639,7 @@ This chapter introduces the Advanced Search tool, allowing you to locate specifi
 ---
 
 
-## Chapter 26: Using the Audit Log
+## Chapter 26: Using the Audit Log {#26}
 
 
 The Audit Log records all events and changes within your account, allowing you to track actions and edits made over time.
@@ -624,7 +654,7 @@ The Audit Log records all events and changes within your account, allowing you t
 ---
 
 
-## Chapter 27: Your QuickBooks Online Final Exam
+## Chapter 27: Your QuickBooks Online Final Exam {#27}
 
 
 This final chapter provides a comprehensive exercise to test your mastery of QuickBooks Online, requiring accurate entry and reconciliation of various transaction types.
