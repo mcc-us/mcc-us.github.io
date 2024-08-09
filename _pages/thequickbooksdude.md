@@ -587,13 +587,13 @@ This final chapter provides a comprehensive exercise to test your mastery of Qui
 https://www.youtube.com/watch?v=aoWghI3kvpc  
 QuickBooks Online Complete Tutorial  
 
-Timestamps:   
+Timestamps:  
 00:00 Intro  
-1:45 Navigate The QuickBooks Online Interface   
+1:45 Navigate The QuickBooks Online Interface  
 9:10 Adjust Company Settings and adjust Account Settings  
 16:22 Manage The QuickBooks Online Chart Of Accounts  
-26:10 Managing Customer And Vendor Data   
-34:07 Managing The List Of Products And Services   
+26:10 Managing Customer And Vendor Data  
+34:07 Managing The List Of Products And Services  
 40:05 Entering Your First Transaction, Creating An Invoice  
 56:22 First QuickBooks Transaction Practice  
 58:35 Finding And Fixing QuickBooks Online Mistakes  
@@ -604,7 +604,7 @@ Timestamps:
 1:38:11 Practice Transactions with Customers And Receivables  
 1:44:05 What Is Accounts Payable?  
 1:47:07 Entering Vendor’s Bills  
-1:54:08 Practice Enter Bills Exercise 
+1:54:08 Practice Enter Bills Exercise  
 1:57:23 Paying Bills From Vendors  
 2:05:22 How To Record Checks And Expenses  
 2:12:44 Cash Transactions And Petty Cash  
@@ -621,11 +621,11 @@ Timestamps:
 
 P.S. if you don’t see a topic you are looking for, check the main channel page to get anything you could possibly need regarding QuickBooks or QuickBooks Online:
 
-Mark Smolen is a certified instructor and the creator of the QuickBooks Instructional YouTube Channel and Website. 
+Mark Smolen is a certified instructor and the creator of the QuickBooks Instructional YouTube Channel and Website.  
 
-Get In Touch Today Have a question or need help with your QuickBooks Instructional Course? 
+Get In Touch Today Have a question or need help with your QuickBooks Instructional Course?  
 
-Contact Mark directly: 
+Contact Mark directly:  
 
 - https://marksmolen.com 
 
