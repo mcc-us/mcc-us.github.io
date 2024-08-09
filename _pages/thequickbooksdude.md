@@ -347,8 +347,237 @@ The text describes how to enter sales receipts in QuickBooks Online, explaining 
 
 ## Chapter 12
 
+### Summary
+
+This text explains how to customize the Journal report in QuickBooks Online, focusing on adding and removing columns, sorting transactions, and saving customizations. The Journal report is particularly useful for tracking transactions by the order of creation, helping identify and correct date-related mistakes.
+
+### Steps for Customizing the Journal Report in QuickBooks Online
+
+1. **Open the Journal Report:**
+   - Click `Reports` in the left navigation panel.
+   - Select `All Reports`, then scroll down and choose `Accountant Reports`.
+   - Click on `Journal` to open the report.
+
+2. **Set the Date Range:**
+   - At the top left of the report, click the date range dropdown menu.
+   - Select `All Dates` to view all transactions entered in QuickBooks.
+
+3. **Add a 'Created' Column:**
+   - Click the `Customize` button at the top right of the report.
+   - Under the `Rows/Columns` section, click `Change columns`.
+   - Add the `Created` column by checking the box next to it.
+   - Click `Run Report` to apply the changes.
+
+4. **Sort Transactions by Creation Date:**
+   - Use the `Sort` dropdown at the top left of the report.
+   - Select `Sort by Created` to organize transactions by their creation date.
+
+5. **Reverse the Sort Order:**
+   - Change the sort order to `Descending` to display the most recently entered transactions at the top.
+
+6. **Save the Customized Report:**
+   - Click `Save Customization` at the top right of the report.
+   - Name the report (e.g., `My Journal`) and click `Save`.
+
+7. **Access the Customized Report:**
+   - Go to `Reports` > `My Custom Reports` to find and open your saved journal report.
+   - Use this report to easily track and correct date-related transaction errors.
+
+---
 
 
+## Chapter 13: Practice with Customer Transactions
+
+### Summary
+This chapter guides you through practicing customer transactions in QuickBooks Online, ensuring that your trial balance and customer balance detail match the provided examples. It also discusses common mistakes and how to troubleshoot them.
+
+### Steps
+1. Ensure your trial balance and customer balance detail match the provided examples before starting.
+2. Enter the transactions one by one into QuickBooks Online.
+3. After completing the entries, compare your trial balance and customer balance detail to the provided examples.
+4. If your numbers do not match:
+   - Check each customer balance and invoice individually.
+   - Identify and fix mistakes using logic and the techniques learned in previous lessons.
+   - Review common mistakes like selecting the wrong customer, using the wrong transaction type (invoice vs. sales receipt), or applying payments to the wrong invoice.
+
+# Chapter 14: Vendors and Accounts Payable
+
+### Summary
+This chapter introduces managing vendors and accounts payable in QuickBooks Online, including how to track money owed to vendors through the vendor balance detail report.
+
+### Steps
+1. Understand that accounts payable represents the total money owed to all vendors.
+2. Access the Vendor Balance Detail report by navigating to `Reports > All Reports > Manage Accounts Payable > Vendor Balance Detail`.
+3. Save the Vendor Balance Detail report to `My Custom Reports` by clicking `Save Customization`.
+
+# Chapter 15: Entering Bills from Vendors
+
+### Summary
+Learn how to record bills received from vendors in QuickBooks Online, affecting both the trial balance and vendor records.
+
+### Steps
+1. To enter a bill:
+   - Click the `+` icon and select `Bill` under the Vendors column.
+   - Enter the vendor, bill date, bill number, expense account, and amount.
+   - Click `Save and Close` or `Save and New`.
+2. Review the impact on the trial balance and Vendor Balance Detail report to ensure correct entries.
+3. Add new vendors on the fly if needed during bill entry.
+
+## Chapter 16: Entering Bills Practice Exercise
+
+### Summary
+This chapter provides a practice exercise to reinforce the process of entering vendor bills and identifying common mistakes.
+
+### Steps
+1. Ensure your trial balance and vendor balance detail match the provided examples before starting.
+2. Enter the provided bills slowly and carefully, watching for potential errors.
+3. After completing the entries, compare your trial balance and vendor balance detail to the provided examples.
+4. If discrepancies are found:
+   - Identify common mistakes like selecting the wrong account or vendor.
+   - Use logic and troubleshooting techniques to correct errors.
+
+## Chapter 17: Paying Vendor Bills
+
+### Summary
+This chapter explains how to record payments made to vendors, affecting the trial balance and vendor records in QuickBooks Online.
+
+### Steps
+1. To pay bills:
+   - Click the `+` icon and select `Pay Bills` under the Vendors column.
+   - Filter the list by vendor, select the bill(s) to pay, and enter the payment details.
+   - Click `Save and Close`.
+2. Review the impact on the trial balance and Vendor Balance Detail report to ensure payments are recorded correctly.
+3. Understand that paying a bill reduces accounts payable and cash in bank.
+
+## Chapter 18: Writing Checks and Paying Expenses
+
+### Summary
+This chapter covers how to record check and expense transactions in QuickBooks Online, highlighting the differences between paying bills later and immediate payment.
+
+### Steps
+1. To write a check:
+   - Click the `+` icon and select `Check` under the Vendors column.
+   - Enter the check details, including date, vendor, expense account, and amount.
+   - Click `Save and Close`.
+2. To record an expense:
+   - Click the `+` icon and select `Expense` under the Vendors column.
+   - Enter the expense details, including date, vendor, and account.
+   - Click `Save and Close`.
+3. Check the trial balance to ensure entries are correct.
+
+## Chapter 19: Cash Transactions and Petty Cash
+
+### Summary
+This chapter explains how to manage cash transactions and petty cash funds in QuickBooks Online, including setting up a petty cash account and recording transactions.
+
+### Steps
+1. Set up a petty cash account:
+   - Go to `Chart of Accounts` and create a new account as a `Bank` type named "Cash on Hand - Petty Cash."
+2. To establish petty cash:
+   - Write a check to cash, selecting the petty cash account as the recipient.
+3. Record petty cash expenditures:
+   - Use the `Expense` option and select the petty cash account for payment.
+4. Replenish petty cash by transferring funds from your bank account.
+
+## Chapter 20: Vendor and Expense Practical Exercise
+
+### Summary
+This chapter provides a practical exercise combining all vendor-related transactions, helping you review and ensure accuracy in your QuickBooks Online entries.
+
+### Steps
+1. Ensure your trial balance and vendor balance detail match the provided examples before starting.
+2. Carefully enter the provided transactions.
+3. Compare your trial balance and vendor balance detail to the examples after completing the exercise.
+4. Troubleshoot and correct any discrepancies using techniques from previous chapters.
+
+## Chapter 21: Recording Bank Deposits
+
+### Summary
+Learn how to record bank deposits directly in QuickBooks Online, particularly when payments are received and deposited into the bank without tracking quantities.
+
+### Steps
+1. To record a deposit:
+   - Click the `+` icon and select `Bank Deposit`.
+   - Enter the deposit details, including date, customer, account (income), and amount.
+   - Click `Save and Close`.
+2. Review the trial balance to confirm that cash and income accounts are updated correctly.
+
+## Chapter 22: Deposits with Cash Back
+
+### Summary
+This chapter covers how to handle deposits where cash back is taken for expenses, requiring use of the deposit window with adjustments.
+
+### Steps
+1. To record a deposit with cash back:
+   - Click the `+` icon and select `Bank Deposit`.
+   - Enter the full income amount on the first line.
+   - Deduct expenses with a negative amount on subsequent lines.
+   - Ensure the final deposit amount matches the actual deposit made to the bank.
+   - Click `Save and Close`.
+
+## Chapter 23: Undeposited Funds
+
+### Summary
+This chapter explains how to manage undeposited funds in QuickBooks Online, handling scenarios where payment is received but not immediately deposited into a bank account.
+
+### Steps
+1. Set up the `Undeposited Funds` account:
+   - Go to `Chart of Accounts`, create a new `Other Current Asset` account, and select `Undeposited Funds` as the detail type.
+2. Record payments to undeposited funds:
+   - Use `Sales Receipt` or `Receive Payment` and choose `Undeposited Funds` as the deposit account.
+3. Deposit undeposited funds into the bank:
+   - Use the `Bank Deposit` window, select items from undeposited funds, and record the deposit.
+
+## Chapter 24: Using the Deposit Detail Report to Edit Previous Deposits
+
+### Summary
+Learn how to use the Deposit Detail report in QuickBooks Online to review and edit previous bank deposits.
+
+### Steps
+1. Access the Deposit Detail report:
+   - Go to `Reports > All Reports > Review Sales > Deposit Detail`.
+   - Set the date range to `All Dates`.
+2. Review and edit deposits:
+   - Click on the specific deposit to view details.
+   - Remove or add items by adjusting the checkmarks in the deposit window.
+   - Save changes and verify updates in the trial balance.
+
+## Chapter 25: Using the Advanced Search Tool
+
+### Summary
+This chapter introduces the Advanced Search tool in QuickBooks Online, allowing you to locate specific transactions based on various filters.
+
+### Steps
+1. Access the Advanced Search tool:
+   - Click the magnifying glass icon and select `Advanced Search`.
+2. Perform a search:
+   - Select the transaction type, data field, and search criteria (e.g., amount equals, contains text).
+   - Click `Search` to view results.
+3. Review and refine search results as needed.
+
+## Chapter 26: Using the Audit Log
+
+### Summary
+The Audit Log in QuickBooks Online records all events and changes within your account, allowing you to track actions and edits made over time.
+
+### Steps
+1. Access the Audit Log:
+   - Click the `Cog` icon and select `Audit Log` under the Tools column.
+2. Filter events by type (e.g., Sign In/Sign Out, Settings, Lists, Transactions).
+3. Review event details and use filters to narrow down specific actions or changes.
+4. View the history of a list item or transaction to see detailed changes over time.
+
+## Chapter 27: Your QuickBooks Online Final Exam
+
+### Summary
+This final chapter provides a comprehensive exercise to test your mastery of QuickBooks Online, requiring accurate entry and reconciliation of various transaction types.
+
+### Steps
+1. Ensure your trial balance, customer balance detail, and vendor balance detail match the provided examples before starting.
+2. Enter the provided transactions carefully and accurately.
+3. After completing the entries, compare your trial balance and balance details to the examples.
+4. Find and fix any discrepancies using techniques from previous chapters.
+5. Review each transaction type and correct any errors to ensure all balances are correct.
 
 
 ---
