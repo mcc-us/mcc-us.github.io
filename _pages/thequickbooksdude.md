@@ -4,38 +4,6 @@ layout: post
 ---
 
 
-[Navigate](#1),  
-[Adjust Settings](#2), 
-[Chart Of Accounts](#3), 
-[Customer & Vendor](#4), 
-[List Of Products And Services](#5), 
-[Invoices](#6), 
-[Transaction Practice](#7), 
-[Finding And Fixing QuickBooks Online Mistakes](#8), 
-[Delete Transactions](#9), 
-[Receiving Invoice Payments](#10), 
-[Sales Receipts](#11), 
-[Customize Reports](#12), 
-[Practice Transactions](#13), 
-[Accounts Payable](#14), 
-[Vendor’s Bills](#15), 
-[Practice Exercise](#16), 
-[Paying Bills](#17), 
-[Record Checks](#18), 
-[Petty Cash](#19), 
-[Practice Transactions](#20), 
-[Bank Deposits](#21), 
-[Deposits With Cash Back](#22), 
-[Undeposited Funds](#23), 
-[Deposit Detail Report](#24), 
-[Advanced Search Tool](#25), 
-[Audit Log](#26), 
-[Exam](#27)
-
-
----
-
-
 ## Chapter 1 Navigating QBO
 
 QuickBooks Online has two main interface views: Business View and Accountant View. Key navigation elements remain consistent across both views, with the `cog wheel`, the plus sign, and the reports menu being essential tools for managing your account and transactions.
