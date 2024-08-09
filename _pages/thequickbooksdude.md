@@ -70,7 +70,10 @@ Account settings in QuickBooks Online determine the default behaviors until you 
 ---
 
 
-## Chapter 3-5?
+## Chapter 3: Manage The QuickBooks Online Chart Of Accounts
+
+- Managing The List Of Products And Services  
+- Entering Your First Transaction, Creating An Invoice
 
 ### Summary
 This text explains how to set up and manage the Chart of Accounts, customer data, vendor data, and products/services in QuickBooks Online. It emphasizes the importance of correctly categorizing accounts and associating income accounts with specific items for accurate financial tracking.
@@ -113,7 +116,7 @@ This text explains how to set up and manage the Chart of Accounts, customer data
 
 ---
 
-## Chapter 6
+## Chapter 6: Entering Your First Transaction, Creating An Invoice
 
 ### Summary
 
@@ -155,7 +158,7 @@ The text describes the process of entering the first transaction in QuickBooks O
 
 ---
 
-## Chapter 7
+## Chapter 7: First QuickBooks Transaction Practice
 
 ### Summary
 
@@ -193,10 +196,9 @@ This chapter guides users through practicing inputting multiple invoices into Qu
 4. **Correct Any Discrepancies:**
    - If the final numbers do not match the expected figures, review and correct any mistakes using the guidance provided in the following instructional video.
 
-
 ---
 
-## Chapter 8
+## Chapter 8: Finding And Fixing QuickBooks Online Mistakes
 
 ### Summary
 
@@ -232,7 +234,7 @@ The text provides guidance on how to input invoices into QuickBooks Online and c
 
 ---
 
-## Chapter 9
+## Chapter 9: Delete Transactions In QuickBooks Online
 
 ### Summary
 
@@ -268,7 +270,7 @@ The text provides guidance on how to input invoices into QuickBooks Online and c
 
 ---
 
-## Chapter 10
+## Chapter 10: Receiving Invoice Payments
 
 ### Summary
 
@@ -305,7 +307,7 @@ The text explains how to record invoice payments in QuickBooks Online, emphasizi
 
 ---
 
-## Chapter 11
+## Chapter 11: How To Enter Sales Receipts
 
 ### Summary
 
@@ -345,7 +347,7 @@ The text describes how to enter sales receipts in QuickBooks Online, explaining 
 
 ---
 
-## Chapter 12
+## Chapter 12: Customize QuickBooks Reports With The Journal
 
 ### Summary
 
