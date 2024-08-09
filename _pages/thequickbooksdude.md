@@ -38,7 +38,7 @@ QuickBooks Online has two main interface views: Business View and Accountant Vie
 
 ---
 
-## Chapter 2: Adjusting the Company Account Settings
+# Chapter 2: Adjusting the Company Account Settings
 
 Account settings in QuickBooks Online determine the default behaviors until you modify them. This chapter covers how to switch between Business View and Accountant View, and how to adjust key settings like tracking expenses by customer and updating company information.
 
@@ -71,7 +71,7 @@ Account settings in QuickBooks Online determine the default behaviors until you 
 ---
 
 
-## Chapter 3: Manage The QuickBooks Online Chart Of Accounts
+# Chapter 3: Manage The QuickBooks Online Chart Of Accounts
 
 
 How to set up and manage the Chart of Accounts, customer data, vendor data, and products/services. It emphasizes the importance of correctly categorizing accounts and associating income accounts with specific items for accurate financial tracking.
@@ -106,7 +106,7 @@ How to set up and manage the Chart of Accounts, customer data, vendor data, and 
 ---
 
 
-## Chapter 5: Managing The List Of Products And Services
+# Chapter 5: Managing The List Of Products And Services
 
 1. **Setting Up Products and Services**
    1. Click the setup `cog wheel`, then go to `Lists` > `Products and Services`.
