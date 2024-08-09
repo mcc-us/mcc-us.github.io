@@ -9,7 +9,7 @@ layout: post
 
 ---
 
-## Chapter 1: Navigating the QuickBooks Online Interface
+# Chapter 1: Navigating the QuickBooks Online Interface
 
 QuickBooks Online has two main interface views: Business View and Accountant View. Key navigation elements remain consistent across both views, with the `cog wheel`, the plus sign, and the reports menu being essential tools for managing your account and transactions.
 
