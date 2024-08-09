@@ -11,27 +11,28 @@ layout: post
 
 ## Chapter 1: Navigating the QuickBooks Online Interface
 
-QuickBooks Online has two main interface views: Business View and Accountant View. Key navigation elements remain consistent across both views, with the cog wheel, the plus sign, and the reports menu being essential tools for managing your account and transactions.
+QuickBooks Online has two main interface views: Business View and Accountant View. Key navigation elements remain consistent across both views, with the `cog wheel`, the plus sign, and the reports menu being essential tools for managing your account and transactions.
 
 ### Steps:
 
 1. **Identify Your View:**
-   - Determine if your QuickBooks Online is set to Business View or Accountant View by looking at the left panel.
-   - Business View uses icons, while Accountant View has clearly written menu choices.
+   - Determine if you are in `Business View` or `Accountant View` by looking at the left panel.
+     - Business View uses icons.
+     - Accountant View has clearly written menu choices.
 
 2. **Access Settings:**
-   - Locate the cog wheel in the top right corner to open settings and manage account information.
+   - Locate the `cog wheel` on top right corner to open settings and manage account information.
 
 3. **Perform Transactions:**
    - Click the plus sign in the top left corner to access various transactions and day-to-day tasks.
 
 4. **Access Reports:**
-   - In Accountant View, click "Reports" directly from the left panel.
-   - In Business View, navigate through "Business Overview" > "Reports" from the left panel.
+   - In Accountant View, click `Reports` directly from the left panel.
+   - In Business View, navigate through `Business Overview` > `Reports` from the left panel.
    - Alternatively, access reports through the middle of the screen in both views.
 
 5. **Use Video Learning Tools:**
-   - To navigate a tutorial video, click "Show More" under the video description to expand and see topic links.
+   - To navigate a tutorial video, click `Show More` under the video description to expand and see topic links.
    - Click on a time index link to jump directly to that part of the video.
    - Interact with the teacher by asking questions in the comments section of the video.
 
@@ -44,26 +45,26 @@ Account settings in QuickBooks Online determine the default behaviors until you 
 ### Steps:
 
 1. **Switch Between Views:**
-   - Click the cog wheel in the top right corner.
-   - Select "Switch to Accountant View" or "Switch to Business View" as needed.
+   - Click the `cog wheel` in the top right corner.
+   - Select `Switch to Accountant View` or `Switch to Business View` as needed.
 
 2. **Access Account Settings:**
-   - Click the cog wheel and select "Account and Settings" from the menu.
+   - Click the `cog wheel` and select `Account and Settings` from the menu.
    - Navigate to different categories of settings from the left panel of the Account Settings window.
 
 3. **Enable Expense Tracking by Customer:**
-   - In the "Account and Settings" window, select "Expenses" from the left panel.
+   - In the `Account and Settings` window, select `Expenses` from the left panel.
    - Click the pencil icon to edit the settings.
-   - Enable "Track expenses and items by customer" and save the changes.
+   - Enable `Track expenses and items by customer` and save the changes.
 
 4. **Update Company Information:**
-   - In the "Account and Settings" window, select "Company" from the left panel.
+   - In the `Account and Settings` window, select `Company` from the left panel.
    - Click the pencil icon to edit the company name and address.
    - Start typing the address, select it from the suggested list, or enter it manually.
-   - Save the changes and click "Done" to exit.
+   - Save the changes and click `Done` to exit.
 
 5. **Verify Settings Changes:**
-   - Return to the "Expenses" window, add an expense manually, and check if the customer field is available.
+   - Return to the `Expenses` window, add an expense manually, and check if the customer field is available.
    - Confirm that the updated company name and address appear correctly on the dashboard and in forms/reports.
 
 
@@ -72,11 +73,8 @@ Account settings in QuickBooks Online determine the default behaviors until you 
 
 ## Chapter 3: Manage The QuickBooks Online Chart Of Accounts
 
-- Managing The List Of Products And Services  
-- Entering Your First Transaction, Creating An Invoice
-
 ### Summary
-This text explains how to set up and manage the Chart of Accounts, customer data, vendor data, and products/services in QuickBooks Online. It emphasizes the importance of correctly categorizing accounts and associating income accounts with specific items for accurate financial tracking.
+How to set up and manage the Chart of Accounts, customer data, vendor data, and products/services. It emphasizes the importance of correctly categorizing accounts and associating income accounts with specific items for accurate financial tracking.
 
 ### Steps
 
@@ -104,13 +102,17 @@ This text explains how to set up and manage the Chart of Accounts, customer data
    3. Enter the vendor's information, including company name, and click `Save`.
    4. To edit vendor details, click on the vendor’s name, then click `Edit`.
 
-5. **Setting Up Products and Services**
-   1. Click the setup cog, then go to `Lists` > `Products and Services`.
+---
+
+## Chapter 5: Managing The List Of Products And Services
+
+1. **Setting Up Products and Services**
+   1. Click the setup `cog wheel`, then go to `Lists` > `Products and Services`.
    2. Click the green button to start adding services.
    3. Select `Service`, then enter the `Name`, `Sales price/rate`, and the associated `Income Account`.
    4. Click `Save and Close` to add the item to the list.
 
-6. **Reviewing and Managing Transactions**
+2. **Reviewing and Managing Transactions**
    1. To view or edit transactions for a customer or vendor, click on their name, then choose `Transaction List` or `Customer/Vendor Details`.
    2. You can filter transactions and manage their details from this view.
 
@@ -125,35 +127,35 @@ The text describes the process of entering the first transaction in QuickBooks O
 ### Steps to Enter the First Transaction in QuickBooks Online
 
 1. **Set Up the Trial Balance Report:**
-   - Click on "Reports" in the left panel.
-   - Click "Standard" and scroll to the "Accountant Reports" section.
-   - Select "Trial Balance."
-   - Change the date range to "All Dates."
-   - Click "Run Report" and then "Save Customization" to save the report in the custom section.
+   - Click on `Reports` in the left panel.
+   - Click `Standard` and scroll to the `Accountant Reports` section.
+   - Select `Trial Balance`.
+   - Change the date range to `All Dates`.
+   - Click `Run Report` and then `Save Customization` to save the report in the custom section.
 
 2. **Set Up the Customer Balance Detail Report:**
-   - Go back to "Reports."
-   - Scroll to the "Who Owes You" section.
-   - Select "Customer Balance Detail."
-   - Click "Save Customization" to save the report.
+   - Go back to `Reports`.
+   - Scroll to the `Who Owes You` section.
+   - Select `Customer Balance Detail`.
+   - Click `Save Customization` to save the report.
 
 3. **Enter the First Invoice:**
-   - Click on "Sales" and then "Invoice."
+   - Click on `Sales` and then `Invoice`.
    - Input the invoice date (e.g., January 1st).
    - Select the customer (e.g., Alan).
    - Choose the product/service (e.g., Video) and enter the quantity (e.g., 10 hours).
-   - Click "Save" to record the invoice.
+   - Click `Save` to record the invoice.
 
 4. **Verify the Results in Reports:**
-   - Check the "Trial Balance" report in the custom reports section to see the updated amounts for Accounts Receivable and Video Income.
-   - Check the "Customer Balance Detail" report to confirm the specific customer balance.
+   - Check the `Trial Balance` report in the custom reports section to see the updated amounts for Accounts Receivable and Video Income.
+   - Check the `Customer Balance Detail` report to confirm the specific customer balance.
 
 5. **Enter the Second Invoice (Optional):**
-   - Click the "+" sign and select "Invoice."
+   - Click the `+` sign and select `Invoice`.
    - Enter the invoice date (e.g., January 2nd).
    - Select the customer (e.g., Betty).
    - Choose the product/service (e.g., Editing) and enter the quantity (e.g., 10 hours).
-   - Click "Save" to record the invoice.
+   - Click `Save` to record the invoice.
    - Verify the updated reports in the same way as before.
 
 ---
@@ -240,7 +242,7 @@ The text provides guidance on how to input invoices into QuickBooks Online and c
 
 The text provides guidance on how to input invoices into QuickBooks Online and check the accuracy of the entries by comparing them with the expected balances in the trial balance and customer balance detail reports. It emphasizes practicing these steps to ensure accuracy in recording transactions.
 
-### Steps for Inputting Invoices in QuickBooks Online
+### Steps for Inputting Invoices
 
 1. **Access the Trial Balance:**
    - Open QuickBooks Online.
@@ -274,9 +276,9 @@ The text provides guidance on how to input invoices into QuickBooks Online and c
 
 ### Summary
 
-The text explains how to record invoice payments in QuickBooks Online, emphasizing the impact on both the general ledger (Trial Balance) and customer records. It demonstrates step-by-step how receiving payments affects Accounts Receivable and cash balances.
+The text explains how to record invoice payments, emphasizing the impact on both the general ledger (Trial Balance) and customer records. It demonstrates step-by-step how receiving payments affects Accounts Receivable and cash balances.
 
-### Steps for Receiving Invoice Payments in QuickBooks Online
+### Steps for Receiving Invoice Payments
 
 1. **Review Trial Balance:**
    - Go to `Reports` > `Standard` > `Accountant Reports`.
@@ -311,9 +313,9 @@ The text explains how to record invoice payments in QuickBooks Online, emphasizi
 
 ### Summary
 
-The text describes how to enter sales receipts in QuickBooks Online, explaining how immediate payment transactions affect the Trial Balance and where to find these transactions in various reports. It provides a step-by-step guide for recording sales receipts and verifying their impact on financial records.
+The text describes how to enter sales receipts, explaining how immediate payment transactions affect the Trial Balance and where to find these transactions in various reports. It provides a step-by-step guide for recording sales receipts and verifying their impact on financial records.
 
-### Steps for Entering Sales Receipts in QuickBooks Online
+### Steps for Entering Sales Receipts
 
 1. **Record a Sales Receipt:**
    - Click the `+ New` button and select `Sales Receipt` under the Customers section.
@@ -351,9 +353,9 @@ The text describes how to enter sales receipts in QuickBooks Online, explaining 
 
 ### Summary
 
-This text explains how to customize the Journal report in QuickBooks Online, focusing on adding and removing columns, sorting transactions, and saving customizations. The Journal report is particularly useful for tracking transactions by the order of creation, helping identify and correct date-related mistakes.
+This text explains how to customize the Journal report, focusing on adding and removing columns, sorting transactions, and saving customizations. The Journal report is particularly useful for tracking transactions by the order of creation, helping identify and correct date-related mistakes.
 
-### Steps for Customizing the Journal Report in QuickBooks Online
+### Steps for Customizing the Journal Report
 
 1. **Open the Journal Report:**
    - Click `Reports` in the left navigation panel.
@@ -391,7 +393,7 @@ This text explains how to customize the Journal report in QuickBooks Online, foc
 ## Chapter 13: Practice with Customer Transactions
 
 ### Summary
-This chapter guides you through practicing customer transactions in QuickBooks Online, ensuring that your trial balance and customer balance detail match the provided examples. It also discusses common mistakes and how to troubleshoot them.
+This chapter guides you through practicing customer transactions, ensuring that your trial balance and customer balance detail match the provided examples. It also discusses common mistakes and how to troubleshoot them.
 
 ### Steps
 1. Ensure your trial balance and customer balance detail match the provided examples before starting.
@@ -405,7 +407,7 @@ This chapter guides you through practicing customer transactions in QuickBooks O
 # Chapter 14: Vendors and Accounts Payable
 
 ### Summary
-This chapter introduces managing vendors and accounts payable in QuickBooks Online, including how to track money owed to vendors through the vendor balance detail report.
+This chapter introduces managing vendors and accounts payable, including how to track money owed to vendors through the vendor balance detail report.
 
 ### Steps
 1. Understand that accounts payable represents the total money owed to all vendors.
@@ -415,7 +417,7 @@ This chapter introduces managing vendors and accounts payable in QuickBooks Onli
 # Chapter 15: Entering Bills from Vendors
 
 ### Summary
-Learn how to record bills received from vendors in QuickBooks Online, affecting both the trial balance and vendor records.
+Learn how to record bills received from vendors, affecting both the trial balance and vendor records.
 
 ### Steps
 1. To enter a bill:
@@ -441,7 +443,7 @@ This chapter provides a practice exercise to reinforce the process of entering v
 ## Chapter 17: Paying Vendor Bills
 
 ### Summary
-This chapter explains how to record payments made to vendors, affecting the trial balance and vendor records in QuickBooks Online.
+This chapter explains how to record payments made to vendors, affecting the trial balance and vendor records.
 
 ### Steps
 1. To pay bills:
@@ -454,7 +456,7 @@ This chapter explains how to record payments made to vendors, affecting the tria
 ## Chapter 18: Writing Checks and Paying Expenses
 
 ### Summary
-This chapter covers how to record check and expense transactions in QuickBooks Online, highlighting the differences between paying bills later and immediate payment.
+This chapter covers how to record check and expense transactions, highlighting the differences between paying bills later and immediate payment.
 
 ### Steps
 1. To write a check:
@@ -470,7 +472,7 @@ This chapter covers how to record check and expense transactions in QuickBooks O
 ## Chapter 19: Cash Transactions and Petty Cash
 
 ### Summary
-This chapter explains how to manage cash transactions and petty cash funds in QuickBooks Online, including setting up a petty cash account and recording transactions.
+This chapter explains how to manage cash transactions and petty cash funds, including setting up a petty cash account and recording transactions.
 
 ### Steps
 1. Set up a petty cash account:
@@ -495,7 +497,7 @@ This chapter provides a practical exercise combining all vendor-related transact
 ## Chapter 21: Recording Bank Deposits
 
 ### Summary
-Learn how to record bank deposits directly in QuickBooks Online, particularly when payments are received and deposited into the bank without tracking quantities.
+Learn how to record bank deposits directly, particularly when payments are received and deposited into the bank without tracking quantities.
 
 ### Steps
 1. To record a deposit:
@@ -520,7 +522,7 @@ This chapter covers how to handle deposits where cash back is taken for expenses
 ## Chapter 23: Undeposited Funds
 
 ### Summary
-This chapter explains how to manage undeposited funds in QuickBooks Online, handling scenarios where payment is received but not immediately deposited into a bank account.
+This chapter explains how to manage undeposited funds, handling scenarios where payment is received but not immediately deposited into a bank account.
 
 ### Steps
 1. Set up the `Undeposited Funds` account:
@@ -533,7 +535,7 @@ This chapter explains how to manage undeposited funds in QuickBooks Online, hand
 ## Chapter 24: Using the Deposit Detail Report to Edit Previous Deposits
 
 ### Summary
-Learn how to use the Deposit Detail report in QuickBooks Online to review and edit previous bank deposits.
+Learn how to use the Deposit Detail report to review and edit previous bank deposits.
 
 ### Steps
 1. Access the Deposit Detail report:
@@ -547,7 +549,7 @@ Learn how to use the Deposit Detail report in QuickBooks Online to review and ed
 ## Chapter 25: Using the Advanced Search Tool
 
 ### Summary
-This chapter introduces the Advanced Search tool in QuickBooks Online, allowing you to locate specific transactions based on various filters.
+This chapter introduces the Advanced Search tool, allowing you to locate specific transactions based on various filters.
 
 ### Steps
 1. Access the Advanced Search tool:
@@ -560,11 +562,11 @@ This chapter introduces the Advanced Search tool in QuickBooks Online, allowing 
 ## Chapter 26: Using the Audit Log
 
 ### Summary
-The Audit Log in QuickBooks Online records all events and changes within your account, allowing you to track actions and edits made over time.
+The Audit Log records all events and changes within your account, allowing you to track actions and edits made over time.
 
 ### Steps
 1. Access the Audit Log:
-   - Click the `Cog` icon and select `Audit Log` under the Tools column.
+   - Click the `cog wheel` icon and select `Audit Log` under the Tools column.
 2. Filter events by type (e.g., Sign In/Sign Out, Settings, Lists, Transactions).
 3. Review event details and use filters to narrow down specific actions or changes.
 4. View the history of a list item or transaction to see detailed changes over time.
@@ -583,6 +585,7 @@ This final chapter provides a comprehensive exercise to test your mastery of Qui
 
 
 ---
+
 
 ## Appendix 1
 
