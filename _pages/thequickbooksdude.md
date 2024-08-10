@@ -4,7 +4,7 @@ layout: post
 ---
 
 
-## Chapter 1 Navigating QBO
+## 1 Navigating QBO
 
 If you are using QBO for Accountant then the Accountant view is all you see.
 
@@ -30,7 +30,7 @@ Otherwise use the `cog wheel`, the plus sign, and the reports menu being essenti
 ---
 
 
-## Chapter 2 Account Settings
+## 2 Account Settings
 
 
 Account settings in QBO determine the default behaviors until you modify them. This chapter covers how to switch between Business View and Accountant View, and how to adjust key settings like tracking expenses by customer and updating company information.
@@ -61,10 +61,10 @@ Account settings in QBO determine the default behaviors until you modify them. T
 ---
 
 
-## Chapter 3 Chart Of Accounts
+## 3 Chart Of Accounts
 
 
-Set up and manage the Chart of Accounts, customer data, vendor data, and products/services. It emphasizes the importance of correctly categorizing accounts and associating income accounts with specific items for accurate financial tracking.
+Manage the Chart of Accounts, customer data, vendor data, and products/services. Very important for correctly categorizing accounts and associating income accounts with items (bought and sold) for accurate financial tracking.
 
 1. **Accessing the Chart of Accounts**
    1. Go to `Accounting` > `Chart of Accounts`
@@ -79,7 +79,7 @@ Set up and manage the Chart of Accounts, customer data, vendor data, and product
    4. Click `Save and Close` or `Save and New` to continue adding accounts.
 
 
-## Chapter 4 Customers And Vendors
+## 4 Customers And Vendors
 
 
 3. **Managing Customers**
@@ -97,7 +97,8 @@ Set up and manage the Chart of Accounts, customer data, vendor data, and product
 ---
 
 
-## Chapter 5 Products And Services
+## 5 Products And Services
+
 
 1. **Setting Up Products and Services**
    1. Click `cog wheel` > `Lists` > `Products and Services`
@@ -113,10 +114,10 @@ Set up and manage the Chart of Accounts, customer data, vendor data, and product
 ---
 
 
-## Chapter 6 Creating Invoices
+## 6 Creating Invoices
 
 
-The first transaction in QBO, which involves creating an invoice and checking its effects on the trial balance and customer balance reports. The Steps are detailed to guide users through setting up reports, entering invoice details, and verifying the results.
+The first transaction in QBO, which involves creating an invoice and checking its effects on the trial balance and customer balance reports.
 
 1. **Set Up the Trial Balance Report:**
    - Click on `Reports` > `Standard` and scroll down `Accountant Reports` section.
@@ -153,10 +154,10 @@ The first transaction in QBO, which involves creating an invoice and checking it
 ---
 
 
-## Chapter 7 Transactions
+## 7 Transactions
 
 
-This chapter guides users through practicing inputting multiple invoices into QBO and verifying the results by comparing them with expected balances in the trial balance and customer balance detail reports. Users are encouraged to enter the invoices one by one and check that their final balances match the provided figures.
+This section guides users through practicing inputting multiple invoices into QBO and verifying the results by comparing them with expected balances in the trial balance and customer balance detail reports. Users are encouraged to enter the invoices one by one and check that their final balances match the provided figures.
 
 1. **Review Initial Reports:**
    - Check the trial balance to note the current balances before entering the new invoices.
@@ -192,7 +193,7 @@ This chapter guides users through practicing inputting multiple invoices into QB
 ---
 
 
-## Chapter 8 Fixing Mistakes
+## 8 Fixing Mistakes
 
 
 The text provides guidance on how to input invoices into QBO and check the accuracy of the entries by comparing them with the expected balances in the trial balance and customer balance detail reports. It emphasizes practicing these steps to ensure accuracy in recording transactions.
@@ -225,10 +226,8 @@ The text provides guidance on how to input invoices into QBO and check the accur
 ---
 
 
-## Chapter 9 Delete Transactions
+## 9 Delete Transactions
 
-
-The text provides guidance on how to input invoices into QBO and check the accuracy of the entries by comparing them with the expected balances in the trial balance and customer balance detail reports. It emphasizes practicing these steps to ensure accuracy in recording transactions.
 
 1. **Access the Trial Balance:**
    - Navigate to `Reports` > `Standard` > `Accountant Reports`
@@ -258,10 +257,10 @@ The text provides guidance on how to input invoices into QBO and check the accur
 ---
 
 
-## Chapter 10 Receiving Payments
+## 10 Receiving Payments
 
 
-The text explains how to record invoice payments, emphasizing the impact on both the general ledger (Trial Balance) and customer records. It demonstrates step-by-step how receiving payments affects Accounts Receivable and cash balances.
+Record invoice payments, emphasizing the impact on both the general ledger (i.e. Trial Balance) and customer records. It demonstrates step-by-step how receiving payments affects Accounts Receivable and cash balances.
 
 1. **Review Trial Balance:**
    - Go to `Reports` > `Standard` > `Accountant Reports`
@@ -293,11 +292,11 @@ The text explains how to record invoice payments, emphasizing the impact on both
 ---
 
 
-## Chapter 11 Sales Receipts
+## 11 Sales Receipts
 
 
 
-The text describes how to enter sales receipts, explaining how immediate payment transactions affect the Trial Balance and where to find these transactions in various reports. It provides a step-by-step guide for recording sales receipts and verifying their impact on financial records.
+Sales receipts, explain how immediate payment transactions affect the Trial Balance and where to find these transactions in various reports. It provides a step-by-step guide for recording sales receipts and verifying their impact on financial records.
 
 1. **Record a Sales Receipt:**
    - Click the `+ New` button and select `Sales Receipt` under the Customers section.
@@ -332,10 +331,11 @@ The text describes how to enter sales receipts, explaining how immediate payment
 ---
 
 
-## Chapter 12 Customize Reports
+## 12 Customize Reports
 
 
-This text explains how to customize the Journal report, focusing on adding and removing columns, sorting transactions, and saving customizations. The Journal report is particularly useful for tracking transactions by the order of creation, helping identify and correct date-related mistakes.
+The Journal report is particularly useful for tracking transactions by the order of creation, helping identify and correct date-related mistakes.
+Customize a Journal report, focus on adding and removing columns, sorting transactions, and saving customizations. 
 
 1. **Open the Journal Report:**
    - Click `Reports` in the left navigation panel.
@@ -371,10 +371,10 @@ This text explains how to customize the Journal report, focusing on adding and r
 ---
 
 
-## Chapter 13 Transactions
+## 13 Transactions
 
 
-This chapter guides you through practicing customer transactions, ensuring that your trial balance and customer balance detail match the provided examples. It also discusses common mistakes and how to troubleshoot them.
+Customer transactions, ensure your trial balance and customer balance detail match! It also discusses common mistakes and how to troubleshoot them.
 
 1. Ensure your trial balance and customer balance detail match the provided examples before starting.
 2. Enter the transactions one by one into QBO.
@@ -387,10 +387,10 @@ This chapter guides you through practicing customer transactions, ensuring that 
 ---
 
 
-## Chapter 14 AP
+## 14 Accounts Payable
 
 
-This chapter introduces managing vendors and accounts payable, including how to track money owed to vendors through the vendor balance detail report.
+Manage vendors and accounts payable, how to track money owed to vendors through the vendor balance detail report.
 
 1. Understand that accounts payable represents the total money owed to all vendors.
 2. Access the Vendor Balance Detail report by navigating to `Reports > All Reports > Manage Accounts Payable > Vendor Balance Detail`
@@ -400,10 +400,10 @@ This chapter introduces managing vendors and accounts payable, including how to 
 ---
 
 
-## Chapter 15 Entering Bills
+## 15 Entering Bills
 
 
-Learn how to record bills received from vendors, affecting both the trial balance and vendor records.
+Record bills received from vendors, which affect trial balances and vendor records.
 
 1. To enter a bill:
    - Click the `+` icon and select `Bill` under the Vendors column.
@@ -416,10 +416,10 @@ Learn how to record bills received from vendors, affecting both the trial balanc
 ---
 
 
-## Chapter 16 Exercise
+## 16 Exercise
 
 
-This chapter provides a practice exercise to reinforce the process of entering vendor bills and identifying common mistakes.
+Vendor bills and identifying common mistakes
 
 1. Ensure your trial balance and vendor balance detail match the provided examples before starting.
 2. Enter the provided bills slowly and carefully, watching for potential errors.
@@ -432,10 +432,10 @@ This chapter provides a practice exercise to reinforce the process of entering v
 ---
 
 
-## Chapter 17 Paying Bills
+## 17 Paying Bills
 
 
-This chapter explains how to record payments made to vendors, affecting the trial balance and vendor records.
+Record payments made to vendors which affect trial balances and vendor records.
 
 1. To pay bills:
    - Click the `+` icon and select `Pay Bills` under the Vendors column.
@@ -448,10 +448,10 @@ This chapter explains how to record payments made to vendors, affecting the tria
 ---
 
 
-## Chapter 18 Paying Expenses
+## 18 Paying Expenses
 
 
-This chapter covers how to record check and expense transactions, highlighting the differences between paying bills later and immediate payment.
+Record check and expense transactions, it highlights the difference between immediate payment and bills payed later.
 
 1. To write a check:
    - Click the `+` icon and select `Check` under the Vendors column.
@@ -467,10 +467,10 @@ This chapter covers how to record check and expense transactions, highlighting t
 ---
 
 
-## Chapter 19 Petty Cash
+## 19 Petty Cash
 
 
-This chapter explains how to manage cash transactions and petty cash funds, including setting up a petty cash account and recording transactions.
+Mnage cash transactions and petty cash funds, including setting up a petty cash account and recording transactions.
 
 1. Set up a petty cash account:
    - Go to `Chart of Accounts` and create a new account as a `Bank` type named "Cash on Hand - Petty Cash."
@@ -484,10 +484,10 @@ This chapter explains how to manage cash transactions and petty cash funds, incl
 ---
 
 
-## Chapter 20 Exercises
+## 20 Exercises
 
 
-This chapter provides a practical exercise combining all vendor-related transactions, helping you review and ensure accuracy in your QBO entries.
+Vendor-related transactions
 
 1. Ensure your trial balance and vendor balance detail match the provided examples before starting.
 2. Carefully enter the provided transactions.
@@ -498,10 +498,10 @@ This chapter provides a practical exercise combining all vendor-related transact
 ---
 
 
-## Chapter 21 Bank Deposits
+## 21 Bank Deposits
 
 
-Learn how to record bank deposits directly, particularly when payments are received and deposited into the bank without tracking quantities.
+Record bank deposits, particularly when payments are received and deposited into the bank without tracking quantities.
 
 1. To record a deposit:
    - Click the `+` icon and select `Bank Deposit`
@@ -513,10 +513,10 @@ Learn how to record bank deposits directly, particularly when payments are recei
 ---
 
 
-## Chapter 22 Cash Deposits
+## 22 Cash Deposits
 
 
-This chapter covers how to handle deposits where cash back is taken for expenses, requiring use of the deposit window with adjustments.
+Handle deposits where cash back is taken for expenses, requires the use deposits window with adjustments.
 
 1. To record a deposit with cash back:
    - Click the `+` icon and select `Bank Deposit`
@@ -528,10 +528,9 @@ This chapter covers how to handle deposits where cash back is taken for expenses
 ---
 
 
-## Chapter 23 Undeposited Funds
+## 23 Undeposited Funds
 
-
-This chapter explains how to manage undeposited funds, handling scenarios where payment is received but not immediately deposited into a bank account.
+Manage undeposited funds, handling scenarios where payment is received but not immediately deposited into a bank account.
 
 1. Set up the `Undeposited Funds` account:
    - Go to `Chart of Accounts`, create a new `Other Current Asset` account, and select `Undeposited Funds` as the detail type.
@@ -543,10 +542,10 @@ This chapter explains how to manage undeposited funds, handling scenarios where 
 ---
 
 
-## Chapter 24 Deposit Detail Report
+## 24 Deposit Detail Report
 
 
-Learn how to use the Deposit Detail report to review and edit previous bank deposits.
+Reviews & edit bank deposits
 
 1. Access the Deposit Detail report:
    - Go to `Reports > All Reports > Review Sales > Deposit Detail`
@@ -559,10 +558,10 @@ Learn how to use the Deposit Detail report to review and edit previous bank depo
 ---
 
 
-## Chapter 25 Advanced Search Tool
+## 25 Advanced Search Tool
 
 
-This chapter introduces the Advanced Search tool, allowing you to locate specific transactions based on various filters.
+The Advanced Search tool allow you to locate specific transactions based on filters.
 
 1. Access the Advanced Search tool:
    - Click the magnifying glass icon and select `Advanced Search`
@@ -574,10 +573,10 @@ This chapter introduces the Advanced Search tool, allowing you to locate specifi
 ---
 
 
-## Chapter 26 Audit Log
+## 26 Audit Log
 
 
-The Audit Log records all events and changes within your account, allowing you to track actions and edits made over time.
+**Audit Logs** record all events and changes within your account, allowing you to track actions and edits made over time.
 
 1. Access the Audit Log:
    - Click the `cog wheel` icon and select `Audit Log` under the Tools column.
@@ -588,10 +587,8 @@ The Audit Log records all events and changes within your account, allowing you t
 ---
 
 
-## Chapter 27 Exam
+## 27 Exam
 
-
-This final chapter provides a comprehensive exercise to test your mastery of QBO, requiring accurate entry and reconciliation of various transaction types.
 
 1. Ensure your trial balance, customer balance detail, and vendor balance detail match the provided examples before starting.
 2. Enter the provided transactions carefully and accurately.
