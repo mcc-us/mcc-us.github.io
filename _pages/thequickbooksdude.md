@@ -1,5 +1,5 @@
 ---
-title: thequickbooksdude NOTES
+title: thequickbooksdude Notes
 layout: post
 ---
 
