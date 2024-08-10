@@ -12,8 +12,8 @@ Otherwise use the `cog wheel`, the plus sign, and the reports menu being essenti
 
 1. **Identify Your View:**
    1. Determine if you are in `Business View` or `Accountant View` by looking at the left panel.
-     1. Business View uses icons.
-     2. Accountant View has clearly written menu choices.
+      1. Business View uses icons.
+      2. Accountant View has clearly written menu choices.
 
 2. **Access Settings:**
    1. Locate the `cog wheel` on top right corner to open settings and manage account information.
@@ -82,12 +82,12 @@ Manage the Chart of Accounts, customer data, vendor data, and products/services.
 ## 4 Customers And Vendors
 
 
-3. **Managing Customers**
+1. **Managing Customers**
    1. Go to `Sales` > `Customers` > `Add Customer Manually` (if this is your first time)
-   1. Enter the customer's information, including name and company name, and click `Save`
-   2. To edit customer details, click on the customer’s name, then click `Edit`
+   2. Enter the customer's information, including name and company name, and click `Save`
+   3. To edit customer details, click on the customer’s name, then click `Edit`
 
-1. **Managing Vendors**
+2. **Managing Vendors**
    1. Go to `Expenses` > `Vendors`
    2. Click `Add Vendor Manually` if this is your first time.
    3. Enter the vendor's information, including company name, and click `Save`
