@@ -6,7 +6,9 @@ layout: post
 
 ## Chapter 1 Navigating QBO
 
-QuickBooks Online has two main interface views: Business View and Accountant View. Key navigation elements remain consistent across both views, with the `cog wheel`, the plus sign, and the reports menu being essential tools for managing your account and transactions.
+If you are using QBO for Accountant then the Accountant view is all you see.
+
+Otherwise use the `cog wheel`, the plus sign, and the reports menu being essential tools for managing your account and transactions.
 
 1. **Identify Your View:**
    1. Determine if you are in `Business View` or `Accountant View` by looking at the left panel.
@@ -31,7 +33,7 @@ QuickBooks Online has two main interface views: Business View and Accountant Vie
 ## Chapter 2 Account Settings
 
 
-Account settings in QuickBooks Online determine the default behaviors until you modify them. This chapter covers how to switch between Business View and Accountant View, and how to adjust key settings like tracking expenses by customer and updating company information.
+Account settings in QBO determine the default behaviors until you modify them. This chapter covers how to switch between Business View and Accountant View, and how to adjust key settings like tracking expenses by customer and updating company information.
 
 1. **Switch Between Views:**
    1. Click the `cog wheel` in the top right corner.
@@ -62,12 +64,12 @@ Account settings in QuickBooks Online determine the default behaviors until you 
 ## Chapter 3 Chart Of Accounts
 
 
-How to set up and manage the Chart of Accounts, customer data, vendor data, and products/services. It emphasizes the importance of correctly categorizing accounts and associating income accounts with specific items for accurate financial tracking.
+Set up and manage the Chart of Accounts, customer data, vendor data, and products/services. It emphasizes the importance of correctly categorizing accounts and associating income accounts with specific items for accurate financial tracking.
 
 1. **Accessing the Chart of Accounts**
-   1. Go to `Accounting` > `Chart of Accounts`.
+   1. Go to `Accounting` > `Chart of Accounts`
    2. Click the green `See your Chart of Accounts` button if this is your first time accessing it.
-   3. Review the list of accounts added by QuickBooks Online and make any necessary accounts inactive to simplify the list.
+   3. Review the list of accounts added by QBO and make any necessary accounts inactive to simplify the list.
    4. To deactivate an account, click the arrow next to the account, select `Make inactive`, and confirm.
 
 2. **Adding a New Account**
@@ -81,16 +83,15 @@ How to set up and manage the Chart of Accounts, customer data, vendor data, and 
 
 
 3. **Managing Customers**
-   1. Go to `Sales` > `Customers`.
-   2. Click `Add Customer Manually` if this is your first time.
-   3. Enter the customer's information, including name and company name, and click `Save`.
-   4. To edit customer details, click on the customer’s name, then click `Edit`.
+   1. Go to `Sales` > `Customers` > `Add Customer Manually` (if this is your first time)
+   1. Enter the customer's information, including name and company name, and click `Save`
+   2. To edit customer details, click on the customer’s name, then click `Edit`
 
-4. **Managing Vendors**
-   1. Go to `Expenses` > `Vendors`.
+1. **Managing Vendors**
+   1. Go to `Expenses` > `Vendors`
    2. Click `Add Vendor Manually` if this is your first time.
-   3. Enter the vendor's information, including company name, and click `Save`.
-   4. To edit vendor details, click on the vendor’s name, then click `Edit`.
+   3. Enter the vendor's information, including company name, and click `Save`
+   4. To edit vendor details, click on the vendor’s name, then click `Edit`
 
 
 ---
@@ -99,13 +100,13 @@ How to set up and manage the Chart of Accounts, customer data, vendor data, and 
 ## Chapter 5 Products And Services
 
 1. **Setting Up Products and Services**
-   1. Click the setup `cog wheel`, then go to `Lists` > `Products and Services`.
+   1. Click `cog wheel` > `Lists` > `Products and Services`
    2. Click the green button to start adding services.
-   3. Select `Service`, then enter the `Name`, `Sales price/rate`, and the associated `Income Account`.
-   4. Click `Save and Close` to add the item to the list.
+   3. Select `Service`, then enter the `Name`, `Sales price/rate`, and the associated `Income Account`
+   4. `Save and Close`
 
 2. **Reviewing and Managing Transactions**
-   1. To view or edit transactions for a customer or vendor, click on their name, then choose `Transaction List` or `Customer/Vendor Details`.
+   1. To view or edit transactions for a customer or vendor, click on their name, then choose `Transaction List` or `Customer/Vendor Details`
    2. You can filter transactions and manage their details from this view.
 
 
@@ -115,23 +116,22 @@ How to set up and manage the Chart of Accounts, customer data, vendor data, and 
 ## Chapter 6 Creating Invoices
 
 
-The text describes the process of entering the first transaction in QuickBooks Online, which involves creating an invoice and checking its effects on the trial balance and customer balance reports. The Steps** are detailed to guide users through setting up reports, entering invoice details, and verifying the results.
+The first transaction in QBO, which involves creating an invoice and checking its effects on the trial balance and customer balance reports. The Steps are detailed to guide users through setting up reports, entering invoice details, and verifying the results.
 
 1. **Set Up the Trial Balance Report:**
-   - Click on `Reports` in the left panel.
-   - Click `Standard` and scroll to the `Accountant Reports` section.
-   - Select `Trial Balance`.
-   - Change the date range to `All Dates`.
+   - Click on `Reports` > `Standard` and scroll down `Accountant Reports` section.
+   - Select `Trial Balance`
+   - USE date range `All Dates`
    - Click `Run Report` and then `Save Customization` to save the report in the custom section.
 
 2. **Set Up the Customer Balance Detail Report:**
-   - Go back to `Reports`.
+   - Go back to `Reports`
    - Scroll to the `Who Owes You` section.
-   - Select `Customer Balance Detail`.
+   - Select `Customer Balance Detail`
    - Click `Save Customization` to save the report.
 
 3. **Enter the First Invoice:**
-   - Click on `Sales` and then `Invoice`.
+   - Click on `Sales` > `Invoice`
    - Input the invoice date (e.g., January 1st).
    - Select the customer (e.g., Alan).
    - Choose the product/service (e.g., Video) and enter the quantity (e.g., 10 hours).
@@ -142,7 +142,7 @@ The text describes the process of entering the first transaction in QuickBooks O
    - Check the `Customer Balance Detail` report to confirm the specific customer balance.
 
 5. **Enter the Second Invoice (Optional):**
-   - Click the `+` sign and select `Invoice`.
+   - Click the `+` sign and select `Invoice`
    - Enter the invoice date (e.g., January 2nd).
    - Select the customer (e.g., Betty).
    - Choose the product/service (e.g., Editing) and enter the quantity (e.g., 10 hours).
@@ -156,20 +156,20 @@ The text describes the process of entering the first transaction in QuickBooks O
 ## Chapter 7 Transactions
 
 
-This chapter guides users through practicing inputting multiple invoices into QuickBooks Online and verifying the results by comparing them with expected balances in the trial balance and customer balance detail reports. Users are encouraged to enter the invoices one by one and check that their final balances match the provided figures.
+This chapter guides users through practicing inputting multiple invoices into QBO and verifying the results by comparing them with expected balances in the trial balance and customer balance detail reports. Users are encouraged to enter the invoices one by one and check that their final balances match the provided figures.
 
 1. **Review Initial Reports:**
    - Check the trial balance to note the current balances before entering the new invoices.
    - Check the customer balance detail report to see existing customer balances.
 
 2. **Enter Invoices:**
-   - Enter each invoice into QuickBooks Online with the following details:
-     - **Invoice 1003**: 
+   - Enter each invoice into QBO with the following details:
+     - **Invoice 1003**:  
        - Date: As specified
        - Quantity: As specified
        - Item: As specified
        - Customer: As specified
-     - **Invoice 1004**: 
+     - **Invoice 1004**:  
        - Date: As specified
        - Quantity: As specified
        - Item: As specified
@@ -188,39 +188,38 @@ This chapter guides users through practicing inputting multiple invoices into Qu
 4. **Correct Any Discrepancies:**
    - If the final numbers do not match the expected figures, review and correct any mistakes using the guidance provided in the following instructional video.
 
+
 ---
 
 
 ## Chapter 8 Fixing Mistakes
 
 
-The text provides guidance on how to input invoices into QuickBooks Online and check the accuracy of the entries by comparing them with the expected balances in the trial balance and customer balance detail reports. It emphasizes practicing these steps to ensure accuracy in recording transactions.
+The text provides guidance on how to input invoices into QBO and check the accuracy of the entries by comparing them with the expected balances in the trial balance and customer balance detail reports. It emphasizes practicing these steps to ensure accuracy in recording transactions.
 
 1. **Access the Trial Balance:**
-   - Open QuickBooks Online.
-   - Navigate to `Reports` > `Standard` > `Accountant Reports`.
-   - Select `Trial Balance` and adjust the date range to `All Dates`.
+   - Navigate to `Reports` > `Standard` > `Accountant Reports`
+   - Select `Trial Balance` and use `All Dates`
    - Click `Run Report` to view current balances.
 
 2. **Review Customer Balances:**
-   - Navigate to `Reports` > `Standard` > `Who Owes You`.
+   - Navigate to `Reports` > `Standard` > `Who Owes You`
    - Select `Customer Balance Detail` to view existing balances.
 
 3. **Input Invoices:**
-   - Go to `Sales` > `Invoices`.
-   - Click `New Invoice`.
+   - Go to `Sales` > `Invoices` >  `New Invoice`
    - Enter invoice details:
      - Select the customer.
      - Choose the date of the invoice.
      - Enter the product/service, quantity, and rate.
    - Click `Save and Close` to record each invoice.
 
-4. **Verify Final Balances:**
+1. **Verify Final Balances:**
    - Reopen the `Trial Balance` report and ensure the total balances match the expected amounts.
    - Check the `Customer Balance Detail` report to confirm the individual customer balances are correct.
 
-5. **Correct Errors (if needed):**
-   - If discrepancies are found, review the invoice entries and correct any mistakes using QuickBooks Online's edit functions.
+2. **Correct Errors (if needed):**
+   - If discrepancies are found, review the invoice entries and correct any mistakes using QBO's edit functions.
 
 
 ---
@@ -229,21 +228,20 @@ The text provides guidance on how to input invoices into QuickBooks Online and c
 ## Chapter 9 Delete Transactions
 
 
-The text provides guidance on how to input invoices into QuickBooks Online and check the accuracy of the entries by comparing them with the expected balances in the trial balance and customer balance detail reports. It emphasizes practicing these steps to ensure accuracy in recording transactions.
+The text provides guidance on how to input invoices into QBO and check the accuracy of the entries by comparing them with the expected balances in the trial balance and customer balance detail reports. It emphasizes practicing these steps to ensure accuracy in recording transactions.
 
 1. **Access the Trial Balance:**
-   - Open QuickBooks Online.
-   - Navigate to `Reports` > `Standard` > `Accountant Reports`.
-   - Select `Trial Balance` and adjust the date range to `All Dates`.
+   - Navigate to `Reports` > `Standard` > `Accountant Reports`
+   - Select `Trial Balance` and adjust the date range to `All Dates`
    - Click `Run Report` to view current balances.
 
 2. **Review Customer Balances:**
-   - Navigate to `Reports` > `Standard` > `Who Owes You`.
+   - Navigate to `Reports` > `Standard` > `Who Owes You`
    - Select `Customer Balance Detail` to view existing balances.
 
 3. **Input Invoices:**
-   - Go to `Sales` > `Invoices`.
-   - Click `New Invoice`.
+   - Go to `Sales` > `Invoices`
+   - Click `New Invoice`
    - Enter invoice details:
      - Select the customer.
      - Choose the date of the invoice.
@@ -255,7 +253,7 @@ The text provides guidance on how to input invoices into QuickBooks Online and c
    - Check the `Customer Balance Detail` report to confirm the individual customer balances are correct.
 
 5. **Correct Errors (if needed):**
-   - If discrepancies are found, review the invoice entries and correct any mistakes using QuickBooks Online's edit functions.
+   - If discrepancies are found, review the invoice entries and correct any mistakes using QBO's edit functions.
 
 ---
 
@@ -266,7 +264,7 @@ The text provides guidance on how to input invoices into QuickBooks Online and c
 The text explains how to record invoice payments, emphasizing the impact on both the general ledger (Trial Balance) and customer records. It demonstrates step-by-step how receiving payments affects Accounts Receivable and cash balances.
 
 1. **Review Trial Balance:**
-   - Go to `Reports` > `Standard` > `Accountant Reports`.
+   - Go to `Reports` > `Standard` > `Accountant Reports`
    - Select `Trial Balance` and view current balances before recording the payment.
 
 2. **Record Invoice Payment:**
@@ -285,7 +283,7 @@ The text explains how to record invoice payments, emphasizing the impact on both
    - Reopen the `Trial Balance` report to confirm that Accounts Receivable decreased by the payment amount, and cash increased by the same amount.
 
 5. **Check Customer Records:**
-   - Go to `Reports` > `Standard` > `Who Owes You`.
+   - Go to `Reports` > `Standard` > `Who Owes You`
    - Select `Customer Balance Detail` to verify that the customer's balance reflects the payment and that the paid invoice is removed from the report.
 
 6. **Repeat for Additional Payments:**
@@ -319,7 +317,7 @@ The text describes how to enter sales receipts, explaining how immediate payment
    - Expected updates: `Video Income` increases to $17,400, and `Cash and Bank` increases to $6,680.
 
 5. **Review Sales by Customer:**
-   - Go to `Reports` > `Sales and customers`.
+   - Go to `Reports` > `Sales and customers`
    - Select `Sales by Customer Detail` and adjust the date range to view the recent sales receipt.
    - Verify that the receipt appears under the correct customer (e.g., Alan).
 
@@ -329,7 +327,7 @@ The text describes how to enter sales receipts, explaining how immediate payment
 
 7. **Repeat for Additional Sales Receipts:**
    - Follow the same steps for each immediate payment transaction, ensuring accuracy in recording and verifying each receipt’s impact on the Trial Balance and Sales reports.
-   - Example: On January 12, enter 10 editing hours for Betty, resulting in a $1,400 sales receipt and corresponding updates to `Editing Income` and `Cash and Bank`.
+   - Example: On January 12, enter 10 editing hours for Betty, resulting in a $1,400 sales receipt and corresponding updates to `Editing Income` and `Cash and Bank`
 
 ---
 
@@ -341,16 +339,16 @@ This text explains how to customize the Journal report, focusing on adding and r
 
 1. **Open the Journal Report:**
    - Click `Reports` in the left navigation panel.
-   - Select `All Reports`, then scroll down and choose `Accountant Reports`.
+   - Select `All Reports`, then scroll down and choose `Accountant Reports`
    - Click on `Journal` to open the report.
 
 2. **Set the Date Range:**
    - At the top left of the report, click the date range dropdown menu.
-   - Select `All Dates` to view all transactions entered in QuickBooks.
+   - USE `All Dates` for all transactions
 
 3. **Add a 'Created' Column:**
    - Click the `Customize` button at the top right of the report.
-   - Under the `Rows/Columns` section, click `Change columns`.
+   - Under the `Rows/Columns` > `Change columns`
    - Add the `Created` column by checking the box next to it.
    - Click `Run Report` to apply the changes.
 
@@ -363,7 +361,7 @@ This text explains how to customize the Journal report, focusing on adding and r
 
 6. **Save the Customized Report:**
    - Click `Save Customization` at the top right of the report.
-   - Name the report (e.g., `My Journal`) and click `Save`.
+   - Name the report (e.g., `My Journal`) and click `Save`
 
 7. **Access the Customized Report:**
    - Go to `Reports` > `My Custom Reports` to find and open your saved journal report.
@@ -379,7 +377,7 @@ This text explains how to customize the Journal report, focusing on adding and r
 This chapter guides you through practicing customer transactions, ensuring that your trial balance and customer balance detail match the provided examples. It also discusses common mistakes and how to troubleshoot them.
 
 1. Ensure your trial balance and customer balance detail match the provided examples before starting.
-2. Enter the transactions one by one into QuickBooks Online.
+2. Enter the transactions one by one into QBO.
 3. After completing the entries, compare your trial balance and customer balance detail to the provided examples.
 4. If your numbers do not match:
    - Check each customer balance and invoice individually.
@@ -395,8 +393,9 @@ This chapter guides you through practicing customer transactions, ensuring that 
 This chapter introduces managing vendors and accounts payable, including how to track money owed to vendors through the vendor balance detail report.
 
 1. Understand that accounts payable represents the total money owed to all vendors.
-2. Access the Vendor Balance Detail report by navigating to `Reports > All Reports > Manage Accounts Payable > Vendor Balance Detail`.
-3. Save the Vendor Balance Detail report to `My Custom Reports` by clicking `Save Customization`.
+2. Access the Vendor Balance Detail report by navigating to `Reports > All Reports > Manage Accounts Payable > Vendor Balance Detail`
+3. Save the Vendor Balance Detail report to `My Custom Reports` by clicking `Save Customization`
+
 
 ---
 
@@ -409,9 +408,10 @@ Learn how to record bills received from vendors, affecting both the trial balanc
 1. To enter a bill:
    - Click the `+` icon and select `Bill` under the Vendors column.
    - Enter the vendor, bill date, bill number, expense account, and amount.
-   - Click `Save and Close` or `Save and New`.
+   - Click `Save and Close` or `Save and New`
 2. Review the impact on the trial balance and Vendor Balance Detail report to ensure correct entries.
 3. Add new vendors on the fly if needed during bill entry.
+
 
 ---
 
@@ -428,6 +428,7 @@ This chapter provides a practice exercise to reinforce the process of entering v
    - Identify common mistakes like selecting the wrong account or vendor.
    - Use logic and troubleshooting techniques to correct errors.
 
+
 ---
 
 
@@ -439,9 +440,10 @@ This chapter explains how to record payments made to vendors, affecting the tria
 1. To pay bills:
    - Click the `+` icon and select `Pay Bills` under the Vendors column.
    - Filter the list by vendor, select the bill(s) to pay, and enter the payment details.
-   - Click `Save and Close`.
+   - Click `Save and Close`
 2. Review the impact on the trial balance and Vendor Balance Detail report to ensure payments are recorded correctly.
 3. Understand that paying a bill reduces accounts payable and cash in bank.
+
 
 ---
 
@@ -454,12 +456,13 @@ This chapter covers how to record check and expense transactions, highlighting t
 1. To write a check:
    - Click the `+` icon and select `Check` under the Vendors column.
    - Enter the check details, including date, vendor, expense account, and amount.
-   - Click `Save and Close`.
+   - Click `Save and Close`
 2. To record an expense:
    - Click the `+` icon and select `Expense` under the Vendors column.
    - Enter the expense details, including date, vendor, and account.
-   - Click `Save and Close`.
+   - Click `Save and Close`
 3. Check the trial balance to ensure entries are correct.
+
 
 ---
 
@@ -477,18 +480,20 @@ This chapter explains how to manage cash transactions and petty cash funds, incl
    - Use the `Expense` option and select the petty cash account for payment.
 4. Replenish petty cash by transferring funds from your bank account.
 
+
 ---
 
 
 ## Chapter 20 Exercises
 
 
-This chapter provides a practical exercise combining all vendor-related transactions, helping you review and ensure accuracy in your QuickBooks Online entries.
+This chapter provides a practical exercise combining all vendor-related transactions, helping you review and ensure accuracy in your QBO entries.
 
 1. Ensure your trial balance and vendor balance detail match the provided examples before starting.
 2. Carefully enter the provided transactions.
 3. Compare your trial balance and vendor balance detail to the examples after completing the exercise.
 4. Troubleshoot and correct any discrepancies using techniques from previous chapters.
+
 
 ---
 
@@ -499,10 +504,11 @@ This chapter provides a practical exercise combining all vendor-related transact
 Learn how to record bank deposits directly, particularly when payments are received and deposited into the bank without tracking quantities.
 
 1. To record a deposit:
-   - Click the `+` icon and select `Bank Deposit`.
+   - Click the `+` icon and select `Bank Deposit`
    - Enter the deposit details, including date, customer, account (income), and amount.
-   - Click `Save and Close`.
+   - Click `Save and Close`
 2. Review the trial balance to confirm that cash and income accounts are updated correctly.
+
 
 ---
 
@@ -513,11 +519,11 @@ Learn how to record bank deposits directly, particularly when payments are recei
 This chapter covers how to handle deposits where cash back is taken for expenses, requiring use of the deposit window with adjustments.
 
 1. To record a deposit with cash back:
-   - Click the `+` icon and select `Bank Deposit`.
+   - Click the `+` icon and select `Bank Deposit`
    - Enter the full income amount on the first line.
    - Deduct expenses with a negative amount on subsequent lines.
    - Ensure the final deposit amount matches the actual deposit made to the bank.
-   - Click `Save and Close`.
+   - Click `Save and Close`
 
 ---
 
@@ -543,8 +549,8 @@ This chapter explains how to manage undeposited funds, handling scenarios where 
 Learn how to use the Deposit Detail report to review and edit previous bank deposits.
 
 1. Access the Deposit Detail report:
-   - Go to `Reports > All Reports > Review Sales > Deposit Detail`.
-   - Set the date range to `All Dates`.
+   - Go to `Reports > All Reports > Review Sales > Deposit Detail`
+   - Set the date range to `All Dates`
 2. Review and edit deposits:
    - Click on the specific deposit to view details.
    - Remove or add items by adjusting the checkmarks in the deposit window.
@@ -559,7 +565,7 @@ Learn how to use the Deposit Detail report to review and edit previous bank depo
 This chapter introduces the Advanced Search tool, allowing you to locate specific transactions based on various filters.
 
 1. Access the Advanced Search tool:
-   - Click the magnifying glass icon and select `Advanced Search`.
+   - Click the magnifying glass icon and select `Advanced Search`
 2. Perform a search:
    - Select the transaction type, data field, and search criteria (e.g., amount equals, contains text).
    - Click `Search` to view results.
@@ -585,7 +591,7 @@ The Audit Log records all events and changes within your account, allowing you t
 ## Chapter 27 Exam
 
 
-This final chapter provides a comprehensive exercise to test your mastery of QuickBooks Online, requiring accurate entry and reconciliation of various transaction types.
+This final chapter provides a comprehensive exercise to test your mastery of QBO, requiring accurate entry and reconciliation of various transaction types.
 
 1. Ensure your trial balance, customer balance detail, and vendor balance detail match the provided examples before starting.
 2. Enter the provided transactions carefully and accurately.
@@ -600,19 +606,19 @@ This final chapter provides a comprehensive exercise to test your mastery of Qui
 ## Appendix 1
 
 https://www.youtube.com/watch?v=aoWghI3kvpc  
-QuickBooks Online Complete Tutorial  
+QBO Complete Tutorial  
 
 Timestamps:  
 00:00 Intro  
-1:45 Navigate The QuickBooks Online Interface  
+1:45 Navigate The QBO Interface  
 9:10 Adjust Company Settings and adjust Account Settings  
-16:22 Manage The QuickBooks Online Chart Of Accounts  
+16:22 Manage The QBO Chart Of Accounts  
 26:10 Managing Customer And Vendor Data  
 34:07 Managing The List Of Products And Services  
 40:05 Entering Your First Transaction, Creating An Invoice  
 56:22 First QuickBooks Transaction Practice  
-58:35 Finding And Fixing QuickBooks Online Mistakes  
-1:03:42 Delete Transactions In QuickBooks Online  
+58:35 Finding And Fixing QBO Mistakes  
+1:03:42 Delete Transactions In QBO  
 1:09:16 Receiving Invoice Payments  
 1:18:54 How To Enter Sales Receipts  
 1:26:28 Customize QuickBooks Reports With The Journal  
@@ -630,11 +636,9 @@ Timestamps:
 2:58:54 How To Edit A Deposit With The Deposit Detail Report  
 3:07:19 How To Use The Advanced Search Tool  
 3:13:47 How To Use The Audit Log  
-3:27:38 QuickBooks Online Final Exam  
+3:27:38 QBO Final Exam  
 
 ---
-
-P.S. if you don’t see a topic you are looking for, check the main channel page to get anything you could possibly need regarding QuickBooks or QuickBooks Online:
 
 Mark Smolen is a certified instructor and the creator of the QuickBooks Instructional YouTube Channel and Website.  
 
@@ -645,6 +649,3 @@ Contact Mark directly:
 - https://marksmolen.com 
 
 - https://quickbooksforlandlords.net 
-
----
-
