@@ -7,16 +7,19 @@ layout: post
 ## Client routes into your books
 
 
-For New clients consider:
+For New clients consider:  
+
 - import records from excel or other software
 
 ## The Client onboarding template
 
 Q. Where can you find the template?
+
 1. Work / Create Project / Project Template / Client onboarding / Add Project Name & Client or Firm / SAVE
+
 2. Acct Tool menu / Clients / Add Client / Enter Info / Team / Billing /
-  - Id the QuickBooks Online subscription level
-  - 3 options: ProAdvisor discount, Direct discount, & Revenue share
+   - Id the QuickBooks Online subscription level
+   - 3 options: ProAdvisor discount, Direct discount, & Revenue share
 
 |QBO Subscription Levels|Highlights|Usage limits|
 |:-|-:|
@@ -32,8 +35,8 @@ Q. Where can you find the template?
 |Time Elite = 28/month|
 |Time Premium = 14|
 
-3. Place Order
-4. New Client should appear on 'Client' List
+1. Place Order
+2. New Client should appear on 'Client' List
 
 ### Alternative: Use Setup Wizard to help new clients
 
@@ -44,6 +47,7 @@ Q. Where can you find the template?
 - Import old data
 
 ### Clients already using QBO
+
 - goto Overview / Company Setup / Bank Activity / (Reconcile or Check) / Common Problems (undeposited funds, equity act drawings, beginning balances, Categorize Assets&Income&Expense) / Transactions Volume
 
 ## Subscription options & levels
@@ -97,12 +101,14 @@ Activities you can carry out include:
 >Exploring the client’s industry-specific needs will help you identify any additional functionality they may require. For example, they may need third-party apps to track e-commerce sales or manage their logistics, manufacturing, shipping, point of sale, or personal billable time
 {}
 
-Q1. 
+Q1.  
+
 - Based on the information in the first two columns about the QuickBooks Online features that the client will need, which subscription level would you recommend?
 - QuickBooks Online Plus
 - This client requires Location tracking, Budgets, and Purchase orders, which are all features of QuickBooks Online Plus.
 
-Q2. 
+Q2.  
+
 - The client runs a haulage and warehouse business
 - The business is a large SMB with more than 10 users
 - Their HQ is in Idaho, but the business also has distribution centers in Maine and New Mexico
@@ -111,16 +117,18 @@ Q2.
 - There will likely be complex tracking and categorization requirements
 
  
-A2. Which QuickBooks Online subscription level would you recommend?
+A2. Which QuickBooks Online subscription level would you recommend?  
+
 - QuickBooks Online Advanced
 - The client has many complex bookkeeping requirements that QuickBooks Online Advanced is designed to solve.
 
 
-### Billing options 
+### Billing options  
 
 - **Add client** from the **Clients list** and then **Subscription** in the **Products** section.
 
-In the **Billing options** section, you can choose how they’ll be billed for their subscription. The three options are:
+In the **Billing options** section, you can choose how they’ll be billed for their subscription. The three options are:  
+
 - ProAdvisor discount
 - Direct discount
 - Revenue share
@@ -145,9 +153,9 @@ Estimates can also be found in the Customers tab.
 
 ### Enabling purchase orders
 
-1.  Select `+ New`, under Vendor, `Purchase Order`, Fill in All relevant Information
+1. Select `+ New`, under Vendor, `Purchase Order`, Fill in All relevant Information
 
-### Using an estimate to create a purchase order 
+### Using an estimate to create a purchase order  
 
 1. From the left-hand navigation, select `Sales`, then `All Sales`
 2. On the money bar, select `Estimate`, From the Action column, select Edit on the estimate to be turned into a purchase order ,   Next, select the down arrow next to Create invoice and select Copy to purchase order ,   On the Purchase Order screen, select the Vendor to order the item from  ,   If the item will be shipped directly to the customer, select the customer from the Ship to dropdown. Otherwise, the item will be shipped to the company, Review and adjust any details as necessary,  When done, select Save and send,  Review the content of the email with the purchase order then select Send and close, 
@@ -157,12 +165,12 @@ The purchase order is now sent to the vendor.
 ### Converting a purchase order to an expense or bill
 
 1. From the left-hand navigation, select `Expenses`, then `Vendors`, On the money bar, select `Purchase Order` box  
-2. Find the purchase order 
-3. select either `Create bill` or `Create expense` from the dropdown
+2. Find the purchase order  
+3. Select either `Create bill` or `Create expense` from the dropdown
 
-Note: Enter any missing details. 
+Note: Enter any missing details.  
 
-4. From the drawer on the right, select `Add` to add the details of the purchase order to the expense 
+4. From the drawer on the right, select `Add` to add the details of the purchase order to the expense  
 
 5. select `Save and close`
 
@@ -176,6 +184,7 @@ Note: Enter any missing details.
 
 
 Q. Which of these statements about estimates in QuickBooks Online Plus and Advanced are true? Select all that apply.
+
 - Estimate data can be used to create a purchase order
 - Estimate data can be used to create an invoice
 
@@ -236,14 +245,14 @@ Q. Which of these statements about estimates in QuickBooks Online Plus and Advan
 
 ---
 
-## Onboarding clients who are new to QuickBooks Online
+## On-boarding clients who are new to QuickBooks Online
 
 
 ## Signing up a client new to QuickBooks Online
 
-## Completing the onboarding process for clients who are new to QuickBooks Online
+## Completing the on-boarding process for clients who are new to QuickBooks Online
 
-## Onboarding clients who are already using QuickBooks Online
+## On-boarding clients who are already using QuickBooks Online
 
 ## Reviewing a client’s existing QuickBooks Online books
 

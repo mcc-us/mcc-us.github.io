@@ -1,5 +1,5 @@
 ---
-title: Learning Outline
+title: AI Outline
 date: 2024-06-22
 category: qbo
 layout: post
