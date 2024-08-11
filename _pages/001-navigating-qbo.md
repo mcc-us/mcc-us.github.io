@@ -1,10 +1,19 @@
 ---
-title: thequickbooksdude Notes
+title: Navigating QBO
 layout: post
 ---
 
+- These notes were taken from "*thequickbooksdude*" on Youtube.
 
-## 1 Navigating QBO
+ <script> function openWindow()
+ {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc");}
+ </script>
+
+|Quickbooks Dude Video Tutorial|
+|:-:|
+| <button onclick="openWindow()">Open: QuickbooksDude Video</button>|
+
+---
 
 If you are using QBO for Accountant then the Accountant view is all you see.
 
