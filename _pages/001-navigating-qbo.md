@@ -1,15 +1,14 @@
 ---
-title: Navigating QBO
+title: 001-Navigating QBO
 layout: post
 ---
 
-- These notes were taken from "*thequickbooksdude*" on Youtube.
 
  <script> function openWindow()
  {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc");}
  </script>
 
-|Quickbooks Dude Video Tutorial|
+|These notes were taken from "*thequickbooksdude*" on Youtube.|
 |:-:|
 | <button onclick="openWindow()">Open: QuickbooksDude Video</button>|
 
