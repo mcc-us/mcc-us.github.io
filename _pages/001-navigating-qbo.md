@@ -4,32 +4,26 @@ layout: post
 ---
 
 
- <script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc");}
- </script>
-
 |These notes were taken from "*thequickbooksdude*" on Youtube.|
-|:-:|
-| <button onclick="openWindow()">Open: QuickbooksDude Video</button>|
 
 ---
 
-If you are using QBO for Accountant then the Accountant view is all you see.
+1. **QBO Accountant Version**: If you are using QBO for Accountant then the Accountant view is all you see.
 
 Otherwise use the `cog wheel`, the plus sign, and the reports menu being essential tools for managing your account and transactions.
 
-1. **Identify Your View:**
+2. **Identify Your View:**
    1. Determine if you are in `Business View` or `Accountant View` by looking at the left panel.
       1. Business View uses icons.
       2. Accountant View has clearly written menu choices.
 
-2. **Access Settings:**
+3. **Access Settings:**
    1. Locate the `cog wheel` on top right corner to open settings and manage account information.
 
-3. **Perform Transactions:**
+4. **Perform Transactions:**
    1. Click the plus sign in the top left corner to access various transactions and day-to-day tasks.
 
-4. **Access Reports:**
+5. **Access Reports:**
    1. In Accountant View, click `Reports` directly from the left panel.
    2. In Business View, navigate through `Business Overview` > `Reports` from the left panel.
    3. Alternatively, access reports through the middle of the screen in both views.
