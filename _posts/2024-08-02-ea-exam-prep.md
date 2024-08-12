@@ -11,11 +11,11 @@ Finding a comprehensive, free guide specifically for the Enrolled Agent (EA) exa
 
 ### 1. IRS Publications
 The IRS provides a wealth of free information that covers much of the material on the EA exam. Key publications include:
-- **Publication 17**: Your Federal Income Tax (for Individuals)
-- **Publication 334**: Tax Guide for Small Business
-- **Publication 463**: Travel, Entertainment, Gift, and Car Expenses
-- **Publication 970**: Tax Benefits for Education
-- **Publication 556**: Examination of Returns, Appeal Rights, and Claims for Refund
+- [Publication 17](https://www.irs.gov/pub/irs-pdf/p17.pdf) Your Federal Income Tax (for Individuals)
+- [Publication 334](https://www.irs.gov/pub/irs-pdf/p334.pdf) Tax Guide for Small Business
+- [Publication 463](https://www.irs.gov/pub/irs-pdf/p463.pdf) Travel, Entertainment, Gift, and Car Expenses
+- [Publication 970](https://www.irs.gov/pub/irs-pdf/p970.pdf) Tax Benefits for Education
+- [Publication 556](https://www.irs.gov/pub/irs-pdf/p556.pdf) Examination of Returns, Appeal Rights, and Claims for Refund
 
 These publications are available for free on the [IRS website](https://www.irs.gov/forms-pubs).
 
