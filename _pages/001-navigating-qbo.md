@@ -8,28 +8,6 @@ layout: post
 
 ---
 
-1. **QBO Accountant Version**: If you are using QBO for Accountant then the Accountant view is all you see.
-
-Otherwise use the `cog wheel`, the plus sign, and the reports menu being essential tools for managing your account and transactions.
-
-2. **Identify Your View:**
-   1. Determine if you are in `Business View` or `Accountant View` by looking at the left panel.
-      1. Business View uses icons.
-      2. Accountant View has clearly written menu choices.
-
-3. **Access Settings:**
-   1. Locate the `cog wheel` on top right corner to open settings and manage account information.
-
-4. **Perform Transactions:**
-   1. Click the plus sign in the top left corner to access various transactions and day-to-day tasks.
-
-5. **Access Reports:**
-   1. In Accountant View, click `Reports` directly from the left panel.
-   2. In Business View, navigate through `Business Overview` > `Reports` from the left panel.
-   3. Alternatively, access reports through the middle of the screen in both views.
-
-
----
 
 
 ## 2 Account Settings
@@ -62,11 +40,9 @@ Account settings in QBO determine the default behaviors until you modify them. T
 
 ---
 
-
 ## 3 Chart Of Accounts
 
-
-Manage the Chart of Accounts, customer data, vendor data, and products/services. Very important for correctly categorizing accounts and associating income accounts with items (bought and sold) for accurate financial tracking.
+The Chart of Accounts is important for correctly categorizing accounts setting up the ledger and associating income accounts with items (bought and sold) for accurate financial tracking.
 
 1. **Accessing the Chart of Accounts**
    1. Go to `Accounting` > `Chart of Accounts`
