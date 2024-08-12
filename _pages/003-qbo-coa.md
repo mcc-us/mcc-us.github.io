@@ -1,5 +1,5 @@
 ---
-title: 002-Chart of Accounts
+title: 003-Chart of Accounts
 layout: post
 ---
 
@@ -7,51 +7,31 @@ layout: post
 
 - The Chart of Accounts prepares the subsidiary ledgers that is necessary for each account.
 
+### Setup
 
-### Setup: Chart Of Accounts
-
-
-<script> 
- function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=987");}
-</script>
-
-|The "QuickBooksGuy"|
-|:-:|
-|<button onclick="openWindow()">Open: Tutorital Video @ 16:27</button>|
-
-
-1. Goto: Accountant Tools / `Transactions` / `Chart of Accounts`
-2. Determine which accounts to use? *Make New / Edit / Inactive*?
-3. **Action** column: `New / Edit / Inactive / Run Report` 
-4. `New` **OR** `View register` drop down menus
-
+1. Goto: Accountant Tools / `Transactions` / `Chart of Accounts` OR `[CTRL][ALT]+A`
+2. Use? *Make New / Edit / Inactive*?  
+3. **Action** column: `New / Edit / Inactive / Run Report`  
+4. `New` **OR** `View register` drop down menus  
 
 |Setting Up Chart Of Accounts|
 |:-:|
 |<img src="/assets/images/3.new.chart.of.accounts.button.png" width="85%" />|
 |<img src="/assets/images/3.new.coa.png" width="65%" />|
 
+>**NOTE**: It's not possible to make some accounts inactive.  
+{: .block-warning }  
 
->**NOTE**: It is not possible to make some accounts inactive  
-{: .block-warning } 
+5. **Adding a New Account**
+   1. Go to Top right for `New`.
+   2. Select `Type` for the account.
+   3. Enter `Name`.
+   4. Choose if you want parent of sub-account.
+   5. Click `Save and Close` or `Save and New`.
 
+### Example: NACPB Chart of Accounts
 
-<script> 
- function openWindow()
- {window.open("https://www.youtube.com/watch?v=mkQWUzK-pGg");}
-</script>
-
-
->**See Also**: 
-<button onclick="openWindow()">Open: Clara CFO chart of Accounts video tutorial</button>
->I like to play this on 1.5X speed. 
-{: .block-warning } 
-
-
-### Example: Chart of Accounts
-
-- This example chart of accounts includes many common accounts for different situations.
+- This list includes many common accounts for different situations.
 
 <div class="pdf-container">
     <iframe src="/assets/nacpb/nahb-chart-of-accounts-2016.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
