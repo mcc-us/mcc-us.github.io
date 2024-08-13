@@ -17,3 +17,16 @@ layout: post
    4. To edit. click `Edit`
 
 These are necessary to build accounts for selling and buying goods for resale.
+
+![alt text](../assets/images/4.1.input.cust.vendor.data.png) 
+
+![alt text](../assets/images/4.2.cust.data.png) 
+
+![alt text](../assets/images/4.2.input.cust.vendor.data.png) 
+
+![alt text](../assets/images/4.3.input.vendor.data.png) 
+
+![alt text](../assets/images/4.3.vendor.data.png) 
+
+![alt text](../assets/images/4.4.input.multi.cust.data.png)
+

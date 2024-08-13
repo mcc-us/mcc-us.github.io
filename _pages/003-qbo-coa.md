@@ -29,6 +29,10 @@ layout: post
    4. Choose if you want parent of sub-account.
    5. Click `Save and Close` or `Save and New`.
 
+![alt text](../assets/images/qbo.coa.templates.2.png) 
+
+![alt text](../assets/images/qbo.coa.templates.png)
+
 ### Example: NACPB Chart of Accounts
 
 - This list includes many common accounts for different situations.
