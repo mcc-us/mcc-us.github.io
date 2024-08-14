@@ -1,10 +1,8 @@
 ---
-title: 002-Company SetUp
+title: 002-Setup Company Data
 layout: post
 ---
 
-
-### Setup Customer Data
 
 1. Generate List of Customer / Vendor
 
