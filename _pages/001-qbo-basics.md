@@ -37,10 +37,10 @@ If you use the `Business View` then you need to change to Accountant View using 
 
 ## Key Features of QuickBooks Online
 
-- Dashboard View: The dashboard provides info on your business's financial health, bank account balances, P & L statements, and expense summaries.  
-- Invoicing and Billing: Create, send, and track invoices, set up recurring invoices, and accept online payments.  
-- Expense Tracking: Record and categorize expenses. Attach receipts directly to transactions for better record-keeping.  
-- Financial Reporting: Generate financial reports: Balance Sheets, Income Statements, and Cash Flow Statements to monitor your business performance.  
-- Inventory Management: Track inventory, manage purchase orders, and generate inventory reports to ensure stock on hand.  
-- Payroll Integration: Manage payroll within QBO, including employee information, paychecks, and tax filings.  
-- Bank Reconciliation: Connect your bank and credit card accounts to QBO to automatically import transactions and simplify the reconciliation process.  
+- **Dashboard View**: The dashboard provides info on your business's financial health, bank account balances, P & L statements, and expense summaries.  
+- **Invoicing and Billing**: Create, send, and track invoices, set up recurring invoices, and accept online payments.  
+- **Expense Tracking**: Record and categorize expenses. Attach receipts directly to transactions for better record-keeping.  
+- **Financial Reporting**: Generate financial reports: Balance Sheets, Income Statements, and Cash Flow Statements to monitor your business performance.  
+- **Inventory Management**: Track inventory, manage purchase orders, and generate inventory reports to ensure stock on hand.  
+- **Payroll Integration**: Manage payroll within QBO, including employee information, paychecks, and tax filings.  
+- **Bank Reconciliation**: Connect your bank and credit card accounts to QBO to automatically import transactions and simplify the reconciliation process.  
