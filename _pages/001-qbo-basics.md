@@ -4,10 +4,9 @@ layout: post
 ---
 
 
-## 1. Introduction to QuickBooks Online
+## 1. Three Important Parts to Navigating QBO
 
-
-Three common parts for all QBO views
+**Using:**
 
 1. `Settings`
 2. `+New`  
@@ -17,9 +16,10 @@ Three common parts for all QBO views
 |:-:|
 |![Start](/assets/images/1.getting-things-done.BIG.png)|
 |![Settings](/assets/images/gear-settings_2024-06-19_09-49-27.png)|
-|`+New` & `Accountant Tools`|Accountant Options|
-|:--:|:--:|
-|![qbo.left.panel](/assets/images/qbo.left.panel.png)|![my-clients](/assets/images/my-clients-page_2024-06-19_10-09-25.png)|
+|Accountant Options|
+|:--:|
+|![qbo.left.panel](/assets/images/qbo.left.panel.png)|
+|![my-clients](/assets/images/my-clients-page_2024-06-19_10-09-25.png)|
 
 1. **QBO Accountant Version**: If you are using QBO for Accountant then the Accountant view is all you see.  
 
@@ -27,9 +27,9 @@ If you use the `Business View` then you need to change to Accountant View using 
 
 ---
 
-- Signing up and setting up your account
-     - If you are learning QBO then start with the **FREE** Accountant version of the software. It allows you to learn & use their training course.
-     - It gives your future clients a discount once you them.
+- Sign up and setting up your account
+      - If you are learning QBO then start with the **FREE** Accountant version of the software. It allows you to learn & use their training course.
+      - It gives your future clients a discount once you them.
   
 - QuickBooks Online has 60-80% of market share for Bookkeeping, depending on who you talk to.  
 
