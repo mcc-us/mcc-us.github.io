@@ -16,15 +16,15 @@ layout: post
    2. You can filter transactions and manage their details from this view  
 
 
-![alt text](../assets/images/5.1.sales.prods.services.lists.png) 
+![alt text](/assets/images/5.1.sales.prods.services.lists.png) 
    
-![alt text](../assets/images/5.2.sales.prods.services.types.png)
+![alt text](/assets/images/5.2.sales.prods.services.types.png)
 
-![alt text](../assets/images/Collect-vendor-info.png)
+![alt text](/assets/images/Collect-vendor-info.png)
 
-![alt text](../assets/images/qbo.products.purchases.png) 
+![alt text](/assets/images/qbo.products.purchases.png) 
 
-![alt text](../assets/images/qbo.purchase.order.png)
+![alt text](/assets/images/qbo.purchase.order.png)
 
-![alt text](../assets/images/qbo-notes.products.services.png)
+![alt text](/assets/images/qbo-notes.products.services.png)
 
