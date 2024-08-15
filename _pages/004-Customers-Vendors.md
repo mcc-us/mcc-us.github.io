@@ -3,7 +3,6 @@ title: 004-Customers & Vendors
 layout: post
 ---
 
-## 4 Customers & Vendors
 
 1. **Add/Manage Customers**
    1. Go to `Sales` > `Customers` > `Add Customer Manually`

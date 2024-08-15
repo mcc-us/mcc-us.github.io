@@ -3,7 +3,6 @@ title: 005-Products & Services
 layout: post
 ---
 
-## 5 Products And Services
 
 1. **Setting Up Products and Services**  
    1. Click `cog wheel` > `Lists` > `Products and Services`  
