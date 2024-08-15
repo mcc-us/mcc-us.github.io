@@ -5,8 +5,6 @@ tags: qbo
 --- 
 
 
-## Dashboard Guide
-
 See Udemy course
 
 QBO Test drive - [https://qbo-intuit.com/redir/testdrive](https://qbo.intuit.com/redir/testdrive)
