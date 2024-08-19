@@ -3,16 +3,16 @@ title: 003-Chart of Accounts
 layout: post
 ---
 
-- Setting up the Chart of Accounts should be the first thing to do in QuickBooks.
+- Set-up Chart of Accounts (COA) first
 
-- The Chart of Accounts prepares the subsidiary ledgers that is necessary for each account.
+     - The Chart of Accounts prepares the subsidiary ledgers that is necessary for each account.
 
-### Setup
+**Setup**
 
-1. Goto: Accountant Tools / `Transactions` / `Chart of Accounts` OR `[CTRL][ALT]+A`
-2. Use? *Make New / Edit / Inactive*?  
+1. Goto: Accountant Tools / `Transactions` / `Chart of Accounts` **OR** `[CTRL][ALT]+A`
+2. Use?: *Make New / Edit / Inactive*?  
 3. **Action** column: `New / Edit / Inactive / Run Report`  
-4. `New` **OR** `View register` drop down menus  
+4. `New` **OR** `View register` from drop down menus  
 
 |Setting Up Chart Of Accounts|
 |:-:|
@@ -22,18 +22,19 @@ layout: post
 >**NOTE**: It's not possible to make some accounts inactive.  
 {: .block-warning }  
 
-5. **Adding a New Account**
-   1. Go to Top right for `New`.
-   2. Select `Type` for the account.
-   3. Enter `Name`.
-   4. Choose if you want parent of sub-account.
-   5. Click `Save and Close` or `Save and New`.
+**Adding a New Account**
 
-![alt text](../assets/images/qbo.coa.templates.2.png) 
+   1. Go to Top right for `New`
+   2. Select `Type` for the account
+   3. Enter `Name`
+   4. Choose if you want parent of sub-account
+   5. Click `Save and Close` or `Save and New`
 
-![alt text](../assets/images/qbo.coa.templates.png)
+![template 1](/assets/images/qbo.coa.templates.2.png)  
 
-### Example: NACPB Chart of Accounts
+![template 2](/assets/images/qbo.coa.templates.png)  
+
+### Ex. NACPB Chart of Accounts
 
 - This list includes many common accounts for different situations.
 
