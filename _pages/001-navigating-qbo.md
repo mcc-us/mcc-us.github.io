@@ -6,9 +6,6 @@ layout: post
 
 |These notes were taken from "*thequickbooksdude*" on Youtube.|
 
----
-
-
 
 ## 2 Account Settings
 
@@ -144,15 +141,15 @@ This section guides users through practicing inputting multiple invoices into QB
 2. **Enter Invoices:**
    - Enter each invoice into QBO with the following details:
      - **Invoice 1003**:  
-       - Date: As specified
-       - Quantity: As specified
-       - Item: As specified
-       - Customer: As specified
+       - Date
+       - Quantity
+       - Item
+       - Customer
      - **Invoice 1004**:  
-       - Date: As specified
-       - Quantity: As specified
-       - Item: As specified
-       - Customer: As specified
+       - Date
+       - Quantity
+       - Item
+       - Customer
      - Continue entering each subsequent invoice in the same manner.
 
 3. **Verify Final Balances:**
@@ -179,26 +176,26 @@ The text provides guidance on how to input invoices into QBO and check the accur
 1. **Access the Trial Balance:**
    - Navigate to `Reports` > `Standard` > `Accountant Reports`
    - Select `Trial Balance` and use `All Dates`
-   - Click `Run Report` to view current balances.
+   - Click `Run Report` to view current balances
 
 2. **Review Customer Balances:**
    - Navigate to `Reports` > `Standard` > `Who Owes You`
-   - Select `Customer Balance Detail` to view existing balances.
+   - Select `Customer Balance Detail` to view existing balances
 
 3. **Input Invoices:**
    - Go to `Sales` > `Invoices` >  `New Invoice`
    - Enter invoice details:
-     - Select the customer.
-     - Choose the date of the invoice.
-     - Enter the product/service, quantity, and rate.
-   - Click `Save and Close` to record each invoice.
+     - Select the customer
+     - Choose the date of the invoice
+     - Enter the product/service, quantity, and rate
+   - Click `Save and Close` to record each invoice
 
-1. **Verify Final Balances:**
-   - Reopen the `Trial Balance` report and ensure the total balances match the expected amounts.
-   - Check the `Customer Balance Detail` report to confirm the individual customer balances are correct.
+4. **Verify Final Balances:**
+   - Reopen the `Trial Balance` report and ensure the total balances match the expected amounts
+   - Check the `Customer Balance Detail` report to confirm the individual customer balances are correct
 
-2. **Correct Errors (if needed):**
-   - If discrepancies are found, review the invoice entries and correct any mistakes using QBO's edit functions.
+5. **Correct Errors (if needed):**
+   - If discrepancies are found, review the invoice entries and correct any mistakes using QBO's edit functions
 
 
 ---
@@ -210,27 +207,27 @@ The text provides guidance on how to input invoices into QBO and check the accur
 1. **Access the Trial Balance:**
    - Navigate to `Reports` > `Standard` > `Accountant Reports`
    - Select `Trial Balance` and adjust the date range to `All Dates`
-   - Click `Run Report` to view current balances.
+   - Click `Run Report` to view current balances
 
 2. **Review Customer Balances:**
    - Navigate to `Reports` > `Standard` > `Who Owes You`
-   - Select `Customer Balance Detail` to view existing balances.
+   - Select `Customer Balance Detail` to view existing balances
 
 3. **Input Invoices:**
    - Go to `Sales` > `Invoices`
    - Click `New Invoice`
    - Enter invoice details:
-     - Select the customer.
-     - Choose the date of the invoice.
-     - Enter the product/service, quantity, and rate.
-   - Click `Save and Close` to record each invoice.
+     - Select the customer
+     - Choose the date of the invoice
+     - Enter the product/service, quantity, and rate
+   - Click `Save and Close` to record each invoice
 
 4. **Verify Final Balances:**
-   - Reopen the `Trial Balance` report and ensure the total balances match the expected amounts.
-   - Check the `Customer Balance Detail` report to confirm the individual customer balances are correct.
+   - Reopen the `Trial Balance` report and ensure the total balances match the expected amounts
+   - Check the `Customer Balance Detail` report to confirm the individual customer balances are correct
 
 5. **Correct Errors (if needed):**
-   - If discrepancies are found, review the invoice entries and correct any mistakes using QBO's edit functions.
+   - If discrepancies are found, review the invoice entries and correct any mistakes using QBO's edit functions
 
 ---
 
@@ -242,19 +239,19 @@ Record invoice payments, emphasizing the impact on both the general ledger (i.e.
 
 1. **Review Trial Balance:**
    - Go to `Reports` > `Standard` > `Accountant Reports`
-   - Select `Trial Balance` and view current balances before recording the payment.
+   - Select `Trial Balance` and view current balances before recording the payment
 
 2. **Record Invoice Payment:**
    - Click the `+ New` button and select `Receive Payment` under the Customers section.
-   - Choose the customer who made the payment.
-   - Enter the payment date (e.g., January 9).
-   - For a direct deposit, enter a reference number (e.g., `111111`).
+   - Choose the customer who made the payment
+   - Enter the payment date (e.g., January 9)
+   - For a direct deposit, enter a reference number (e.g., `111111`)
 
 3. **Apply Payment to Invoice:**
-   - Enter the payment amount (e.g., $3,000).
-   - Ensure QuickBooks automatically matches the payment to the correct invoice.
-   - If necessary, manually apply the payment by selecting the corresponding invoice.
-   - Click `Save and Close` to record the transaction.
+   - Enter the payment amount (e.g., $3,000)
+   - Ensure QuickBooks automatically matches the payment to the correct invoice
+   - If necessary, manually apply the payment by selecting the corresponding invoice
+   - Click `Save and Close` to record the transaction
 
 4. **Verify Trial Balance Update:**
    - Reopen the `Trial Balance` report to confirm that Accounts Receivable decreased by the payment amount, and cash increased by the same amount.
