@@ -4,15 +4,6 @@ layout: post
 ---
 
 
- <script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=2405");}
- </script>
-
-| Quickbooks Dude Videos |
-|:-:|
-| <button onclick="openWindow()">Open: Video @ 40:05</button>|
-
-
 ### Creating An Invoice, Transactions / 40:05   
 
 
@@ -22,20 +13,10 @@ layout: post
 
 See Customer Balance Detail, list of customers that owe you!
 
-
 ```
 Clara CFO Group Invoice video 
 https://www.youtube.com/watch?v=X984hQDZnik
-``
-
-<script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=X984hQDZnik");}
- </script>
-
-| Clara CFO Group Invoice video |
-|:-:|
-| <button onclick="openWindow()">Open: Invoice video</button>|
-
+```
 
 
 1. Creating an Invoice
@@ -53,7 +34,7 @@ An invoice with effect the COA of gen ledger
 Aside: Set up: Trial Balance Report
 
 
-Tools Reports / Std / Custom / Managment reports
+Tools Reports / Std / Custom / Management reports
 
 
 Reports / Std / `For my accountant` / `Trial Balance` / Star 
@@ -81,21 +62,21 @@ Reports / Std / `For my accountant` / `Trial Balance` / Star
 
 
 ## General Code: 
-(Your milage may vary.)
+(Your mileage may vary.)
 
  1000s = Assets
- 2000s = Liabilities 
+ 2000s = Liabilities  
  3000s = Equity
  4000s = Revenue
  5000s = Cost of Goods Sold
- 6000s = Payroll 
- 7000s = All other Expenses 
+ 6000s = Payroll  
+ 7000s = All other Expenses  
  8000s = Taxes and Misc
 
 
 
 
-## Reports:
+## Reports
 
 |**Creating an Invoice**: |
 |:--:|
@@ -119,26 +100,19 @@ Expenses and Vendors / 1099
 
 Employees / Times
 
-For my accountnat   / Gen.Kedger / PL / Trial Balance /Recurring Template list / Reconcialation Reports / Adjusted TB
+For my accountant   / Gen.Ledger / PL / Trial Balance /Recurring Template list / Reconciliation Reports / Adjusted TB
 
-Payroll / Employee info, act tax payable, hours tax 
+Payroll / Employee info, act tax payable, hours tax  
 
 
 
 #### Transactions (Practice) / 56:22
 
 
- <script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=3382");}
- </script>
-
-| Quickbooks Dude Videos |
-|:-:|
-| <button onclick="openWindow()">Open: Video @ 56:22</button>|
 
 1. Determine:  *Make New / Edit / Inactive*?
 
-2. **Goto** Tools/`Bookmarks`/`Bank Transactions`/`Chart of Accounts`   
+2. **Goto** Tools/`Bookmarks`/`Bank Transactions`/`Chart of Accounts`  
 
 
 |**Practice X-actions**: Tools/`Reports`/`Std`/`7`|
@@ -147,12 +121,9 @@ Payroll / Employee info, act tax payable, hours tax
 
 
 
-### Finding & Fixing Mistakes / 58:35 
+### Finding & Fixing Mistakes / 58:35
 
 
- <script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=3515");}
- </script>
 
 | Quickbooks Dude Videos |
 |:-:|
@@ -164,13 +135,8 @@ Payroll / Employee info, act tax payable, hours tax
 |![8](/assets/images/8.fixing.edit.invoices.png)|
 
 
-
 ### Deleting Transactions / 1:03:42
 
-
- <script> function openWindow()
- {window.open("https://www.youtube.com/watch?v=aoWghI3kvpc&t=3822");}
- </script>
 
 | Quickbooks Dude Videos |
 |:-:|
